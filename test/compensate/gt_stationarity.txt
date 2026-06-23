@@ -1,0 +1,26 @@
+Google Trends Stationarity Diagnostic
+============================================================
+Term: compensate
+
+Series:
+  Observations        : 1612
+  Date range          : 2022-01-01 → 2026-05-31
+  Missing values      : 0
+
+Zero / flat behavior:
+  Zero share          : 0.001
+  Zero flag           : low_zero_inflation
+  Flat share          : 0.040
+  Flat flag           : normal
+
+Level stationarity:
+{'ADF_stat': np.float64(-4.443475616620008), 'ADF_pvalue': np.float64(0.00024843724388168693), 'KPSS_stat': np.float64(1.8007784127933208), 'KPSS_pvalue': np.float64(0.01), 'stationary': False}
+
+Raw difference stationarity:
+{'ADF_stat': np.float64(-11.35221547990647), 'ADF_pvalue': np.float64(9.930931329833903e-21), 'KPSS_stat': np.float64(0.055175791499692414), 'KPSS_pvalue': np.float64(0.1), 'stationary': True}
+
+Log difference stationarity:
+{'ADF_stat': np.float64(-11.637221718655749), 'ADF_pvalue': np.float64(2.19007791434886e-21), 'KPSS_stat': np.float64(0.23777095409569388), 'KPSS_pvalue': np.float64(0.1), 'stationary': True}
+
+Selected transformation:
+log1p_transform_then_difference

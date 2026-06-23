@@ -1,0 +1,21 @@
+Google Trends Transformation Diagnostic
+============================================================
+Term: depreciation
+
+Original series:
+Observations       : 1612
+Date range         : 2022-01-01 → 2026-05-31
+Missing values     : 0
+
+Zero / flat behavior:
+Zero share         : 0.0000
+Flat share         : 0.0509
+
+Level stationarity:
+{'adf_p': np.float64(0.007527071634056688), 'kpss_p': np.float64(0.01), 'stationary': np.False_}
+
+First difference stationarity:
+{'adf_p': np.float64(2.096920574803812e-14), 'kpss_p': np.float64(0.1), 'stationary': np.True_}
+
+Log difference stationarity:
+{'adf_p': np.float64(5.624372948160932e-16), 'kpss_p': np.float64(0.1), 'stationary': np.True_}

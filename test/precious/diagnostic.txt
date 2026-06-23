@@ -1,0 +1,21 @@
+Google Trends Diagnostic — term: precious
+Period : 2022-01-01 → 2026-05-31
+Rows in stitched series : 1612
+Monthly anchor points   : 8
+
+Months with ratio outside [0.85, 1.15]  (0 found):
+
+  None — alignment is clean.
+
+Full monthly comparison:
+
+Time               monthly    daily_agg    ratio
+--------------------------------------------------
+2022-05-01            56.0       55.823    0.997
+2023-01-01            49.0       49.073    1.001
+2023-10-01            49.0       48.898    0.998
+2024-09-01            45.0       45.544    1.012
+2024-12-01            58.0       57.676    0.994
+2025-06-01            47.0       47.096    1.002
+2026-02-01            87.0       87.059    1.001
+2026-03-01            84.0       82.493    0.982

@@ -1,0 +1,26 @@
+Google Trends Stationarity Diagnostic
+============================================================
+Term: nobleman
+
+Series:
+  Observations        : 1612
+  Date range          : 2022-01-01 → 2026-05-31
+  Missing values      : 0
+
+Zero / flat behavior:
+  Zero share          : 0.278
+  Zero flag           : moderate_zero_inflation
+  Flat share          : 0.128
+  Flat flag           : normal
+
+Level stationarity:
+{'ADF_stat': np.float64(-3.9436574473537007), 'ADF_pvalue': np.float64(0.0017360398041148558), 'KPSS_stat': np.float64(1.7780694918693507), 'KPSS_pvalue': np.float64(0.01), 'stationary': False}
+
+Raw difference stationarity:
+{'ADF_stat': np.float64(-14.912511588483952), 'ADF_pvalue': np.float64(1.4513516743728965e-27), 'KPSS_stat': np.float64(0.03150948079249707), 'KPSS_pvalue': np.float64(0.1), 'stationary': True}
+
+Log difference stationarity:
+{'ADF_stat': np.float64(-15.517278069891498), 'ADF_pvalue': np.float64(2.307617158689819e-28), 'KPSS_stat': np.float64(0.033773710642518454), 'KPSS_pvalue': np.float64(0.1), 'stationary': True}
+
+Selected transformation:
+log1p_transform_then_difference

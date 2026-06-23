@@ -1,0 +1,21 @@
+Google Trends Diagnostic — term: steal
+Period : 2022-01-01 → 2026-05-31
+Rows in stitched series : 1612
+Monthly anchor points   : 8
+
+Months with ratio outside [0.85, 1.15]  (0 found):
+
+  None — alignment is clean.
+
+Full monthly comparison:
+
+Time               monthly    daily_agg    ratio
+--------------------------------------------------
+2022-05-01            24.0       23.813    0.992
+2023-01-01            21.0       21.076    1.004
+2023-10-01            26.0       25.936    0.998
+2024-09-01            24.0       24.080    1.003
+2024-12-01            24.0       23.773    0.991
+2025-06-01            27.0       27.436    1.016
+2026-02-01            61.0       57.569    0.944
+2026-03-01            48.0       51.747    1.078

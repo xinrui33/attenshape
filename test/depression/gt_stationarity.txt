@@ -1,0 +1,26 @@
+Google Trends Stationarity Diagnostic
+============================================================
+Term: depression
+
+Series:
+  Observations        : 1612
+  Date range          : 2022-01-01 → 2026-05-31
+  Missing values      : 0
+
+Zero / flat behavior:
+  Zero share          : 0.000
+  Zero flag           : low_zero_inflation
+  Flat share          : 0.008
+  Flat flag           : normal
+
+Level stationarity:
+{'ADF_stat': np.float64(-3.017061076763414), 'ADF_pvalue': np.float64(0.0333315379548385), 'KPSS_stat': np.float64(0.5314785537833125), 'KPSS_pvalue': np.float64(0.03457690230105573), 'stationary': False}
+
+Raw difference stationarity:
+{'ADF_stat': np.float64(-12.704192792224928), 'ADF_pvalue': np.float64(1.0638367028037843e-23), 'KPSS_stat': np.float64(0.041061003181872106), 'KPSS_pvalue': np.float64(0.1), 'stationary': True}
+
+Log difference stationarity:
+{'ADF_stat': np.float64(-12.877381168505597), 'ADF_pvalue': np.float64(4.7377211652153086e-24), 'KPSS_stat': np.float64(0.04670827658052737), 'KPSS_pvalue': np.float64(0.1), 'stationary': True}
+
+Selected transformation:
+log1p_transform_then_difference

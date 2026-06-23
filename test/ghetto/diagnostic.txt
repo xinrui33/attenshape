@@ -1,0 +1,21 @@
+Google Trends Diagnostic — term: ghetto
+Period : 2022-01-01 → 2026-05-31
+Rows in stitched series : 1612
+Monthly anchor points   : 8
+
+Months with ratio outside [0.85, 1.15]  (0 found):
+
+  None — alignment is clean.
+
+Full monthly comparison:
+
+Time               monthly    daily_agg    ratio
+--------------------------------------------------
+2022-05-01            84.0       83.312    0.992
+2023-01-01            71.0       71.273    1.004
+2023-10-01            70.0       69.856    0.998
+2024-09-01            60.0       60.693    1.012
+2024-12-01            75.0       75.351    1.005
+2025-06-01            67.0       67.288    1.004
+2026-02-01            80.0       73.489    0.919
+2026-03-01            64.0       64.207    1.003

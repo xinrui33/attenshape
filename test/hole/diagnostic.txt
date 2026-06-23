@@ -1,0 +1,21 @@
+Google Trends Diagnostic — term: hole
+Period : 2022-01-01 → 2026-05-31
+Rows in stitched series : 1612
+Monthly anchor points   : 8
+
+Months with ratio outside [0.85, 1.15]  (0 found):
+
+  None — alignment is clean.
+
+Full monthly comparison:
+
+Time               monthly    daily_agg    ratio
+--------------------------------------------------
+2022-05-01            58.0       58.265    1.005
+2023-01-01            53.0       53.465    1.009
+2023-10-01            60.0       59.965    0.999
+2024-09-01            62.0       61.872    0.998
+2024-12-01            60.0       59.742    0.996
+2025-06-01            70.0       70.137    1.002
+2026-02-01            78.0       76.484    0.981
+2026-03-01            74.0       73.065    0.987

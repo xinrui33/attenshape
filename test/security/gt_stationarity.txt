@@ -1,0 +1,26 @@
+Google Trends Stationarity Diagnostic
+============================================================
+Term: security
+
+Series:
+  Observations        : 1612
+  Date range          : 2022-01-01 → 2026-05-31
+  Missing values      : 0
+
+Zero / flat behavior:
+  Zero share          : 0.000
+  Zero flag           : low_zero_inflation
+  Flat share          : 0.004
+  Flat flag           : normal
+
+Level stationarity:
+{'ADF_stat': np.float64(-1.2787721236219836), 'ADF_pvalue': np.float64(0.6388272777666669), 'KPSS_stat': np.float64(3.5039938269917816), 'KPSS_pvalue': np.float64(0.01), 'stationary': False}
+
+Raw difference stationarity:
+{'ADF_stat': np.float64(-13.329874027810561), 'ADF_pvalue': np.float64(6.214097983991383e-25), 'KPSS_stat': np.float64(0.02292900579592614), 'KPSS_pvalue': np.float64(0.1), 'stationary': True}
+
+Log difference stationarity:
+{'ADF_stat': np.float64(-13.317812682099111), 'ADF_pvalue': np.float64(6.5493801580734135e-25), 'KPSS_stat': np.float64(0.021628372729745104), 'KPSS_pvalue': np.float64(0.1), 'stationary': True}
+
+Selected transformation:
+log1p_transform_then_difference

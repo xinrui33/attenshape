@@ -1,0 +1,21 @@
+Google Trends Transformation Diagnostic
+============================================================
+Term: valuable
+
+Original series:
+Observations       : 1612
+Date range         : 2022-01-01 → 2026-05-31
+Missing values     : 0
+
+Zero / flat behavior:
+Zero share         : 0.0000
+Flat share         : 0.0912
+
+Level stationarity:
+{'adf_p': np.float64(0.14579957202511667), 'kpss_p': np.float64(0.01), 'stationary': np.False_}
+
+First difference stationarity:
+{'adf_p': np.float64(6.002324341876512e-25), 'kpss_p': np.float64(0.1), 'stationary': np.True_}
+
+Log difference stationarity:
+{'adf_p': np.float64(1.3795152906410673e-20), 'kpss_p': np.float64(0.1), 'stationary': np.True_}

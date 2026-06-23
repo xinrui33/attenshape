@@ -1,0 +1,23 @@
+Google Trends Diagnostic — term: beneficiary
+Period : 2022-01-01 → 2026-05-31
+Rows in stitched series : 1612
+Monthly anchor points   : 8
+
+Months with ratio outside [0.85, 1.15]  (1 found):
+
+Time               monthly    daily_agg    ratio
+--------------------------------------------------
+2026-03-01            90.0       57.109    0.635
+
+Full monthly comparison:
+
+Time               monthly    daily_agg    ratio
+--------------------------------------------------
+2022-05-01            52.0       51.380    0.988
+2023-01-01            47.0       47.206    1.004
+2023-10-01            51.0       50.919    0.998
+2024-09-01            50.0       50.661    1.013
+2024-12-01            56.0       56.051    1.001
+2025-06-01            64.0       63.959    0.999
+2026-02-01            83.0       80.951    0.975
+2026-03-01            90.0       57.109    0.635  ← !

@@ -1,0 +1,21 @@
+Google Trends Diagnostic — term: riches
+Period : 2022-01-01 → 2026-05-31
+Rows in stitched series : 1612
+Monthly anchor points   : 8
+
+Months with ratio outside [0.85, 1.15]  (0 found):
+
+  None — alignment is clean.
+
+Full monthly comparison:
+
+Time               monthly    daily_agg    ratio
+--------------------------------------------------
+2022-05-01            26.0       26.166    1.006
+2023-01-01            40.0       39.768    0.994
+2023-10-01            26.0       25.902    0.996
+2024-09-01            29.0       28.826    0.994
+2024-12-01            29.0       29.125    1.004
+2025-06-01            32.0       31.981    0.999
+2026-02-01            35.0       35.030    1.001
+2026-03-01            33.0       33.920    1.028

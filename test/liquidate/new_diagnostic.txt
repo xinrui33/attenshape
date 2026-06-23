@@ -1,0 +1,26 @@
+Google Trends Weekly Anchor Diagnostic
+=======================================================
+Term: liquidate
+Date range: 2022-01-01 → 2026-05-31
+
+Daily series integrity:
+  Daily observations       : 1612
+  Missing daily values     : 0
+  Minimum value            : 0.000
+  Maximum value            : 236.353
+
+Weekly anchor alignment:
+  Anchor weeks compared    : 231
+  Median ratio             : 1.000
+  Median abs deviation     : 0.000
+  Maximum deviation        : 1.000
+
+Quality flags:
+  Mild abnormal weeks (0.85-1.15): 1 (0.4%)
+  Moderate abnormal weeks (0.75-1.25): 1 (0.4%)
+  Severe abnormal weeks (0.50-2.00): 1 (0.4%)
+Weeks outside mild threshold:
+
+Time                anchor      fixed    ratio
+--------------------------------------------------
+2022-01-02           43.00       0.00    0.000

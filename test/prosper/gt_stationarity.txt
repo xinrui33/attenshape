@@ -1,0 +1,26 @@
+Google Trends Stationarity Diagnostic
+============================================================
+Term: prosper
+
+Series:
+  Observations        : 1612
+  Date range          : 2022-01-01 → 2026-05-31
+  Missing values      : 0
+
+Zero / flat behavior:
+  Zero share          : 0.000
+  Zero flag           : low_zero_inflation
+  Flat share          : 0.003
+  Flat flag           : normal
+
+Level stationarity:
+{'ADF_stat': np.float64(-4.535651874366476), 'ADF_pvalue': np.float64(0.000169441355907105), 'KPSS_stat': np.float64(2.7786022395970185), 'KPSS_pvalue': np.float64(0.01), 'stationary': False}
+
+Raw difference stationarity:
+{'ADF_stat': np.float64(-12.658243414389588), 'ADF_pvalue': np.float64(1.3222073189969479e-23), 'KPSS_stat': np.float64(0.03767093811631088), 'KPSS_pvalue': np.float64(0.1), 'stationary': True}
+
+Log difference stationarity:
+{'ADF_stat': np.float64(-12.751421920636979), 'ADF_pvalue': np.float64(8.51821684481269e-24), 'KPSS_stat': np.float64(0.0346637697129218), 'KPSS_pvalue': np.float64(0.1), 'stationary': True}
+
+Selected transformation:
+log1p_transform_then_difference

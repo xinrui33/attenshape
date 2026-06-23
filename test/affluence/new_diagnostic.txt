@@ -1,0 +1,41 @@
+Google Trends Weekly Anchor Diagnostic
+=======================================================
+Term: affluence
+Date range: 2022-01-01 → 2026-05-31
+
+Daily series integrity:
+  Daily observations       : 1612
+  Missing daily values     : 0
+  Minimum value            : 0.000
+  Maximum value            : 315.000
+
+Weekly anchor alignment:
+  Anchor weeks compared    : 231
+  Median ratio             : 1.000
+  Median abs deviation     : 0.000
+  Maximum deviation        : 1.000
+
+Quality flags:
+  Mild abnormal weeks (0.85-1.15): 16 (6.9%)
+  Moderate abnormal weeks (0.75-1.25): 16 (6.9%)
+  Severe abnormal weeks (0.50-2.00): 16 (6.9%)
+Weeks outside mild threshold:
+
+Time                anchor      fixed    ratio
+--------------------------------------------------
+2022-01-02           36.00       0.00    0.000
+2023-01-01           38.00       0.00    0.000
+2023-06-25           33.00       0.00    0.000
+2023-07-09           28.00       0.00    0.000
+2023-07-30           27.00       0.00    0.000
+2023-08-06           28.00       0.00    0.000
+2023-08-13           41.00       0.00    0.000
+2024-07-07           20.00       0.00    0.000
+2024-07-14           23.00       0.00    0.000
+2024-12-01           52.00       0.00    0.000
+2024-12-29           22.00       0.00    0.000
+2025-01-05           50.00       0.00    0.000
+2025-06-22           32.00       0.00    0.000
+2025-07-13           36.00       0.00    0.000
+2025-12-28           32.00       0.00    0.000
+2026-01-04           53.00       0.00    0.000

@@ -1,0 +1,21 @@
+Google Trends Transformation Diagnostic
+============================================================
+Term: shortage
+
+Original series:
+Observations       : 1612
+Date range         : 2022-01-01 → 2026-05-31
+Missing values     : 0
+
+Zero / flat behavior:
+Zero share         : 0.0000
+Flat share         : 0.1036
+
+Level stationarity:
+{'adf_p': np.float64(0.023371965118958754), 'kpss_p': np.float64(0.01), 'stationary': np.False_}
+
+First difference stationarity:
+{'adf_p': np.float64(4.530868079773047e-23), 'kpss_p': np.float64(0.1), 'stationary': np.True_}
+
+Log difference stationarity:
+{'adf_p': np.float64(1.4743576478807638e-19), 'kpss_p': np.float64(0.1), 'stationary': np.True_}

@@ -1,0 +1,26 @@
+Google Trends Stationarity Diagnostic
+============================================================
+Term: recession
+
+Series:
+  Observations        : 1612
+  Date range          : 2022-01-01 → 2026-05-31
+  Missing values      : 0
+
+Zero / flat behavior:
+  Zero share          : 0.000
+  Zero flag           : low_zero_inflation
+  Flat share          : 0.012
+  Flat flag           : normal
+
+Level stationarity:
+{'ADF_stat': np.float64(-3.821037631349611), 'ADF_pvalue': np.float64(0.0026992595803987385), 'KPSS_stat': np.float64(1.1307988615782145), 'KPSS_pvalue': np.float64(0.01), 'stationary': False}
+
+Raw difference stationarity:
+{'ADF_stat': np.float64(-13.447965057325423), 'ADF_pvalue': np.float64(3.732472868547188e-25), 'KPSS_stat': np.float64(0.02694502621875765), 'KPSS_pvalue': np.float64(0.1), 'stationary': True}
+
+Log difference stationarity:
+{'ADF_stat': np.float64(-12.639513766038133), 'ADF_pvalue': np.float64(1.44521600246976e-23), 'KPSS_stat': np.float64(0.09537414003909225), 'KPSS_pvalue': np.float64(0.1), 'stationary': True}
+
+Selected transformation:
+log1p_transform_then_difference

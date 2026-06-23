@@ -1,0 +1,26 @@
+Google Trends Stationarity Diagnostic
+============================================================
+Term: treasure
+
+Series:
+  Observations        : 1612
+  Date range          : 2022-01-01 → 2026-05-31
+  Missing values      : 0
+
+Zero / flat behavior:
+  Zero share          : 0.000
+  Zero flag           : low_zero_inflation
+  Flat share          : 0.019
+  Flat flag           : normal
+
+Level stationarity:
+{'ADF_stat': np.float64(-4.461888940164822), 'ADF_pvalue': np.float64(0.000230285876758075), 'KPSS_stat': np.float64(0.7832477813950053), 'KPSS_pvalue': np.float64(0.01), 'stationary': False}
+
+Raw difference stationarity:
+{'ADF_stat': np.float64(-10.542712560883464), 'ADF_pvalue': np.float64(8.56767089035731e-19), 'KPSS_stat': np.float64(0.04461412142809729), 'KPSS_pvalue': np.float64(0.1), 'stationary': True}
+
+Log difference stationarity:
+{'ADF_stat': np.float64(-10.6206071252256), 'ADF_pvalue': np.float64(5.528070526446313e-19), 'KPSS_stat': np.float64(0.043574589712981275), 'KPSS_pvalue': np.float64(0.1), 'stationary': True}
+
+Selected transformation:
+log1p_transform_then_difference

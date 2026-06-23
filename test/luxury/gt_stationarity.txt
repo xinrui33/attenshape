@@ -1,0 +1,26 @@
+Google Trends Stationarity Diagnostic
+============================================================
+Term: luxury
+
+Series:
+  Observations        : 1612
+  Date range          : 2022-01-01 → 2026-05-31
+  Missing values      : 0
+
+Zero / flat behavior:
+  Zero share          : 0.000
+  Zero flag           : low_zero_inflation
+  Flat share          : 0.006
+  Flat flag           : normal
+
+Level stationarity:
+{'ADF_stat': np.float64(-0.20948914341516975), 'ADF_pvalue': np.float64(0.9373810442488242), 'KPSS_stat': np.float64(3.4026363962697124), 'KPSS_pvalue': np.float64(0.01), 'stationary': False}
+
+Raw difference stationarity:
+{'ADF_stat': np.float64(-11.456747175206463), 'ADF_pvalue': np.float64(5.682192567415781e-21), 'KPSS_stat': np.float64(0.295696279484442), 'KPSS_pvalue': np.float64(0.1), 'stationary': True}
+
+Log difference stationarity:
+{'ADF_stat': np.float64(-10.96424873658797), 'ADF_pvalue': np.float64(8.179379662137288e-20), 'KPSS_stat': np.float64(0.21955493011514268), 'KPSS_pvalue': np.float64(0.1), 'stationary': True}
+
+Selected transformation:
+log1p_transform_then_difference

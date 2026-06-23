@@ -1,0 +1,5 @@
+date,end_period_ts,ticker,price_close,price_open,price_high,price_low,price_mean,yes_bid_close,yes_ask_close,yes_mid_close,volume,open_interest
+2024-01-16,1705381200,FED-24MAR-T6.00,,,,,,0.0,0.01,0.005,0.0,0.0
+2024-03-06,1709701200,FED-24MAR-T6.00,0.01,0.01,0.01,0.01,0.01,0.0,0.01,0.005,1005.0,1005.0
+2024-03-17,1710648000,FED-24MAR-T6.00,0.01,0.01,0.01,0.01,0.01,0.0,0.01,0.005,102.0,1107.0
+2024-03-21,1710993600,FED-24MAR-T6.00,,,,,,0.0,0.01,0.005,0.0,1107.0

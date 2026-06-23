@@ -1,0 +1,26 @@
+Google Trends Stationarity Diagnostic
+============================================================
+Term: subsidy
+
+Series:
+  Observations        : 1612
+  Date range          : 2022-01-01 → 2026-05-31
+  Missing values      : 0
+
+Zero / flat behavior:
+  Zero share          : 0.000
+  Zero flag           : low_zero_inflation
+  Flat share          : 0.001
+  Flat flag           : normal
+
+Level stationarity:
+{'ADF_stat': np.float64(-3.0304663625458534), 'ADF_pvalue': np.float64(0.0321455273037021), 'KPSS_stat': np.float64(2.405011614561089), 'KPSS_pvalue': np.float64(0.01), 'stationary': False}
+
+Raw difference stationarity:
+{'ADF_stat': np.float64(-12.001006008241216), 'ADF_pvalue': np.float64(3.346735582000464e-22), 'KPSS_stat': np.float64(0.03468461780356919), 'KPSS_pvalue': np.float64(0.1), 'stationary': True}
+
+Log difference stationarity:
+{'ADF_stat': np.float64(-13.038013466647696), 'ADF_pvalue': np.float64(2.2718240387256994e-24), 'KPSS_stat': np.float64(0.016632125303942525), 'KPSS_pvalue': np.float64(0.1), 'stationary': True}
+
+Selected transformation:
+log1p_transform_then_difference

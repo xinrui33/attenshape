@@ -1,0 +1,26 @@
+Google Trends Stationarity Diagnostic
+============================================================
+Term: tariff
+
+Series:
+  Observations        : 1612
+  Date range          : 2022-01-01 → 2026-05-31
+  Missing values      : 0
+
+Zero / flat behavior:
+  Zero share          : 0.001
+  Zero flag           : low_zero_inflation
+  Flat share          : 0.007
+  Flat flag           : normal
+
+Level stationarity:
+{'ADF_stat': np.float64(-4.054928062533568), 'ADF_pvalue': np.float64(0.0011486854951380672), 'KPSS_stat': np.float64(2.790330684631333), 'KPSS_pvalue': np.float64(0.01), 'stationary': False}
+
+Raw difference stationarity:
+{'ADF_stat': np.float64(-13.643896331223202), 'ADF_pvalue': np.float64(1.6334288697573507e-25), 'KPSS_stat': np.float64(0.024644540073821258), 'KPSS_pvalue': np.float64(0.1), 'stationary': True}
+
+Log difference stationarity:
+{'ADF_stat': np.float64(-12.671571307124571), 'ADF_pvalue': np.float64(1.2412499004122592e-23), 'KPSS_stat': np.float64(0.03078533965226224), 'KPSS_pvalue': np.float64(0.1), 'stationary': True}
+
+Selected transformation:
+log1p_transform_then_difference

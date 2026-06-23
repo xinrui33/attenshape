@@ -1,0 +1,23 @@
+Google Trends Diagnostic — term: entrepreneurial
+Period : 2022-01-01 → 2026-05-31
+Rows in stitched series : 1612
+Monthly anchor points   : 8
+
+Months with ratio outside [0.85, 1.15]  (1 found):
+
+Time               monthly    daily_agg    ratio
+--------------------------------------------------
+2026-03-01            44.0       29.623    0.673
+
+Full monthly comparison:
+
+Time               monthly    daily_agg    ratio
+--------------------------------------------------
+2022-05-01            23.0       22.411    0.974
+2023-01-01            16.0       16.497    1.031
+2023-10-01            27.0       27.073    1.003
+2024-09-01            36.0       36.906    1.025
+2024-12-01            24.0       23.581    0.983
+2025-06-01            19.0       19.346    1.018
+2026-02-01            79.0       72.656    0.920
+2026-03-01            44.0       29.623    0.673  ← !

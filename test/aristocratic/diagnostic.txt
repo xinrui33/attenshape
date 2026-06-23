@@ -1,0 +1,21 @@
+Google Trends Diagnostic — term: aristocratic
+Period : 2022-01-01 → 2026-05-31
+Rows in stitched series : 1612
+Monthly anchor points   : 8
+
+Months with ratio outside [0.85, 1.15]  (0 found):
+
+  None — alignment is clean.
+
+Full monthly comparison:
+
+Time               monthly    daily_agg    ratio
+--------------------------------------------------
+2022-05-01            15.0       14.705    0.980
+2023-01-01             9.0        9.102    1.011
+2023-10-01            19.0       18.948    0.997
+2024-09-01            14.0       15.809    1.129
+2024-12-01            19.0       18.790    0.989
+2025-06-01            10.0        9.932    0.993
+2026-02-01           100.0       88.651    0.887
+2026-03-01            34.0       29.666    0.873

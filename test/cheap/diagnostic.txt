@@ -1,0 +1,21 @@
+Google Trends Diagnostic — term: cheap
+Period : 2022-01-01 → 2026-05-31
+Rows in stitched series : 1612
+Monthly anchor points   : 8
+
+Months with ratio outside [0.85, 1.15]  (0 found):
+
+  None — alignment is clean.
+
+Full monthly comparison:
+
+Time               monthly    daily_agg    ratio
+--------------------------------------------------
+2022-05-01            80.0       80.203    1.003
+2023-01-01            75.0       75.053    1.001
+2023-10-01            68.0       67.832    0.998
+2024-09-01            62.0       63.255    1.020
+2024-12-01            70.0       69.709    0.996
+2025-06-01            75.0       74.582    0.994
+2026-02-01            77.0       82.261    1.068
+2026-03-01            94.0       96.830    1.030

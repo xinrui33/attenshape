@@ -1,0 +1,26 @@
+Google Trends Stationarity Diagnostic
+============================================================
+Term: beggar
+
+Series:
+  Observations        : 1612
+  Date range          : 2022-01-01 → 2026-05-31
+  Missing values      : 0
+
+Zero / flat behavior:
+  Zero share          : 0.002
+  Zero flag           : low_zero_inflation
+  Flat share          : 0.002
+  Flat flag           : normal
+
+Level stationarity:
+{'ADF_stat': np.float64(-3.737021340490715), 'ADF_pvalue': np.float64(0.003621545548894981), 'KPSS_stat': np.float64(3.5251367188815), 'KPSS_pvalue': np.float64(0.01), 'stationary': False}
+
+Raw difference stationarity:
+{'ADF_stat': np.float64(-17.73556168492812), 'ADF_pvalue': np.float64(3.419945804150348e-30), 'KPSS_stat': np.float64(0.020331912218648662), 'KPSS_pvalue': np.float64(0.1), 'stationary': True}
+
+Log difference stationarity:
+{'ADF_stat': np.float64(-15.750839851710705), 'ADF_pvalue': np.float64(1.223882939892701e-28), 'KPSS_stat': np.float64(0.06264423248866148), 'KPSS_pvalue': np.float64(0.1), 'stationary': True}
+
+Selected transformation:
+log1p_transform_then_difference

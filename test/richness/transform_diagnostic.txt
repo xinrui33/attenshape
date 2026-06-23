@@ -1,0 +1,21 @@
+Google Trends Transformation Diagnostic
+============================================================
+Term: richness
+
+Original series:
+Observations       : 1612
+Date range         : 2022-01-01 → 2026-05-31
+Missing values     : 0
+
+Zero / flat behavior:
+Zero share         : 0.2060
+Flat share         : 0.1334
+
+Level stationarity:
+{'adf_p': np.float64(1.7212809236234664e-05), 'kpss_p': np.float64(0.01), 'stationary': np.False_}
+
+First difference stationarity:
+{'adf_p': np.float64(5.266402437397409e-15), 'kpss_p': np.float64(0.1), 'stationary': np.True_}
+
+Log difference stationarity:
+{'adf_p': np.float64(3.974914473602262e-23), 'kpss_p': np.float64(0.1), 'stationary': np.True_}

@@ -1,0 +1,21 @@
+Google Trends Diagnostic — term: treasure
+Period : 2022-01-01 → 2026-05-31
+Rows in stitched series : 1612
+Monthly anchor points   : 8
+
+Months with ratio outside [0.85, 1.15]  (0 found):
+
+  None — alignment is clean.
+
+Full monthly comparison:
+
+Time               monthly    daily_agg    ratio
+--------------------------------------------------
+2022-05-01            73.0       73.332    1.005
+2023-01-01            95.0       92.028    0.969
+2023-10-01            65.0       64.930    0.999
+2024-09-01            70.0       69.516    0.993
+2024-12-01            72.0       72.001    1.000
+2025-06-01            73.0       73.527    1.007
+2026-02-01            84.0       78.758    0.938
+2026-03-01            73.0       76.643    1.050

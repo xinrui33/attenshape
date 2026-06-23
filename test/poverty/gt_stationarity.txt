@@ -1,0 +1,26 @@
+Google Trends Stationarity Diagnostic
+============================================================
+Term: poverty
+
+Series:
+  Observations        : 1612
+  Date range          : 2022-01-01 → 2026-05-31
+  Missing values      : 0
+
+Zero / flat behavior:
+  Zero share          : 0.000
+  Zero flag           : low_zero_inflation
+  Flat share          : 0.006
+  Flat flag           : normal
+
+Level stationarity:
+{'ADF_stat': np.float64(-3.559714729427827), 'ADF_pvalue': np.float64(0.006579579958683676), 'KPSS_stat': np.float64(0.8765912847118436), 'KPSS_pvalue': np.float64(0.01), 'stationary': False}
+
+Raw difference stationarity:
+{'ADF_stat': np.float64(-11.415406481364968), 'ADF_pvalue': np.float64(7.082452389844437e-21), 'KPSS_stat': np.float64(0.02399097114241447), 'KPSS_pvalue': np.float64(0.1), 'stationary': True}
+
+Log difference stationarity:
+{'ADF_stat': np.float64(-11.84038119457326), 'ADF_pvalue': np.float64(7.614454624445391e-22), 'KPSS_stat': np.float64(0.01891549974641079), 'KPSS_pvalue': np.float64(0.1), 'stationary': True}
+
+Selected transformation:
+log1p_transform_then_difference

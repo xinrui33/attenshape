@@ -1,0 +1,26 @@
+Google Trends Stationarity Diagnostic
+============================================================
+Term: vagrant
+
+Series:
+  Observations        : 1612
+  Date range          : 2022-01-01 → 2026-05-31
+  Missing values      : 0
+
+Zero / flat behavior:
+  Zero share          : 0.001
+  Zero flag           : low_zero_inflation
+  Flat share          : 0.003
+  Flat flag           : normal
+
+Level stationarity:
+{'ADF_stat': np.float64(-4.244078775014833), 'ADF_pvalue': np.float64(0.0005544011894104825), 'KPSS_stat': np.float64(3.1710958709315213), 'KPSS_pvalue': np.float64(0.01), 'stationary': False}
+
+Raw difference stationarity:
+{'ADF_stat': np.float64(-13.406933744342446), 'ADF_pvalue': np.float64(4.4513283992418965e-25), 'KPSS_stat': np.float64(0.15536890033715306), 'KPSS_pvalue': np.float64(0.1), 'stationary': True}
+
+Log difference stationarity:
+{'ADF_stat': np.float64(-13.75815616885786), 'ADF_pvalue': np.float64(1.0203531710418916e-25), 'KPSS_stat': np.float64(0.04086814042260427), 'KPSS_pvalue': np.float64(0.1), 'stationary': True}
+
+Selected transformation:
+log1p_transform_then_difference

@@ -1,0 +1,21 @@
+Google Trends Transformation Diagnostic
+============================================================
+Term: beggar
+
+Original series:
+Observations       : 1612
+Date range         : 2022-01-01 → 2026-05-31
+Missing values     : 0
+
+Zero / flat behavior:
+Zero share         : 0.0025
+Flat share         : 0.0341
+
+Level stationarity:
+{'adf_p': np.float64(0.0028246369259294773), 'kpss_p': np.float64(0.01), 'stationary': np.False_}
+
+First difference stationarity:
+{'adf_p': np.float64(2.0229193496180382e-30), 'kpss_p': np.float64(0.1), 'stationary': np.True_}
+
+Log difference stationarity:
+{'adf_p': np.float64(8.164556807860845e-28), 'kpss_p': np.float64(0.1), 'stationary': np.True_}

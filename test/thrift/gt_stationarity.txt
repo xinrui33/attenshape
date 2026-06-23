@@ -1,0 +1,26 @@
+Google Trends Stationarity Diagnostic
+============================================================
+Term: thrift
+
+Series:
+  Observations        : 1612
+  Date range          : 2022-01-01 → 2026-05-31
+  Missing values      : 0
+
+Zero / flat behavior:
+  Zero share          : 0.000
+  Zero flag           : low_zero_inflation
+  Flat share          : 0.012
+  Flat flag           : normal
+
+Level stationarity:
+{'ADF_stat': np.float64(-5.296311650220947), 'ADF_pvalue': np.float64(5.572806857286374e-06), 'KPSS_stat': np.float64(0.3266594886963771), 'KPSS_pvalue': np.float64(0.1), 'stationary': True}
+
+Raw difference stationarity:
+{'ADF_stat': np.float64(-11.43506269789371), 'ADF_pvalue': np.float64(6.377629078000476e-21), 'KPSS_stat': np.float64(0.01323962137055842), 'KPSS_pvalue': np.float64(0.1), 'stationary': True}
+
+Log difference stationarity:
+{'ADF_stat': np.float64(-10.85440898935596), 'ADF_pvalue': np.float64(1.5003122921882123e-19), 'KPSS_stat': np.float64(0.013546936985132178), 'KPSS_pvalue': np.float64(0.1), 'stationary': True}
+
+Selected transformation:
+log1p_transform_then_difference

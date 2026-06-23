@@ -1,0 +1,26 @@
+Google Trends Stationarity Diagnostic
+============================================================
+Term: segregation
+
+Series:
+  Observations        : 1612
+  Date range          : 2022-01-01 → 2026-05-31
+  Missing values      : 0
+
+Zero / flat behavior:
+  Zero share          : 0.000
+  Zero flag           : low_zero_inflation
+  Flat share          : 0.004
+  Flat flag           : normal
+
+Level stationarity:
+{'ADF_stat': np.float64(-4.688064092070475), 'ADF_pvalue': np.float64(8.860646833805795e-05), 'KPSS_stat': np.float64(0.28731870087862393), 'KPSS_pvalue': np.float64(0.1), 'stationary': True}
+
+Raw difference stationarity:
+{'ADF_stat': np.float64(-11.354466351810153), 'ADF_pvalue': np.float64(9.811805401684836e-21), 'KPSS_stat': np.float64(0.023880500177279475), 'KPSS_pvalue': np.float64(0.1), 'stationary': True}
+
+Log difference stationarity:
+{'ADF_stat': np.float64(-11.35440210953901), 'ADF_pvalue': np.float64(9.815185218796712e-21), 'KPSS_stat': np.float64(0.025527470090799236), 'KPSS_pvalue': np.float64(0.1), 'stationary': True}
+
+Selected transformation:
+log1p_transform_then_difference

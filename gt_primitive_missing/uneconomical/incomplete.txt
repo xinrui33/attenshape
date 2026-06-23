@@ -1,0 +1,6 @@
+term: uneconomical
+status: incomplete
+reason: 1 chunk(s) failed to download
+
+failed chunks:
+2022-08-29 2023-05-24

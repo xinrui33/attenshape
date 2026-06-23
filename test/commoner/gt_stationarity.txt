@@ -1,0 +1,26 @@
+Google Trends Stationarity Diagnostic
+============================================================
+Term: commoner
+
+Series:
+  Observations        : 1612
+  Date range          : 2022-01-01 → 2026-05-31
+  Missing values      : 0
+
+Zero / flat behavior:
+  Zero share          : 0.042
+  Zero flag           : low_zero_inflation
+  Flat share          : 0.012
+  Flat flag           : normal
+
+Level stationarity:
+{'ADF_stat': np.float64(-6.02840935746028), 'ADF_pvalue': np.float64(1.4373462541020016e-07), 'KPSS_stat': np.float64(0.5665067958165029), 'KPSS_pvalue': np.float64(0.026687658599886734), 'stationary': False}
+
+Raw difference stationarity:
+{'ADF_stat': np.float64(-12.583863972005126), 'ADF_pvalue': np.float64(1.8845584004975047e-23), 'KPSS_stat': np.float64(0.08580105304996896), 'KPSS_pvalue': np.float64(0.1), 'stationary': True}
+
+Log difference stationarity:
+{'ADF_stat': np.float64(-14.413879580351542), 'ADF_pvalue': np.float64(8.119731099685911e-27), 'KPSS_stat': np.float64(0.09511717685229704), 'KPSS_pvalue': np.float64(0.1), 'stationary': True}
+
+Selected transformation:
+log1p_transform_then_difference

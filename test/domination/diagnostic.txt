@@ -1,0 +1,21 @@
+Google Trends Diagnostic — term: domination
+Period : 2022-01-01 → 2026-05-31
+Rows in stitched series : 1612
+Monthly anchor points   : 8
+
+Months with ratio outside [0.85, 1.15]  (0 found):
+
+  None — alignment is clean.
+
+Full monthly comparison:
+
+Time               monthly    daily_agg    ratio
+--------------------------------------------------
+2022-05-01            81.0       80.250    0.991
+2023-01-01            52.0       52.483    1.009
+2023-10-01            60.0       59.859    0.998
+2024-09-01            58.0       57.904    0.998
+2024-12-01            58.0       58.121    1.002
+2025-06-01            58.0       58.159    1.003
+2026-02-01            97.0       91.581    0.944
+2026-03-01            75.0       64.292    0.857

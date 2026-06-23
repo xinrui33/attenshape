@@ -1,0 +1,21 @@
+Google Trends Transformation Diagnostic
+============================================================
+Term: entrepreneurial
+
+Original series:
+Observations       : 1612
+Date range         : 2022-01-01 → 2026-05-31
+Missing values     : 0
+
+Zero / flat behavior:
+Zero share         : 0.0081
+Flat share         : 0.0372
+
+Level stationarity:
+{'adf_p': np.float64(0.0008675357649610404), 'kpss_p': np.float64(0.01), 'stationary': np.False_}
+
+First difference stationarity:
+{'adf_p': np.float64(3.1632170488194136e-16), 'kpss_p': np.float64(0.1), 'stationary': np.True_}
+
+Log difference stationarity:
+{'adf_p': np.float64(1.1587130028948746e-18), 'kpss_p': np.float64(0.1), 'stationary': np.True_}

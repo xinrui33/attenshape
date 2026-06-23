@@ -1,0 +1,21 @@
+Google Trends Transformation Diagnostic
+============================================================
+Term: betrothal
+
+Original series:
+Observations       : 1612
+Date range         : 2022-01-01 → 2026-05-31
+Missing values     : 0
+
+Zero / flat behavior:
+Zero share         : 0.8672
+Flat share         : 0.7636
+
+Level stationarity:
+{'adf_p': np.float64(2.2122967114605196e-07), 'kpss_p': np.float64(0.01), 'stationary': np.False_}
+
+First difference stationarity:
+{'adf_p': np.float64(5.074118543961363e-26), 'kpss_p': np.float64(0.1), 'stationary': np.True_}
+
+Log difference stationarity:
+{'adf_p': np.float64(1.0229235816429457e-25), 'kpss_p': np.float64(0.1), 'stationary': np.True_}

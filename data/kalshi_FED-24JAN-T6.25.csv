@@ -1,0 +1,2 @@
+date,end_period_ts,ticker,price_close,price_open,price_high,price_low,price_mean,yes_bid_close,yes_ask_close,yes_mid_close,volume,open_interest
+2024-02-01,1706763600,FED-24JAN-T6.25,,,,,,0.0,0.01,0.005,0.0,206.0

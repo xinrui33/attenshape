@@ -1,0 +1,26 @@
+Google Trends Stationarity Diagnostic
+============================================================
+Term: pollution
+
+Series:
+  Observations        : 1612
+  Date range          : 2022-01-01 → 2026-05-31
+  Missing values      : 0
+
+Zero / flat behavior:
+  Zero share          : 0.000
+  Zero flag           : low_zero_inflation
+  Flat share          : 0.039
+  Flat flag           : normal
+
+Level stationarity:
+{'ADF_stat': np.float64(-3.8981104903014274), 'ADF_pvalue': np.float64(0.00204879694699525), 'KPSS_stat': np.float64(0.43222037593282847), 'KPSS_pvalue': np.float64(0.06326707933929808), 'stationary': True}
+
+Raw difference stationarity:
+{'ADF_stat': np.float64(-12.367053008250984), 'ADF_pvalue': np.float64(5.384861858296584e-23), 'KPSS_stat': np.float64(0.019211790709159727), 'KPSS_pvalue': np.float64(0.1), 'stationary': True}
+
+Log difference stationarity:
+{'ADF_stat': np.float64(-11.37202669791416), 'ADF_pvalue': np.float64(8.93079719255035e-21), 'KPSS_stat': np.float64(0.018992276443133237), 'KPSS_pvalue': np.float64(0.1), 'stationary': True}
+
+Selected transformation:
+log1p_transform_then_difference

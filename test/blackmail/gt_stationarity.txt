@@ -1,0 +1,26 @@
+Google Trends Stationarity Diagnostic
+============================================================
+Term: blackmail
+
+Series:
+  Observations        : 1612
+  Date range          : 2022-01-01 → 2026-05-31
+  Missing values      : 0
+
+Zero / flat behavior:
+  Zero share          : 0.000
+  Zero flag           : low_zero_inflation
+  Flat share          : 0.007
+  Flat flag           : normal
+
+Level stationarity:
+{'ADF_stat': np.float64(-5.650955034283666), 'ADF_pvalue': np.float64(9.863492622377047e-07), 'KPSS_stat': np.float64(1.0888133351504239), 'KPSS_pvalue': np.float64(0.01), 'stationary': False}
+
+Raw difference stationarity:
+{'ADF_stat': np.float64(-17.623128413716184), 'ADF_pvalue': np.float64(3.830048816357609e-30), 'KPSS_stat': np.float64(0.06003592403695561), 'KPSS_pvalue': np.float64(0.1), 'stationary': True}
+
+Log difference stationarity:
+{'ADF_stat': np.float64(-13.530103076216944), 'ADF_pvalue': np.float64(2.6317856083260348e-25), 'KPSS_stat': np.float64(0.07579934771533843), 'KPSS_pvalue': np.float64(0.1), 'stationary': True}
+
+Selected transformation:
+log1p_transform_then_difference

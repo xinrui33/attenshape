@@ -1,0 +1,21 @@
+Google Trends Diagnostic — term: gold
+Period : 2022-01-01 → 2026-05-31
+Rows in stitched series : 1612
+Monthly anchor points   : 8
+
+Months with ratio outside [0.85, 1.15]  (0 found):
+
+  None — alignment is clean.
+
+Full monthly comparison:
+
+Time               monthly    daily_agg    ratio
+--------------------------------------------------
+2022-05-01            35.0       34.827    0.995
+2023-01-01            33.0       33.161    1.005
+2023-10-01            35.0       34.963    0.999
+2024-09-01            38.0       37.936    0.998
+2024-12-01            43.0       42.618    0.991
+2025-06-01            41.0       41.407    1.010
+2026-02-01            82.0       77.238    0.942
+2026-03-01            61.0       56.579    0.928

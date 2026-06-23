@@ -1,0 +1,26 @@
+Google Trends Stationarity Diagnostic
+============================================================
+Term: expense
+
+Series:
+  Observations        : 1612
+  Date range          : 2022-01-01 → 2026-05-31
+  Missing values      : 0
+
+Zero / flat behavior:
+  Zero share          : 0.000
+  Zero flag           : low_zero_inflation
+  Flat share          : 0.003
+  Flat flag           : normal
+
+Level stationarity:
+{'ADF_stat': np.float64(-2.0293947521835056), 'ADF_pvalue': np.float64(0.27383507194292445), 'KPSS_stat': np.float64(3.168076447481673), 'KPSS_pvalue': np.float64(0.01), 'stationary': False}
+
+Raw difference stationarity:
+{'ADF_stat': np.float64(-10.747894776897926), 'ADF_pvalue': np.float64(2.7120692178970636e-19), 'KPSS_stat': np.float64(0.0347545064817332), 'KPSS_pvalue': np.float64(0.1), 'stationary': True}
+
+Log difference stationarity:
+{'ADF_stat': np.float64(-11.285630433768226), 'ADF_pvalue': np.float64(1.4204262007797696e-20), 'KPSS_stat': np.float64(0.020474062884451204), 'KPSS_pvalue': np.float64(0.1), 'stationary': True}
+
+Selected transformation:
+log1p_transform_then_difference

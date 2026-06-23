@@ -1,0 +1,21 @@
+Google Trends Diagnostic — term: commoner
+Period : 2022-01-01 → 2026-05-31
+Rows in stitched series : 1612
+Monthly anchor points   : 8
+
+Months with ratio outside [0.85, 1.15]  (0 found):
+
+  None — alignment is clean.
+
+Full monthly comparison:
+
+Time               monthly    daily_agg    ratio
+--------------------------------------------------
+2022-05-01            79.0       74.992    0.949
+2023-01-01            53.0       52.933    0.999
+2023-10-01            52.0       51.760    0.995
+2024-09-01            46.0       47.159    1.025
+2024-12-01            51.0       50.707    0.994
+2025-06-01            47.0       47.107    1.002
+2026-02-01            68.0       68.754    1.011
+2026-03-01            63.0       56.404    0.895

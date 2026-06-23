@@ -1,0 +1,21 @@
+Google Trends Transformation Diagnostic
+============================================================
+Term: affluence
+
+Original series:
+Observations       : 1612
+Date range         : 2022-01-01 → 2026-05-31
+Missing values     : 0
+
+Zero / flat behavior:
+Zero share         : 0.4119
+Flat share         : 0.2835
+
+Level stationarity:
+{'adf_p': np.float64(1.8040864318479506e-05), 'kpss_p': np.float64(0.024022198056225397), 'stationary': np.False_}
+
+First difference stationarity:
+{'adf_p': np.float64(1.171934688277504e-25), 'kpss_p': np.float64(0.1), 'stationary': np.True_}
+
+Log difference stationarity:
+{'adf_p': np.float64(3.661007296954134e-22), 'kpss_p': np.float64(0.1), 'stationary': np.True_}

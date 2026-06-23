@@ -1,0 +1,26 @@
+Google Trends Stationarity Diagnostic
+============================================================
+Term: ghetto
+
+Series:
+  Observations        : 1612
+  Date range          : 2022-01-01 → 2026-05-31
+  Missing values      : 0
+
+Zero / flat behavior:
+  Zero share          : 0.000
+  Zero flag           : low_zero_inflation
+  Flat share          : 0.002
+  Flat flag           : normal
+
+Level stationarity:
+{'ADF_stat': np.float64(-2.8202805694345474), 'ADF_pvalue': np.float64(0.05543471979761306), 'KPSS_stat': np.float64(4.383936262416153), 'KPSS_pvalue': np.float64(0.01), 'stationary': False}
+
+Raw difference stationarity:
+{'ADF_stat': np.float64(-11.995704328729847), 'ADF_pvalue': np.float64(3.438126351195091e-22), 'KPSS_stat': np.float64(0.06316103082615081), 'KPSS_pvalue': np.float64(0.1), 'stationary': True}
+
+Log difference stationarity:
+{'ADF_stat': np.float64(-11.84024887218689), 'ADF_pvalue': np.float64(7.619650324022711e-22), 'KPSS_stat': np.float64(0.060964703496096985), 'KPSS_pvalue': np.float64(0.1), 'stationary': True}
+
+Selected transformation:
+log1p_transform_then_difference

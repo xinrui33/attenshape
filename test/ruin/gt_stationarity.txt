@@ -1,0 +1,26 @@
+Google Trends Stationarity Diagnostic
+============================================================
+Term: ruin
+
+Series:
+  Observations        : 1612
+  Date range          : 2022-01-01 → 2026-05-31
+  Missing values      : 0
+
+Zero / flat behavior:
+  Zero share          : 0.000
+  Zero flag           : low_zero_inflation
+  Flat share          : 0.004
+  Flat flag           : normal
+
+Level stationarity:
+{'ADF_stat': np.float64(-5.195756672872203), 'ADF_pvalue': np.float64(8.969166331859497e-06), 'KPSS_stat': np.float64(1.3548976877307404), 'KPSS_pvalue': np.float64(0.01), 'stationary': False}
+
+Raw difference stationarity:
+{'ADF_stat': np.float64(-12.13185509715829), 'ADF_pvalue': np.float64(1.7286129614024073e-22), 'KPSS_stat': np.float64(0.02324090114843727), 'KPSS_pvalue': np.float64(0.1), 'stationary': True}
+
+Log difference stationarity:
+{'ADF_stat': np.float64(-12.09158725347636), 'ADF_pvalue': np.float64(2.1164813092719885e-22), 'KPSS_stat': np.float64(0.16955507817565724), 'KPSS_pvalue': np.float64(0.1), 'stationary': True}
+
+Selected transformation:
+log1p_transform_then_difference

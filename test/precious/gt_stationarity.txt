@@ -1,0 +1,26 @@
+Google Trends Stationarity Diagnostic
+============================================================
+Term: precious
+
+Series:
+  Observations        : 1612
+  Date range          : 2022-01-01 → 2026-05-31
+  Missing values      : 0
+
+Zero / flat behavior:
+  Zero share          : 0.000
+  Zero flag           : low_zero_inflation
+  Flat share          : 0.003
+  Flat flag           : normal
+
+Level stationarity:
+{'ADF_stat': np.float64(-2.5880624885005785), 'ADF_pvalue': np.float64(0.09548969372150568), 'KPSS_stat': np.float64(1.2338873673701563), 'KPSS_pvalue': np.float64(0.01), 'stationary': False}
+
+Raw difference stationarity:
+{'ADF_stat': np.float64(-12.813430960147121), 'ADF_pvalue': np.float64(6.374357895627167e-24), 'KPSS_stat': np.float64(0.026741853872912308), 'KPSS_pvalue': np.float64(0.1), 'stationary': True}
+
+Log difference stationarity:
+{'ADF_stat': np.float64(-12.915585427014001), 'ADF_pvalue': np.float64(3.972524377792734e-24), 'KPSS_stat': np.float64(0.03200235980530799), 'KPSS_pvalue': np.float64(0.1), 'stationary': True}
+
+Selected transformation:
+log1p_transform_then_difference

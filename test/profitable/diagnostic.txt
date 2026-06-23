@@ -1,0 +1,21 @@
+Google Trends Diagnostic — term: profitable
+Period : 2022-01-01 → 2026-05-31
+Rows in stitched series : 1612
+Monthly anchor points   : 8
+
+Months with ratio outside [0.85, 1.15]  (0 found):
+
+  None — alignment is clean.
+
+Full monthly comparison:
+
+Time               monthly    daily_agg    ratio
+--------------------------------------------------
+2022-05-01            54.0       53.582    0.992
+2023-01-01            54.0       53.917    0.998
+2023-10-01            54.0       54.002    1.000
+2024-09-01            56.0       57.786    1.032
+2024-12-01            66.0       65.011    0.985
+2025-06-01            59.0       59.352    1.006
+2026-02-01            87.0       90.435    1.039
+2026-03-01           100.0       87.709    0.877

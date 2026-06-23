@@ -1,0 +1,21 @@
+Google Trends Diagnostic — term: breadwinner
+Period : 2022-01-01 → 2026-05-31
+Rows in stitched series : 1612
+Monthly anchor points   : 8
+
+Months with ratio outside [0.85, 1.15]  (0 found):
+
+  None — alignment is clean.
+
+Full monthly comparison:
+
+Time               monthly    daily_agg    ratio
+--------------------------------------------------
+2022-05-01             4.0        4.008    1.002
+2023-01-01             3.0        2.982    0.994
+2023-10-01             3.0        2.966    0.989
+2024-09-01             3.0        3.027    1.009
+2024-12-01             5.0        5.066    1.013
+2025-06-01             4.0        4.007    1.002
+2026-02-01             6.0        5.724    0.954
+2026-03-01             6.0        5.580    0.930

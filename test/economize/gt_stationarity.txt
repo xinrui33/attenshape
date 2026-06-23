@@ -1,0 +1,26 @@
+Google Trends Stationarity Diagnostic
+============================================================
+Term: economize
+
+Series:
+  Observations        : 1612
+  Date range          : 2022-01-01 → 2026-05-31
+  Missing values      : 0
+
+Zero / flat behavior:
+  Zero share          : 0.985
+  Zero flag           : high_zero_inflation
+  Flat share          : 0.971
+  Flat flag           : high_flatness
+
+Level stationarity:
+{'ADF_stat': np.float64(-21.50529703553295), 'ADF_pvalue': 0.0, 'KPSS_stat': np.float64(0.08025440234206091), 'KPSS_pvalue': np.float64(0.1), 'stationary': True}
+
+Raw difference stationarity:
+{'ADF_stat': np.float64(-13.871532201421273), 'ADF_pvalue': np.float64(6.451392624608575e-26), 'KPSS_stat': np.float64(0.03569211669770346), 'KPSS_pvalue': np.float64(0.1), 'stationary': True}
+
+Log difference stationarity:
+{'ADF_stat': np.float64(-13.854977715057242), 'ADF_pvalue': np.float64(6.894364261691157e-26), 'KPSS_stat': np.float64(0.03631284916201074), 'KPSS_pvalue': np.float64(0.1), 'stationary': True}
+
+Selected transformation:
+log1p_transform_then_difference

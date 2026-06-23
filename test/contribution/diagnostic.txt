@@ -1,0 +1,23 @@
+Google Trends Diagnostic — term: contribution
+Period : 2022-01-01 → 2026-05-31
+Rows in stitched series : 1612
+Monthly anchor points   : 8
+
+Months with ratio outside [0.85, 1.15]  (1 found):
+
+Time               monthly    daily_agg    ratio
+--------------------------------------------------
+2026-03-01            81.0       56.549    0.698
+
+Full monthly comparison:
+
+Time               monthly    daily_agg    ratio
+--------------------------------------------------
+2022-05-01            31.0       31.045    1.001
+2023-01-01            63.0       62.300    0.989
+2023-10-01            40.0       39.959    0.999
+2024-09-01            38.0       38.723    1.019
+2024-12-01            65.0       64.353    0.990
+2025-06-01            34.0       34.166    1.005
+2026-02-01            90.0       87.681    0.974
+2026-03-01            81.0       56.549    0.698  ← !

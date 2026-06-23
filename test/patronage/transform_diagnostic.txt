@@ -1,0 +1,21 @@
+Google Trends Transformation Diagnostic
+============================================================
+Term: patronage
+
+Original series:
+Observations       : 1612
+Date range         : 2022-01-01 → 2026-05-31
+Missing values     : 0
+
+Zero / flat behavior:
+Zero share         : 0.0596
+Flat share         : 0.0434
+
+Level stationarity:
+{'adf_p': np.float64(0.00020184929840000684), 'kpss_p': np.float64(0.01116506852229384), 'stationary': np.False_}
+
+First difference stationarity:
+{'adf_p': np.float64(1.103657600539606e-13), 'kpss_p': np.float64(0.1), 'stationary': np.True_}
+
+Log difference stationarity:
+{'adf_p': np.float64(6.424431542835036e-25), 'kpss_p': np.float64(0.1), 'stationary': np.True_}

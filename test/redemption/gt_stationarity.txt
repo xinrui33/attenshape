@@ -1,0 +1,26 @@
+Google Trends Stationarity Diagnostic
+============================================================
+Term: redemption
+
+Series:
+  Observations        : 1612
+  Date range          : 2022-01-01 → 2026-05-31
+  Missing values      : 0
+
+Zero / flat behavior:
+  Zero share          : 0.000
+  Zero flag           : low_zero_inflation
+  Flat share          : 0.006
+  Flat flag           : normal
+
+Level stationarity:
+{'ADF_stat': np.float64(-2.9683474952419555), 'ADF_pvalue': np.float64(0.03795794931098079), 'KPSS_stat': np.float64(1.3399097776630748), 'KPSS_pvalue': np.float64(0.01), 'stationary': False}
+
+Raw difference stationarity:
+{'ADF_stat': np.float64(-11.916619261629185), 'ADF_pvalue': np.float64(5.146809604291179e-22), 'KPSS_stat': np.float64(0.03236199588228697), 'KPSS_pvalue': np.float64(0.1), 'stationary': True}
+
+Log difference stationarity:
+{'ADF_stat': np.float64(-11.537763797503025), 'ADF_pvalue': np.float64(3.6975299704059265e-21), 'KPSS_stat': np.float64(0.04148227863375191), 'KPSS_pvalue': np.float64(0.1), 'stationary': True}
+
+Selected transformation:
+log1p_transform_then_difference

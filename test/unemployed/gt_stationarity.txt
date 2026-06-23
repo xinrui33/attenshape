@@ -1,0 +1,26 @@
+Google Trends Stationarity Diagnostic
+============================================================
+Term: unemployed
+
+Series:
+  Observations        : 1612
+  Date range          : 2022-01-01 → 2026-05-31
+  Missing values      : 0
+
+Zero / flat behavior:
+  Zero share          : 0.000
+  Zero flag           : low_zero_inflation
+  Flat share          : 0.004
+  Flat flag           : normal
+
+Level stationarity:
+{'ADF_stat': np.float64(-2.7354691791698937), 'ADF_pvalue': np.float64(0.06809907356541982), 'KPSS_stat': np.float64(3.506440612290752), 'KPSS_pvalue': np.float64(0.01), 'stationary': False}
+
+Raw difference stationarity:
+{'ADF_stat': np.float64(-12.66598798609335), 'ADF_pvalue': np.float64(1.274527997672357e-23), 'KPSS_stat': np.float64(0.02319903632055433), 'KPSS_pvalue': np.float64(0.1), 'stationary': True}
+
+Log difference stationarity:
+{'ADF_stat': np.float64(-12.66682604188912), 'ADF_pvalue': np.float64(1.2694752423698254e-23), 'KPSS_stat': np.float64(0.02170192093045481), 'KPSS_pvalue': np.float64(0.1), 'stationary': True}
+
+Selected transformation:
+log1p_transform_then_difference

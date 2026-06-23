@@ -1,0 +1,26 @@
+Google Trends Stationarity Diagnostic
+============================================================
+Term: debtor
+
+Series:
+  Observations        : 1612
+  Date range          : 2022-01-01 → 2026-05-31
+  Missing values      : 0
+
+Zero / flat behavior:
+  Zero share          : 0.026
+  Zero flag           : low_zero_inflation
+  Flat share          : 0.014
+  Flat flag           : normal
+
+Level stationarity:
+{'ADF_stat': np.float64(-2.0667000678947556), 'ADF_pvalue': np.float64(0.2581136997299446), 'KPSS_stat': np.float64(4.2357882770093145), 'KPSS_pvalue': np.float64(0.01), 'stationary': False}
+
+Raw difference stationarity:
+{'ADF_stat': np.float64(-12.181703161157978), 'ADF_pvalue': np.float64(1.3469202874828525e-22), 'KPSS_stat': np.float64(0.03681719916031726), 'KPSS_pvalue': np.float64(0.1), 'stationary': True}
+
+Log difference stationarity:
+{'ADF_stat': np.float64(-12.53743696001539), 'ADF_pvalue': np.float64(2.3547103096597915e-23), 'KPSS_stat': np.float64(0.1193334090322051), 'KPSS_pvalue': np.float64(0.1), 'stationary': True}
+
+Selected transformation:
+log1p_transform_then_difference

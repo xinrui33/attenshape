@@ -1,0 +1,26 @@
+Google Trends Stationarity Diagnostic
+============================================================
+Term: affluent
+
+Series:
+  Observations        : 1612
+  Date range          : 2022-01-01 → 2026-05-31
+  Missing values      : 0
+
+Zero / flat behavior:
+  Zero share          : 0.000
+  Zero flag           : low_zero_inflation
+  Flat share          : 0.009
+  Flat flag           : normal
+
+Level stationarity:
+{'ADF_stat': np.float64(-3.433493581841329), 'ADF_pvalue': np.float64(0.009868710641922913), 'KPSS_stat': np.float64(2.013364598525474), 'KPSS_pvalue': np.float64(0.01), 'stationary': False}
+
+Raw difference stationarity:
+{'ADF_stat': np.float64(-11.763030266827778), 'ADF_pvalue': np.float64(1.136041876609156e-21), 'KPSS_stat': np.float64(0.056599526200575005), 'KPSS_pvalue': np.float64(0.1), 'stationary': True}
+
+Log difference stationarity:
+{'ADF_stat': np.float64(-11.840661503532516), 'ADF_pvalue': np.float64(7.603460062449271e-22), 'KPSS_stat': np.float64(0.03535818144029265), 'KPSS_pvalue': np.float64(0.1), 'stationary': True}
+
+Selected transformation:
+log1p_transform_then_difference

@@ -1,0 +1,21 @@
+Google Trends Transformation Diagnostic
+============================================================
+Term: bum
+
+Original series:
+Observations       : 1612
+Date range         : 2022-01-01 → 2026-05-31
+Missing values     : 0
+
+Zero / flat behavior:
+Zero share         : 0.0000
+Flat share         : 0.0707
+
+Level stationarity:
+{'adf_p': np.float64(0.012374131949663638), 'kpss_p': np.float64(0.1), 'stationary': np.True_}
+
+First difference stationarity:
+{'adf_p': np.float64(3.403550145299469e-16), 'kpss_p': np.float64(0.1), 'stationary': np.True_}
+
+Log difference stationarity:
+{'adf_p': np.float64(1.1367870464504396e-14), 'kpss_p': np.float64(0.1), 'stationary': np.True_}

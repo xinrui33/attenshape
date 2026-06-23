@@ -1,0 +1,26 @@
+Google Trends Stationarity Diagnostic
+============================================================
+Term: endow
+
+Series:
+  Observations        : 1612
+  Date range          : 2022-01-01 → 2026-05-31
+  Missing values      : 0
+
+Zero / flat behavior:
+  Zero share          : 0.577
+  Zero flag           : high_zero_inflation
+  Flat share          : 0.390
+  Flat flag           : normal
+
+Level stationarity:
+{'ADF_stat': np.float64(-8.025702164953548), 'ADF_pvalue': np.float64(2.0201703229681848e-12), 'KPSS_stat': np.float64(0.07465775907390447), 'KPSS_pvalue': np.float64(0.1), 'stationary': True}
+
+Raw difference stationarity:
+{'ADF_stat': np.float64(-13.549977391033622), 'ADF_pvalue': np.float64(2.419982441527171e-25), 'KPSS_stat': np.float64(0.05565162948250051), 'KPSS_pvalue': np.float64(0.1), 'stationary': True}
+
+Log difference stationarity:
+{'ADF_stat': np.float64(-16.14549788535807), 'ADF_pvalue': np.float64(4.62790900938425e-29), 'KPSS_stat': np.float64(0.03847185755106613), 'KPSS_pvalue': np.float64(0.1), 'stationary': True}
+
+Selected transformation:
+log1p_transform_then_difference

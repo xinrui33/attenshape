@@ -1,0 +1,21 @@
+Google Trends Transformation Diagnostic
+============================================================
+Term: warfare
+
+Original series:
+Observations       : 1612
+Date range         : 2022-01-01 → 2026-05-31
+Missing values     : 0
+
+Zero / flat behavior:
+Zero share         : 0.0000
+Flat share         : 0.1842
+
+Level stationarity:
+{'adf_p': np.float64(0.0019287445447345106), 'kpss_p': np.float64(0.08659585097416413), 'stationary': np.True_}
+
+First difference stationarity:
+{'adf_p': np.float64(1.570265898850689e-20), 'kpss_p': np.float64(0.1), 'stationary': np.True_}
+
+Log difference stationarity:
+{'adf_p': np.float64(1.0275665885282883e-19), 'kpss_p': np.float64(0.1), 'stationary': np.True_}

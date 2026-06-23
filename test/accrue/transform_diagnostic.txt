@@ -1,0 +1,21 @@
+Google Trends Transformation Diagnostic
+============================================================
+Term: accrue
+
+Original series:
+Observations       : 1612
+Date range         : 2022-01-01 → 2026-05-31
+Missing values     : 0
+
+Zero / flat behavior:
+Zero share         : 0.0031
+Flat share         : 0.0279
+
+Level stationarity:
+{'adf_p': np.float64(0.0502569617383716), 'kpss_p': np.float64(0.01), 'stationary': np.False_}
+
+First difference stationarity:
+{'adf_p': np.float64(4.866547349431038e-25), 'kpss_p': np.float64(0.1), 'stationary': np.True_}
+
+Log difference stationarity:
+{'adf_p': np.float64(3.431686399165584e-24), 'kpss_p': np.float64(0.1), 'stationary': np.True_}

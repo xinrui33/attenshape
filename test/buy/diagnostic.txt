@@ -1,0 +1,21 @@
+Google Trends Diagnostic — term: buy
+Period : 2022-01-01 → 2026-05-31
+Rows in stitched series : 1612
+Monthly anchor points   : 8
+
+Months with ratio outside [0.85, 1.15]  (0 found):
+
+  None — alignment is clean.
+
+Full monthly comparison:
+
+Time               monthly    daily_agg    ratio
+--------------------------------------------------
+2022-05-01            46.0       46.293    1.006
+2023-01-01            48.0       47.852    0.997
+2023-10-01            41.0       41.009    1.000
+2024-09-01            41.0       40.692    0.992
+2024-12-01            51.0       50.904    0.998
+2025-06-01            45.0       45.034    1.001
+2026-02-01            82.0       82.957    1.012
+2026-03-01            59.0       58.189    0.986

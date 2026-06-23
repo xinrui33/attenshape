@@ -1,0 +1,21 @@
+Google Trends Transformation Diagnostic
+============================================================
+Term: benevolence
+
+Original series:
+Observations       : 1612
+Date range         : 2022-01-01 → 2026-05-31
+Missing values     : 0
+
+Zero / flat behavior:
+Zero share         : 0.0112
+Flat share         : 0.0310
+
+Level stationarity:
+{'adf_p': np.float64(8.078488157331232e-05), 'kpss_p': np.float64(0.1), 'stationary': np.True_}
+
+First difference stationarity:
+{'adf_p': np.float64(6.091250669552203e-21), 'kpss_p': np.float64(0.1), 'stationary': np.True_}
+
+Log difference stationarity:
+{'adf_p': np.float64(1.531060140098567e-25), 'kpss_p': np.float64(0.1), 'stationary': np.True_}

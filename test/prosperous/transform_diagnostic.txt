@@ -1,0 +1,21 @@
+Google Trends Transformation Diagnostic
+============================================================
+Term: prosperous
+
+Original series:
+Observations       : 1612
+Date range         : 2022-01-01 → 2026-05-31
+Missing values     : 0
+
+Zero / flat behavior:
+Zero share         : 0.0031
+Flat share         : 0.1569
+
+Level stationarity:
+{'adf_p': np.float64(0.00023319443821944344), 'kpss_p': np.float64(0.1), 'stationary': np.True_}
+
+First difference stationarity:
+{'adf_p': np.float64(1.1433269167666045e-25), 'kpss_p': np.float64(0.1), 'stationary': np.True_}
+
+Log difference stationarity:
+{'adf_p': np.float64(9.611643934148238e-19), 'kpss_p': np.float64(0.1), 'stationary': np.True_}

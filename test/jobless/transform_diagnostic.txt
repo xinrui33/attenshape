@@ -1,0 +1,21 @@
+Google Trends Transformation Diagnostic
+============================================================
+Term: jobless
+
+Original series:
+Observations       : 1612
+Date range         : 2022-01-01 → 2026-05-31
+Missing values     : 0
+
+Zero / flat behavior:
+Zero share         : 0.0000
+Flat share         : 0.0453
+
+Level stationarity:
+{'adf_p': np.float64(0.001386664193396043), 'kpss_p': np.float64(0.1), 'stationary': np.True_}
+
+First difference stationarity:
+{'adf_p': np.float64(9.832484239815349e-23), 'kpss_p': np.float64(0.1), 'stationary': np.True_}
+
+Log difference stationarity:
+{'adf_p': np.float64(2.498139601469289e-22), 'kpss_p': np.float64(0.1), 'stationary': np.True_}

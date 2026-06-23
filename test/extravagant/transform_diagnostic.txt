@@ -1,0 +1,21 @@
+Google Trends Transformation Diagnostic
+============================================================
+Term: extravagant
+
+Original series:
+Observations       : 1612
+Date range         : 2022-01-01 → 2026-05-31
+Missing values     : 0
+
+Zero / flat behavior:
+Zero share         : 0.0062
+Flat share         : 0.0422
+
+Level stationarity:
+{'adf_p': np.float64(5.009961222186076e-05), 'kpss_p': np.float64(0.06151336191128029), 'stationary': np.True_}
+
+First difference stationarity:
+{'adf_p': np.float64(8.379946401523869e-26), 'kpss_p': np.float64(0.1), 'stationary': np.True_}
+
+Log difference stationarity:
+{'adf_p': np.float64(3.70848412539279e-27), 'kpss_p': np.float64(0.1), 'stationary': np.True_}

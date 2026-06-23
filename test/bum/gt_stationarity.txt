@@ -1,0 +1,26 @@
+Google Trends Stationarity Diagnostic
+============================================================
+Term: bum
+
+Series:
+  Observations        : 1612
+  Date range          : 2022-01-01 → 2026-05-31
+  Missing values      : 0
+
+Zero / flat behavior:
+  Zero share          : 0.000
+  Zero flag           : low_zero_inflation
+  Flat share          : 0.003
+  Flat flag           : normal
+
+Level stationarity:
+{'ADF_stat': np.float64(-3.017941244649318), 'ADF_pvalue': np.float64(0.03325254524372685), 'KPSS_stat': np.float64(0.22673831492780705), 'KPSS_pvalue': np.float64(0.1), 'stationary': True}
+
+Raw difference stationarity:
+{'ADF_stat': np.float64(-10.483127384862497), 'ADF_pvalue': np.float64(1.199300914666846e-18), 'KPSS_stat': np.float64(0.052580332056087094), 'KPSS_pvalue': np.float64(0.1), 'stationary': True}
+
+Log difference stationarity:
+{'ADF_stat': np.float64(-10.322707681870709), 'ADF_pvalue': np.float64(2.980160169972569e-18), 'KPSS_stat': np.float64(0.05245119183903915), 'KPSS_pvalue': np.float64(0.1), 'stationary': True}
+
+Selected transformation:
+log1p_transform_then_difference

@@ -1,0 +1,23 @@
+Google Trends Diagnostic — term: cooperative
+Period : 2022-01-01 → 2026-05-31
+Rows in stitched series : 1612
+Monthly anchor points   : 8
+
+Months with ratio outside [0.85, 1.15]  (1 found):
+
+Time               monthly    daily_agg    ratio
+--------------------------------------------------
+2026-03-01            69.0       38.466    0.557
+
+Full monthly comparison:
+
+Time               monthly    daily_agg    ratio
+--------------------------------------------------
+2022-05-01            44.0       43.439    0.987
+2023-01-01            35.0       35.220    1.006
+2023-10-01            42.0       41.882    0.997
+2024-09-01            41.0       42.923    1.047
+2024-12-01            42.0       41.551    0.989
+2025-06-01            41.0       41.418    1.010
+2026-02-01           100.0       89.897    0.899
+2026-03-01            69.0       38.466    0.557  ← !

@@ -1,0 +1,26 @@
+Google Trends Stationarity Diagnostic
+============================================================
+Term: warfare
+
+Series:
+  Observations        : 1612
+  Date range          : 2022-01-01 → 2026-05-31
+  Missing values      : 0
+
+Zero / flat behavior:
+  Zero share          : 0.000
+  Zero flag           : low_zero_inflation
+  Flat share          : 0.008
+  Flat flag           : normal
+
+Level stationarity:
+{'ADF_stat': np.float64(-4.587075822628765), 'ADF_pvalue': np.float64(0.00013644321032685818), 'KPSS_stat': np.float64(0.3441067323033229), 'KPSS_pvalue': np.float64(0.1), 'stationary': True}
+
+Raw difference stationarity:
+{'ADF_stat': np.float64(-11.986321183583824), 'ADF_pvalue': np.float64(3.6061510705093023e-22), 'KPSS_stat': np.float64(0.021460079604785916), 'KPSS_pvalue': np.float64(0.1), 'stationary': True}
+
+Log difference stationarity:
+{'ADF_stat': np.float64(-11.706841723188742), 'ADF_pvalue': np.float64(1.5217330314497806e-21), 'KPSS_stat': np.float64(0.02715988823548548), 'KPSS_pvalue': np.float64(0.1), 'stationary': True}
+
+Selected transformation:
+log1p_transform_then_difference

@@ -1,0 +1,21 @@
+Google Trends Transformation Diagnostic
+============================================================
+Term: endow
+
+Original series:
+Observations       : 1612
+Date range         : 2022-01-01 → 2026-05-31
+Missing values     : 0
+
+Zero / flat behavior:
+Zero share         : 0.5769
+Flat share         : 0.4138
+
+Level stationarity:
+{'adf_p': np.float64(8.15715423190408e-08), 'kpss_p': np.float64(0.01), 'stationary': np.False_}
+
+First difference stationarity:
+{'adf_p': np.float64(2.0191913097021797e-29), 'kpss_p': np.float64(0.1), 'stationary': np.True_}
+
+Log difference stationarity:
+{'adf_p': np.float64(3.3215707849933297e-28), 'kpss_p': np.float64(0.1), 'stationary': np.True_}

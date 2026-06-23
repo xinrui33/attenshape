@@ -1,0 +1,21 @@
+Google Trends Diagnostic — term: vagabond
+Period : 2022-01-01 → 2026-05-31
+Rows in stitched series : 1612
+Monthly anchor points   : 8
+
+Months with ratio outside [0.85, 1.15]  (0 found):
+
+  None — alignment is clean.
+
+Full monthly comparison:
+
+Time               monthly    daily_agg    ratio
+--------------------------------------------------
+2022-05-01            51.0       50.958    0.999
+2023-01-01            54.0       53.799    0.996
+2023-10-01            41.0       41.183    1.004
+2024-09-01            45.0       44.617    0.991
+2024-12-01            41.0       41.163    1.004
+2025-06-01            39.0       38.935    0.998
+2026-02-01            39.0       39.282    1.007
+2026-03-01            42.0       43.329    1.032

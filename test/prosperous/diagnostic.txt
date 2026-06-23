@@ -1,0 +1,21 @@
+Google Trends Diagnostic — term: prosperous
+Period : 2022-01-01 → 2026-05-31
+Rows in stitched series : 1612
+Monthly anchor points   : 8
+
+Months with ratio outside [0.85, 1.15]  (0 found):
+
+  None — alignment is clean.
+
+Full monthly comparison:
+
+Time               monthly    daily_agg    ratio
+--------------------------------------------------
+2022-05-01            26.0       26.343    1.013
+2023-01-01            78.0       66.771    0.856
+2023-10-01            28.0       28.105    1.004
+2024-09-01            22.0       21.679    0.985
+2024-12-01            28.0       28.221    1.008
+2025-06-01            16.0       15.879    0.992
+2026-02-01            28.0       29.349    1.048
+2026-03-01            28.0       24.377    0.871

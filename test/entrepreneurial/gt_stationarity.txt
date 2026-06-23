@@ -1,0 +1,26 @@
+Google Trends Stationarity Diagnostic
+============================================================
+Term: entrepreneurial
+
+Series:
+  Observations        : 1612
+  Date range          : 2022-01-01 → 2026-05-31
+  Missing values      : 0
+
+Zero / flat behavior:
+  Zero share          : 0.008
+  Zero flag           : low_zero_inflation
+  Flat share          : 0.007
+  Flat flag           : normal
+
+Level stationarity:
+{'ADF_stat': np.float64(-4.219994043514665), 'ADF_pvalue': np.float64(0.000609391244332795), 'KPSS_stat': np.float64(2.441272210478529), 'KPSS_pvalue': np.float64(0.01), 'stationary': False}
+
+Raw difference stationarity:
+{'ADF_stat': np.float64(-11.103560754377792), 'ADF_pvalue': np.float64(3.811983955012177e-20), 'KPSS_stat': np.float64(0.0271382165836206), 'KPSS_pvalue': np.float64(0.1), 'stationary': True}
+
+Log difference stationarity:
+{'ADF_stat': np.float64(-11.881743811556742), 'ADF_pvalue': np.float64(6.154710790625849e-22), 'KPSS_stat': np.float64(0.022915257851717292), 'KPSS_pvalue': np.float64(0.1), 'stationary': True}
+
+Selected transformation:
+log1p_transform_then_difference

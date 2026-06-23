@@ -1,0 +1,26 @@
+Google Trends Stationarity Diagnostic
+============================================================
+Term: underworld
+
+Series:
+  Observations        : 1612
+  Date range          : 2022-01-01 → 2026-05-31
+  Missing values      : 0
+
+Zero / flat behavior:
+  Zero share          : 0.000
+  Zero flag           : low_zero_inflation
+  Flat share          : 0.002
+  Flat flag           : normal
+
+Level stationarity:
+{'ADF_stat': np.float64(-5.548369226034942), 'ADF_pvalue': np.float64(1.6410942252151974e-06), 'KPSS_stat': np.float64(1.6902110789066636), 'KPSS_pvalue': np.float64(0.01), 'stationary': False}
+
+Raw difference stationarity:
+{'ADF_stat': np.float64(-11.152335061051373), 'ADF_pvalue': np.float64(2.922641812448903e-20), 'KPSS_stat': np.float64(0.07699719959146362), 'KPSS_pvalue': np.float64(0.1), 'stationary': True}
+
+Log difference stationarity:
+{'ADF_stat': np.float64(-11.118535978171925), 'ADF_pvalue': np.float64(3.513074038398194e-20), 'KPSS_stat': np.float64(0.0577566563181695), 'KPSS_pvalue': np.float64(0.1), 'stationary': True}
+
+Selected transformation:
+log1p_transform_then_difference

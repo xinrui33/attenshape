@@ -1,0 +1,26 @@
+Google Trends Stationarity Diagnostic
+============================================================
+Term: negotiate
+
+Series:
+  Observations        : 1612
+  Date range          : 2022-01-01 → 2026-05-31
+  Missing values      : 0
+
+Zero / flat behavior:
+  Zero share          : 0.000
+  Zero flag           : low_zero_inflation
+  Flat share          : 0.014
+  Flat flag           : normal
+
+Level stationarity:
+{'ADF_stat': np.float64(-3.340157957347438), 'ADF_pvalue': np.float64(0.013176103459651155), 'KPSS_stat': np.float64(3.3809659110766495), 'KPSS_pvalue': np.float64(0.01), 'stationary': False}
+
+Raw difference stationarity:
+{'ADF_stat': np.float64(-12.851210839849161), 'ADF_pvalue': np.float64(5.347906455636316e-24), 'KPSS_stat': np.float64(0.0190970869165216), 'KPSS_pvalue': np.float64(0.1), 'stationary': True}
+
+Log difference stationarity:
+{'ADF_stat': np.float64(-13.128011109917859), 'ADF_pvalue': np.float64(1.5149682245426797e-24), 'KPSS_stat': np.float64(0.018270174854134513), 'KPSS_pvalue': np.float64(0.1), 'stationary': True}
+
+Selected transformation:
+log1p_transform_then_difference

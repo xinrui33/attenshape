@@ -1,0 +1,21 @@
+Google Trends Transformation Diagnostic
+============================================================
+Term: pollution
+
+Original series:
+Observations       : 1612
+Date range         : 2022-01-01 → 2026-05-31
+Missing values     : 0
+
+Zero / flat behavior:
+Zero share         : 0.0000
+Flat share         : 0.0862
+
+Level stationarity:
+{'adf_p': np.float64(0.0008799895385828641), 'kpss_p': np.float64(0.07791387012578187), 'stationary': np.True_}
+
+First difference stationarity:
+{'adf_p': np.float64(1.8912977859801384e-16), 'kpss_p': np.float64(0.1), 'stationary': np.True_}
+
+Log difference stationarity:
+{'adf_p': np.float64(3.299695945452769e-18), 'kpss_p': np.float64(0.1), 'stationary': np.True_}

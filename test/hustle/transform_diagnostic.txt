@@ -1,0 +1,21 @@
+Google Trends Transformation Diagnostic
+============================================================
+Term: hustle
+
+Original series:
+Observations       : 1612
+Date range         : 2022-01-01 → 2026-05-31
+Missing values     : 0
+
+Zero / flat behavior:
+Zero share         : 0.0000
+Flat share         : 0.1439
+
+Level stationarity:
+{'adf_p': np.float64(6.65484257620661e-06), 'kpss_p': np.float64(0.015145420246736305), 'stationary': np.False_}
+
+First difference stationarity:
+{'adf_p': np.float64(2.515390831807359e-21), 'kpss_p': np.float64(0.1), 'stationary': np.True_}
+
+Log difference stationarity:
+{'adf_p': np.float64(4.834340183462548e-17), 'kpss_p': np.float64(0.1), 'stationary': np.True_}

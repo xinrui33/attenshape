@@ -1,0 +1,8 @@
+series,adf_stat,p_value,lags,stationary
+federal_reserve,-5.4979,0.0,3,✓
+interest_rate,-6.2931,0.0,3,✓
+stock_market_crash,-11.3178,0.0,1,✓
+trends_composite,-6.3005,0.0,3,✓
+kalshi_signal,-3.2904,0.0153,16,✓
+vix_close,-4.8044,0.0001,2,✓
+sp500_return_1d,-13.0904,0.0,3,✓

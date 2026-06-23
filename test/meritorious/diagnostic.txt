@@ -1,0 +1,23 @@
+Google Trends Diagnostic — term: meritorious
+Period : 2022-01-01 → 2026-05-31
+Rows in stitched series : 1612
+Monthly anchor points   : 8
+
+Months with ratio outside [0.85, 1.15]  (1 found):
+
+Time               monthly    daily_agg    ratio
+--------------------------------------------------
+2026-03-01            85.0       57.682    0.679
+
+Full monthly comparison:
+
+Time               monthly    daily_agg    ratio
+--------------------------------------------------
+2022-05-01            70.0       67.881    0.970
+2023-01-01            47.0       47.351    1.007
+2023-10-01            71.0       67.682    0.953
+2024-09-01            67.0       68.862    1.028
+2024-12-01            65.0       59.013    0.908
+2025-06-01            70.0       66.617    0.952
+2026-02-01            83.0       80.051    0.964
+2026-03-01            85.0       57.682    0.679  ← !

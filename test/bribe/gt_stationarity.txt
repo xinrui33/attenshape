@@ -1,0 +1,26 @@
+Google Trends Stationarity Diagnostic
+============================================================
+Term: bribe
+
+Series:
+  Observations        : 1612
+  Date range          : 2022-01-01 → 2026-05-31
+  Missing values      : 0
+
+Zero / flat behavior:
+  Zero share          : 0.000
+  Zero flag           : low_zero_inflation
+  Flat share          : 0.004
+  Flat flag           : normal
+
+Level stationarity:
+{'ADF_stat': np.float64(-5.911101810799277), 'ADF_pvalue': np.float64(2.6376689941426313e-07), 'KPSS_stat': np.float64(2.6813312235476006), 'KPSS_pvalue': np.float64(0.01), 'stationary': False}
+
+Raw difference stationarity:
+{'ADF_stat': np.float64(-11.753296116615038), 'ADF_pvalue': np.float64(1.1949310030581777e-21), 'KPSS_stat': np.float64(0.02840678004120764), 'KPSS_pvalue': np.float64(0.1), 'stationary': True}
+
+Log difference stationarity:
+{'ADF_stat': np.float64(-11.85697343780551), 'ADF_pvalue': np.float64(6.990691237599878e-22), 'KPSS_stat': np.float64(0.015856156738345326), 'KPSS_pvalue': np.float64(0.1), 'stationary': True}
+
+Selected transformation:
+log1p_transform_then_difference

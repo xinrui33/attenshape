@@ -1,0 +1,21 @@
+Google Trends Transformation Diagnostic
+============================================================
+Term: vagrant
+
+Original series:
+Observations       : 1612
+Date range         : 2022-01-01 → 2026-05-31
+Missing values     : 0
+
+Zero / flat behavior:
+Zero share         : 0.0006
+Flat share         : 0.0354
+
+Level stationarity:
+{'adf_p': np.float64(1.7721336175293647e-06), 'kpss_p': np.float64(0.01), 'stationary': np.False_}
+
+First difference stationarity:
+{'adf_p': np.float64(1.845881598533712e-29), 'kpss_p': np.float64(0.1), 'stationary': np.True_}
+
+Log difference stationarity:
+{'adf_p': np.float64(2.9046356758269988e-24), 'kpss_p': np.float64(0.1), 'stationary': np.True_}

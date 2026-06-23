@@ -1,0 +1,26 @@
+Google Trends Stationarity Diagnostic
+============================================================
+Term: hustler
+
+Series:
+  Observations        : 1612
+  Date range          : 2022-01-01 → 2026-05-31
+  Missing values      : 0
+
+Zero / flat behavior:
+  Zero share          : 0.000
+  Zero flag           : low_zero_inflation
+  Flat share          : 0.004
+  Flat flag           : normal
+
+Level stationarity:
+{'ADF_stat': np.float64(-2.6270041506158543), 'ADF_pvalue': np.float64(0.08754350045358211), 'KPSS_stat': np.float64(0.13080176692708), 'KPSS_pvalue': np.float64(0.1), 'stationary': False}
+
+Raw difference stationarity:
+{'ADF_stat': np.float64(-9.578451643074406), 'ADF_pvalue': np.float64(2.1910164180118128e-16), 'KPSS_stat': np.float64(0.05814932910480549), 'KPSS_pvalue': np.float64(0.1), 'stationary': True}
+
+Log difference stationarity:
+{'ADF_stat': np.float64(-9.20921972666904), 'ADF_pvalue': np.float64(1.9077688350437897e-15), 'KPSS_stat': np.float64(0.05174221247782238), 'KPSS_pvalue': np.float64(0.1), 'stationary': True}
+
+Selected transformation:
+log1p_transform_then_difference

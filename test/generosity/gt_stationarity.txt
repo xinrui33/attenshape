@@ -1,0 +1,26 @@
+Google Trends Stationarity Diagnostic
+============================================================
+Term: generosity
+
+Series:
+  Observations        : 1612
+  Date range          : 2022-01-01 → 2026-05-31
+  Missing values      : 0
+
+Zero / flat behavior:
+  Zero share          : 0.001
+  Zero flag           : low_zero_inflation
+  Flat share          : 0.017
+  Flat flag           : normal
+
+Level stationarity:
+{'ADF_stat': np.float64(-5.258359217843218), 'ADF_pvalue': np.float64(6.6747498597898535e-06), 'KPSS_stat': np.float64(1.2404363189389298), 'KPSS_pvalue': np.float64(0.01), 'stationary': False}
+
+Raw difference stationarity:
+{'ADF_stat': np.float64(-12.484275374727407), 'ADF_pvalue': np.float64(3.043062205372483e-23), 'KPSS_stat': np.float64(0.030007029399519426), 'KPSS_pvalue': np.float64(0.1), 'stationary': True}
+
+Log difference stationarity:
+{'ADF_stat': np.float64(-11.947654175941357), 'ADF_pvalue': np.float64(4.391647211591181e-22), 'KPSS_stat': np.float64(0.02871739934000951), 'KPSS_pvalue': np.float64(0.1), 'stationary': True}
+
+Selected transformation:
+log1p_transform_then_difference

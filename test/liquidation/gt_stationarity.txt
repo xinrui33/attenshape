@@ -1,0 +1,26 @@
+Google Trends Stationarity Diagnostic
+============================================================
+Term: liquidation
+
+Series:
+  Observations        : 1612
+  Date range          : 2022-01-01 → 2026-05-31
+  Missing values      : 0
+
+Zero / flat behavior:
+  Zero share          : 0.000
+  Zero flag           : low_zero_inflation
+  Flat share          : 0.006
+  Flat flag           : normal
+
+Level stationarity:
+{'ADF_stat': np.float64(-2.6106240999580304), 'ADF_pvalue': np.float64(0.09082130239507952), 'KPSS_stat': np.float64(1.4683688996105535), 'KPSS_pvalue': np.float64(0.01), 'stationary': False}
+
+Raw difference stationarity:
+{'ADF_stat': np.float64(-12.68784248488932), 'ADF_pvalue': np.float64(1.1492552959805397e-23), 'KPSS_stat': np.float64(0.07623815184346343), 'KPSS_pvalue': np.float64(0.1), 'stationary': True}
+
+Log difference stationarity:
+{'ADF_stat': np.float64(-12.737505104238288), 'ADF_pvalue': np.float64(9.093598547231936e-24), 'KPSS_stat': np.float64(0.0925577294567472), 'KPSS_pvalue': np.float64(0.1), 'stationary': True}
+
+Selected transformation:
+log1p_transform_then_difference

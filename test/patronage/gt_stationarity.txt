@@ -1,0 +1,26 @@
+Google Trends Stationarity Diagnostic
+============================================================
+Term: patronage
+
+Series:
+  Observations        : 1612
+  Date range          : 2022-01-01 → 2026-05-31
+  Missing values      : 0
+
+Zero / flat behavior:
+  Zero share          : 0.060
+  Zero flag           : low_zero_inflation
+  Flat share          : 0.018
+  Flat flag           : normal
+
+Level stationarity:
+{'ADF_stat': np.float64(-4.186262065789928), 'ADF_pvalue': np.float64(0.0006950839720276514), 'KPSS_stat': np.float64(0.6766688260618688), 'KPSS_pvalue': np.float64(0.01566647035801192), 'stationary': False}
+
+Raw difference stationarity:
+{'ADF_stat': np.float64(-10.454289430233523), 'ADF_pvalue': np.float64(1.4118003354754007e-18), 'KPSS_stat': np.float64(0.025031000301842563), 'KPSS_pvalue': np.float64(0.1), 'stationary': True}
+
+Log difference stationarity:
+{'ADF_stat': np.float64(-14.183889215950822), 'ADF_pvalue': np.float64(1.907656127689989e-26), 'KPSS_stat': np.float64(0.023825437838605596), 'KPSS_pvalue': np.float64(0.1), 'stationary': True}
+
+Selected transformation:
+log1p_transform_then_difference

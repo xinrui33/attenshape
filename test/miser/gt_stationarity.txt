@@ -1,0 +1,26 @@
+Google Trends Stationarity Diagnostic
+============================================================
+Term: miser
+
+Series:
+  Observations        : 1612
+  Date range          : 2022-01-01 → 2026-05-31
+  Missing values      : 0
+
+Zero / flat behavior:
+  Zero share          : 0.000
+  Zero flag           : low_zero_inflation
+  Flat share          : 0.005
+  Flat flag           : normal
+
+Level stationarity:
+{'ADF_stat': np.float64(-5.076972078096113), 'ADF_pvalue': np.float64(1.5593305973362296e-05), 'KPSS_stat': np.float64(0.12180972836488295), 'KPSS_pvalue': np.float64(0.1), 'stationary': True}
+
+Raw difference stationarity:
+{'ADF_stat': np.float64(-14.759053204261848), 'ADF_pvalue': np.float64(2.418273703883797e-27), 'KPSS_stat': np.float64(0.012324187990411484), 'KPSS_pvalue': np.float64(0.1), 'stationary': True}
+
+Log difference stationarity:
+{'ADF_stat': np.float64(-11.764473157572251), 'ADF_pvalue': np.float64(1.1275673142281507e-21), 'KPSS_stat': np.float64(0.017939705928387513), 'KPSS_pvalue': np.float64(0.1), 'stationary': True}
+
+Selected transformation:
+log1p_transform_then_difference

@@ -1,0 +1,21 @@
+Google Trends Transformation Diagnostic
+============================================================
+Term: race
+
+Original series:
+Observations       : 1612
+Date range         : 2022-01-01 → 2026-05-31
+Missing values     : 0
+
+Zero / flat behavior:
+Zero share         : 0.0000
+Flat share         : 0.2022
+
+Level stationarity:
+{'adf_p': np.float64(1.5115720895789146e-06), 'kpss_p': np.float64(0.1), 'stationary': np.True_}
+
+First difference stationarity:
+{'adf_p': np.float64(1.6412396357111445e-21), 'kpss_p': np.float64(0.1), 'stationary': np.True_}
+
+Log difference stationarity:
+{'adf_p': np.float64(2.2541028851750077e-22), 'kpss_p': np.float64(0.1), 'stationary': np.True_}

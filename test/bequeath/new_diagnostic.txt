@@ -1,0 +1,33 @@
+Google Trends Weekly Anchor Diagnostic
+=======================================================
+Term: bequeath
+Date range: 2022-01-01 → 2026-05-31
+
+Daily series integrity:
+  Daily observations       : 1612
+  Missing daily values     : 0
+  Minimum value            : 0.000
+  Maximum value            : 581.000
+
+Weekly anchor alignment:
+  Anchor weeks compared    : 231
+  Median ratio             : 1.000
+  Median abs deviation     : 0.000
+  Maximum deviation        : 1.000
+
+Quality flags:
+  Mild abnormal weeks (0.85-1.15): 8 (3.5%)
+  Moderate abnormal weeks (0.75-1.25): 8 (3.5%)
+  Severe abnormal weeks (0.50-2.00): 8 (3.5%)
+Weeks outside mild threshold:
+
+Time                anchor      fixed    ratio
+--------------------------------------------------
+2024-07-14           35.00       0.00    0.000
+2024-07-21           37.00       0.00    0.000
+2024-07-28           48.00       0.00    0.000
+2024-12-29           50.00       0.00    0.000
+2025-06-08           53.00       0.00    0.000
+2025-06-22           47.00       0.00    0.000
+2025-11-30           57.00       0.00    0.000
+2025-12-28           44.00       0.00    0.000

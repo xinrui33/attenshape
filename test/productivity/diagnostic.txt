@@ -1,0 +1,23 @@
+Google Trends Diagnostic — term: productivity
+Period : 2022-01-01 → 2026-05-31
+Rows in stitched series : 1612
+Monthly anchor points   : 8
+
+Months with ratio outside [0.85, 1.15]  (1 found):
+
+Time               monthly    daily_agg    ratio
+--------------------------------------------------
+2026-03-01            71.0       40.759    0.574
+
+Full monthly comparison:
+
+Time               monthly    daily_agg    ratio
+--------------------------------------------------
+2022-05-01            19.0       18.569    0.977
+2023-01-01            12.0       12.271    1.023
+2023-10-01            20.0       19.933    0.997
+2024-09-01            20.0       21.377    1.069
+2024-12-01            22.0       21.371    0.971
+2025-06-01            17.0       17.226    1.013
+2026-02-01            87.0       87.034    1.000
+2026-03-01            71.0       40.759    0.574  ← !

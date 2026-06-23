@@ -1,0 +1,26 @@
+Google Trends Stationarity Diagnostic
+============================================================
+Term: breadwinner
+
+Series:
+  Observations        : 1612
+  Date range          : 2022-01-01 → 2026-05-31
+  Missing values      : 0
+
+Zero / flat behavior:
+  Zero share          : 0.092
+  Zero flag           : low_zero_inflation
+  Flat share          : 0.030
+  Flat flag           : normal
+
+Level stationarity:
+{'ADF_stat': np.float64(4.375785955704695), 'ADF_pvalue': 1.0, 'KPSS_stat': np.float64(1.024520574931352), 'KPSS_pvalue': np.float64(0.01), 'stationary': False}
+
+Raw difference stationarity:
+{'ADF_stat': np.float64(-0.8922462888153332), 'ADF_pvalue': np.float64(0.7905151005746887), 'KPSS_stat': np.float64(0.46068575299559517), 'KPSS_pvalue': np.float64(0.05099752026051933), 'stationary': False}
+
+Log difference stationarity:
+{'ADF_stat': np.float64(-13.868510685194456), 'ADF_pvalue': np.float64(6.529975793593984e-26), 'KPSS_stat': np.float64(0.18317668489691333), 'KPSS_pvalue': np.float64(0.1), 'stationary': True}
+
+Selected transformation:
+log1p_transform_then_difference

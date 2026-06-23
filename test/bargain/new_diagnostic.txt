@@ -1,0 +1,22 @@
+Google Trends Weekly Anchor Diagnostic
+=======================================================
+Term: bargain
+Date range: 2022-01-01 → 2026-05-31
+
+Daily series integrity:
+  Daily observations       : 1612
+  Missing daily values     : 0
+  Minimum value            : 51.297
+  Maximum value            : 147.845
+
+Weekly anchor alignment:
+  Anchor weeks compared    : 231
+  Median ratio             : 1.000
+  Median abs deviation     : 0.000
+  Maximum deviation        : 0.000
+
+Quality flags:
+  Mild abnormal weeks (0.85-1.15): 0 (0.0%)
+  Moderate abnormal weeks (0.75-1.25): 0 (0.0%)
+  Severe abnormal weeks (0.50-2.00): 0 (0.0%)
+No weeks outside mild threshold.

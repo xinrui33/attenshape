@@ -1,0 +1,21 @@
+Google Trends Transformation Diagnostic
+============================================================
+Term: commoner
+
+Original series:
+Observations       : 1612
+Date range         : 2022-01-01 → 2026-05-31
+Missing values     : 0
+
+Zero / flat behavior:
+Zero share         : 0.0416
+Flat share         : 0.0391
+
+Level stationarity:
+{'adf_p': np.float64(1.4800829051954954e-06), 'kpss_p': np.float64(0.021600453700583156), 'stationary': np.False_}
+
+First difference stationarity:
+{'adf_p': np.float64(2.773019486405869e-23), 'kpss_p': np.float64(0.1), 'stationary': np.True_}
+
+Log difference stationarity:
+{'adf_p': np.float64(1.782441661783629e-26), 'kpss_p': np.float64(0.1), 'stationary': np.True_}

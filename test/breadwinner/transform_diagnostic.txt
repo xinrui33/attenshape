@@ -1,0 +1,21 @@
+Google Trends Transformation Diagnostic
+============================================================
+Term: breadwinner
+
+Original series:
+Observations       : 1612
+Date range         : 2022-01-01 → 2026-05-31
+Missing values     : 0
+
+Zero / flat behavior:
+Zero share         : 0.0924
+Flat share         : 0.0868
+
+Level stationarity:
+{'adf_p': 1.0, 'kpss_p': np.float64(0.01), 'stationary': False}
+
+First difference stationarity:
+{'adf_p': 1.0, 'kpss_p': np.float64(0.09807406112416198), 'stationary': False}
+
+Log difference stationarity:
+{'adf_p': np.float64(2.0396894140712074e-30), 'kpss_p': np.float64(0.1), 'stationary': np.True_}

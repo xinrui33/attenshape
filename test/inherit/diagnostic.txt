@@ -1,0 +1,21 @@
+Google Trends Diagnostic — term: inherit
+Period : 2022-01-01 → 2026-05-31
+Rows in stitched series : 1612
+Monthly anchor points   : 8
+
+Months with ratio outside [0.85, 1.15]  (0 found):
+
+  None — alignment is clean.
+
+Full monthly comparison:
+
+Time               monthly    daily_agg    ratio
+--------------------------------------------------
+2022-05-01            62.0       61.513    0.992
+2023-01-01            68.0       65.751    0.967
+2023-10-01            54.0       53.633    0.993
+2024-09-01            55.0       57.040    1.037
+2024-12-01            63.0       62.472    0.992
+2025-06-01            53.0       53.215    1.004
+2026-02-01            80.0       80.885    1.011
+2026-03-01            85.0       74.790    0.880

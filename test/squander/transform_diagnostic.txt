@@ -1,0 +1,21 @@
+Google Trends Transformation Diagnostic
+============================================================
+Term: squander
+
+Original series:
+Observations       : 1612
+Date range         : 2022-01-01 → 2026-05-31
+Missing values     : 0
+
+Zero / flat behavior:
+Zero share         : 0.6377
+Flat share         : 0.4597
+
+Level stationarity:
+{'adf_p': np.float64(1.4245093432172203e-05), 'kpss_p': np.float64(0.08650952191136399), 'stationary': np.True_}
+
+First difference stationarity:
+{'adf_p': np.float64(2.567397242729964e-27), 'kpss_p': np.float64(0.1), 'stationary': np.True_}
+
+Log difference stationarity:
+{'adf_p': np.float64(3.448258740354798e-23), 'kpss_p': np.float64(0.1), 'stationary': np.True_}

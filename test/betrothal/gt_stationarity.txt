@@ -1,0 +1,26 @@
+Google Trends Stationarity Diagnostic
+============================================================
+Term: betrothal
+
+Series:
+  Observations        : 1612
+  Date range          : 2022-01-01 → 2026-05-31
+  Missing values      : 0
+
+Zero / flat behavior:
+  Zero share          : 0.867
+  Zero flag           : high_zero_inflation
+  Flat share          : 0.787
+  Flat flag           : high_flatness
+
+Level stationarity:
+{'ADF_stat': np.float64(-5.9032696528471424), 'ADF_pvalue': np.float64(2.746052270919195e-07), 'KPSS_stat': np.float64(0.9795429801691978), 'KPSS_pvalue': np.float64(0.01), 'stationary': False}
+
+Raw difference stationarity:
+{'ADF_stat': np.float64(-13.849298103909648), 'ADF_pvalue': np.float64(7.053542549632488e-26), 'KPSS_stat': np.float64(0.025239008223506613), 'KPSS_pvalue': np.float64(0.1), 'stationary': True}
+
+Log difference stationarity:
+{'ADF_stat': np.float64(-13.761818392569184), 'ADF_pvalue': np.float64(1.0052218073527327e-25), 'KPSS_stat': np.float64(0.02498990117441896), 'KPSS_pvalue': np.float64(0.1), 'stationary': True}
+
+Selected transformation:
+log1p_transform_then_difference

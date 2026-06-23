@@ -1,0 +1,21 @@
+Google Trends Diagnostic — term: donate
+Period : 2022-01-01 → 2026-05-31
+Rows in stitched series : 1612
+Monthly anchor points   : 8
+
+Months with ratio outside [0.85, 1.15]  (0 found):
+
+  None — alignment is clean.
+
+Full monthly comparison:
+
+Time               monthly    daily_agg    ratio
+--------------------------------------------------
+2022-05-01            45.0       45.003    1.000
+2023-01-01            48.0       47.865    0.997
+2023-10-01            45.0       45.113    1.003
+2024-09-01            47.0       47.817    1.017
+2024-12-01            56.0       55.653    0.994
+2025-06-01            51.0       51.341    1.007
+2026-02-01            67.0       63.633    0.950
+2026-03-01            58.0       55.941    0.964

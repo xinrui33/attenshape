@@ -1,0 +1,21 @@
+Google Trends Transformation Diagnostic
+============================================================
+Term: tariff
+
+Original series:
+Observations       : 1612
+Date range         : 2022-01-01 → 2026-05-31
+Missing values     : 0
+
+Zero / flat behavior:
+Zero share         : 0.0006
+Flat share         : 0.1278
+
+Level stationarity:
+{'adf_p': np.float64(0.004766141997886035), 'kpss_p': np.float64(0.01), 'stationary': np.False_}
+
+First difference stationarity:
+{'adf_p': np.float64(7.116585196640088e-25), 'kpss_p': np.float64(0.1), 'stationary': np.True_}
+
+Log difference stationarity:
+{'adf_p': np.float64(1.5511474858987312e-22), 'kpss_p': np.float64(0.1), 'stationary': np.True_}

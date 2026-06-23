@@ -1,0 +1,21 @@
+Google Trends Transformation Diagnostic
+============================================================
+Term: gift
+
+Original series:
+Observations       : 1612
+Date range         : 2022-01-01 → 2026-05-31
+Missing values     : 0
+
+Zero / flat behavior:
+Zero share         : 0.0000
+Flat share         : 0.1731
+
+Level stationarity:
+{'adf_p': np.float64(4.582170000339738e-06), 'kpss_p': np.float64(0.04722708558850083), 'stationary': np.False_}
+
+First difference stationarity:
+{'adf_p': np.float64(2.1462872124258768e-15), 'kpss_p': np.float64(0.1), 'stationary': np.True_}
+
+Log difference stationarity:
+{'adf_p': np.float64(2.7305816603846825e-14), 'kpss_p': np.float64(0.1), 'stationary': np.True_}

@@ -1,0 +1,21 @@
+Google Trends Transformation Diagnostic
+============================================================
+Term: redemption
+
+Original series:
+Observations       : 1612
+Date range         : 2022-01-01 → 2026-05-31
+Missing values     : 0
+
+Zero / flat behavior:
+Zero share         : 0.0000
+Flat share         : 0.0726
+
+Level stationarity:
+{'adf_p': np.float64(0.019320055905226983), 'kpss_p': np.float64(0.01), 'stationary': np.False_}
+
+First difference stationarity:
+{'adf_p': np.float64(2.5435925533754625e-19), 'kpss_p': np.float64(0.1), 'stationary': np.True_}
+
+Log difference stationarity:
+{'adf_p': np.float64(1.0467920749372773e-18), 'kpss_p': np.float64(0.1), 'stationary': np.True_}

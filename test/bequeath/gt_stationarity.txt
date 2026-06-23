@@ -1,0 +1,26 @@
+Google Trends Stationarity Diagnostic
+============================================================
+Term: bequeath
+
+Series:
+  Observations        : 1612
+  Date range          : 2022-01-01 → 2026-05-31
+  Missing values      : 0
+
+Zero / flat behavior:
+  Zero share          : 0.457
+  Zero flag           : moderate_zero_inflation
+  Flat share          : 0.431
+  Flat flag           : normal
+
+Level stationarity:
+{'ADF_stat': np.float64(-4.418458510425522), 'ADF_pvalue': np.float64(0.00027528390056077355), 'KPSS_stat': np.float64(2.4741518052609566), 'KPSS_pvalue': np.float64(0.01), 'stationary': False}
+
+Raw difference stationarity:
+{'ADF_stat': np.float64(-12.312340734009124), 'ADF_pvalue': np.float64(7.045642942202544e-23), 'KPSS_stat': np.float64(0.02154373198005952), 'KPSS_pvalue': np.float64(0.1), 'stationary': True}
+
+Log difference stationarity:
+{'ADF_stat': np.float64(-12.246994497628387), 'ADF_pvalue': np.float64(9.732516247640023e-23), 'KPSS_stat': np.float64(0.021352799189260925), 'KPSS_pvalue': np.float64(0.1), 'stationary': True}
+
+Selected transformation:
+log1p_transform_then_difference

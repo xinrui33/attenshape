@@ -1,0 +1,26 @@
+Google Trends Stationarity Diagnostic
+============================================================
+Term: prosperity
+
+Series:
+  Observations        : 1612
+  Date range          : 2022-01-01 → 2026-05-31
+  Missing values      : 0
+
+Zero / flat behavior:
+  Zero share          : 0.000
+  Zero flag           : low_zero_inflation
+  Flat share          : 0.006
+  Flat flag           : normal
+
+Level stationarity:
+{'ADF_stat': np.float64(-5.054408073253073), 'ADF_pvalue': np.float64(1.7300817850969135e-05), 'KPSS_stat': np.float64(0.22136027873323155), 'KPSS_pvalue': np.float64(0.1), 'stationary': True}
+
+Raw difference stationarity:
+{'ADF_stat': np.float64(-14.020365486845671), 'ADF_pvalue': np.float64(3.5804361640619577e-26), 'KPSS_stat': np.float64(0.05801379769275694), 'KPSS_pvalue': np.float64(0.1), 'stationary': True}
+
+Log difference stationarity:
+{'ADF_stat': np.float64(-13.695500924915555), 'ADF_pvalue': np.float64(1.319322104027305e-25), 'KPSS_stat': np.float64(0.04464111386595306), 'KPSS_pvalue': np.float64(0.1), 'stationary': True}
+
+Selected transformation:
+log1p_transform_then_difference

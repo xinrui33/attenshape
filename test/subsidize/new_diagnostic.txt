@@ -1,0 +1,27 @@
+Google Trends Weekly Anchor Diagnostic
+=======================================================
+Term: subsidize
+Date range: 2022-01-01 → 2026-05-31
+
+Daily series integrity:
+  Daily observations       : 1612
+  Missing daily values     : 0
+  Minimum value            : 0.000
+  Maximum value            : 303.614
+
+Weekly anchor alignment:
+  Anchor weeks compared    : 231
+  Median ratio             : 1.000
+  Median abs deviation     : 0.000
+  Maximum deviation        : 1.000
+
+Quality flags:
+  Mild abnormal weeks (0.85-1.15): 2 (0.9%)
+  Moderate abnormal weeks (0.75-1.25): 2 (0.9%)
+  Severe abnormal weeks (0.50-2.00): 2 (0.9%)
+Weeks outside mild threshold:
+
+Time                anchor      fixed    ratio
+--------------------------------------------------
+2022-01-02           11.00       0.00    0.000
+2022-01-09           13.00       0.00    0.000

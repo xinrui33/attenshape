@@ -1,0 +1,26 @@
+Google Trends Stationarity Diagnostic
+============================================================
+Term: squander
+
+Series:
+  Observations        : 1612
+  Date range          : 2022-01-01 → 2026-05-31
+  Missing values      : 0
+
+Zero / flat behavior:
+  Zero share          : 0.638
+  Zero flag           : high_zero_inflation
+  Flat share          : 0.599
+  Flat flag           : high_flatness
+
+Level stationarity:
+{'ADF_stat': np.float64(-4.4925878936049495), 'ADF_pvalue': np.float64(0.00020279373532572722), 'KPSS_stat': np.float64(0.9653752049165761), 'KPSS_pvalue': np.float64(0.01), 'stationary': False}
+
+Raw difference stationarity:
+{'ADF_stat': np.float64(-12.485910127747976), 'ADF_pvalue': np.float64(3.0190917989912055e-23), 'KPSS_stat': np.float64(0.04352157824381397), 'KPSS_pvalue': np.float64(0.1), 'stationary': True}
+
+Log difference stationarity:
+{'ADF_stat': np.float64(-12.52852740294679), 'ADF_pvalue': np.float64(2.4578614470077217e-23), 'KPSS_stat': np.float64(0.047731782300405416), 'KPSS_pvalue': np.float64(0.1), 'stationary': True}
+
+Selected transformation:
+log1p_transform_then_difference

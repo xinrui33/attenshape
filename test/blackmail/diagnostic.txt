@@ -1,0 +1,21 @@
+Google Trends Diagnostic — term: blackmail
+Period : 2022-01-01 → 2026-05-31
+Rows in stitched series : 1612
+Monthly anchor points   : 8
+
+Months with ratio outside [0.85, 1.15]  (0 found):
+
+  None — alignment is clean.
+
+Full monthly comparison:
+
+Time               monthly    daily_agg    ratio
+--------------------------------------------------
+2022-05-01            76.0       75.369    0.992
+2023-01-01            66.0       65.724    0.996
+2023-10-01            53.0       53.313    1.006
+2024-09-01            68.0       66.701    0.981
+2024-12-01            52.0       52.697    1.013
+2025-06-01            66.0       66.222    1.003
+2026-02-01           100.0       91.749    0.917
+2026-03-01            73.0       72.753    0.997

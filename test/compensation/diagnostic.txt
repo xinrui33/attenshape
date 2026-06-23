@@ -1,0 +1,23 @@
+Google Trends Diagnostic — term: compensation
+Period : 2022-01-01 → 2026-05-31
+Rows in stitched series : 1612
+Monthly anchor points   : 8
+
+Months with ratio outside [0.85, 1.15]  (1 found):
+
+Time               monthly    daily_agg    ratio
+--------------------------------------------------
+2026-03-01            87.0       61.635    0.708
+
+Full monthly comparison:
+
+Time               monthly    daily_agg    ratio
+--------------------------------------------------
+2022-05-01            31.0       30.782    0.993
+2023-01-01            30.0       30.166    1.006
+2023-10-01            33.0       32.929    0.998
+2024-09-01            31.0       32.076    1.035
+2024-12-01            37.0       36.319    0.982
+2025-06-01            40.0       40.321    1.008
+2026-02-01            89.0       89.045    1.001
+2026-03-01            87.0       61.635    0.708  ← !

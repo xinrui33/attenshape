@@ -1,0 +1,21 @@
+Google Trends Transformation Diagnostic
+============================================================
+Term: treasure
+
+Original series:
+Observations       : 1612
+Date range         : 2022-01-01 → 2026-05-31
+Missing values     : 0
+
+Zero / flat behavior:
+Zero share         : 0.0000
+Flat share         : 0.0676
+
+Level stationarity:
+{'adf_p': np.float64(0.0005758850247562144), 'kpss_p': np.float64(0.01), 'stationary': np.False_}
+
+First difference stationarity:
+{'adf_p': np.float64(2.6478956857210405e-17), 'kpss_p': np.float64(0.1), 'stationary': np.True_}
+
+Log difference stationarity:
+{'adf_p': np.float64(4.87479787067696e-17), 'kpss_p': np.float64(0.1), 'stationary': np.True_}

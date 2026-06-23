@@ -1,0 +1,26 @@
+Google Trends Stationarity Diagnostic
+============================================================
+Term: fire
+
+Series:
+  Observations        : 1612
+  Date range          : 2022-01-01 → 2026-05-31
+  Missing values      : 0
+
+Zero / flat behavior:
+  Zero share          : 0.000
+  Zero flag           : low_zero_inflation
+  Flat share          : 0.004
+  Flat flag           : normal
+
+Level stationarity:
+{'ADF_stat': np.float64(-9.502675389128266), 'ADF_pvalue': np.float64(3.411840259334045e-16), 'KPSS_stat': np.float64(1.0141662065458183), 'KPSS_pvalue': np.float64(0.01), 'stationary': False}
+
+Raw difference stationarity:
+{'ADF_stat': np.float64(-15.556076801585244), 'ADF_pvalue': np.float64(2.0706971706261387e-28), 'KPSS_stat': np.float64(0.008602853036475752), 'KPSS_pvalue': np.float64(0.1), 'stationary': True}
+
+Log difference stationarity:
+{'ADF_stat': np.float64(-12.322490419546924), 'ADF_pvalue': np.float64(6.702128514025117e-23), 'KPSS_stat': np.float64(0.013112156500642236), 'KPSS_pvalue': np.float64(0.1), 'stationary': True}
+
+Selected transformation:
+log1p_transform_then_difference

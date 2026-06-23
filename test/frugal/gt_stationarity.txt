@@ -1,0 +1,26 @@
+Google Trends Stationarity Diagnostic
+============================================================
+Term: frugal
+
+Series:
+  Observations        : 1612
+  Date range          : 2022-01-01 → 2026-05-31
+  Missing values      : 0
+
+Zero / flat behavior:
+  Zero share          : 0.000
+  Zero flag           : low_zero_inflation
+  Flat share          : 0.004
+  Flat flag           : normal
+
+Level stationarity:
+{'ADF_stat': np.float64(-3.875815337654531), 'ADF_pvalue': np.float64(0.002220220734582717), 'KPSS_stat': np.float64(3.5038579989250485), 'KPSS_pvalue': np.float64(0.01), 'stationary': False}
+
+Raw difference stationarity:
+{'ADF_stat': np.float64(-15.478688564037284), 'ADF_pvalue': np.float64(2.573151984433278e-28), 'KPSS_stat': np.float64(0.03293203481382278), 'KPSS_pvalue': np.float64(0.1), 'stationary': True}
+
+Log difference stationarity:
+{'ADF_stat': np.float64(-17.684481864780434), 'ADF_pvalue': np.float64(3.595621932463832e-30), 'KPSS_stat': np.float64(0.0419511042554584), 'KPSS_pvalue': np.float64(0.1), 'stationary': True}
+
+Selected transformation:
+log1p_transform_then_difference

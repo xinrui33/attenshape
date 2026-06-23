@@ -1,0 +1,26 @@
+Google Trends Stationarity Diagnostic
+============================================================
+Term: shortage
+
+Series:
+  Observations        : 1612
+  Date range          : 2022-01-01 → 2026-05-31
+  Missing values      : 0
+
+Zero / flat behavior:
+  Zero share          : 0.000
+  Zero flag           : low_zero_inflation
+  Flat share          : 0.007
+  Flat flag           : normal
+
+Level stationarity:
+{'ADF_stat': np.float64(-3.3950515732953566), 'ADF_pvalue': np.float64(0.011128724284098394), 'KPSS_stat': np.float64(2.684696961511412), 'KPSS_pvalue': np.float64(0.01), 'stationary': False}
+
+Raw difference stationarity:
+{'ADF_stat': np.float64(-12.710814591106075), 'ADF_pvalue': np.float64(1.0311196015380475e-23), 'KPSS_stat': np.float64(0.019686419718144044), 'KPSS_pvalue': np.float64(0.1), 'stationary': True}
+
+Log difference stationarity:
+{'ADF_stat': np.float64(-11.496297515952003), 'ADF_pvalue': np.float64(4.605467327763206e-21), 'KPSS_stat': np.float64(0.12507257659235377), 'KPSS_pvalue': np.float64(0.1), 'stationary': True}
+
+Selected transformation:
+log1p_transform_then_difference

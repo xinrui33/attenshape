@@ -1,0 +1,21 @@
+Google Trends Diagnostic — term: ruin
+Period : 2022-01-01 → 2026-05-31
+Rows in stitched series : 1612
+Monthly anchor points   : 8
+
+Months with ratio outside [0.85, 1.15]  (0 found):
+
+  None — alignment is clean.
+
+Full monthly comparison:
+
+Time               monthly    daily_agg    ratio
+--------------------------------------------------
+2022-05-01            26.0       26.022    1.001
+2023-01-01            25.0       24.943    0.998
+2023-10-01            32.0       32.126    1.004
+2024-09-01            30.0       29.644    0.988
+2024-12-01            26.0       25.979    0.999
+2025-06-01            27.0       27.091    1.003
+2026-02-01            35.0       34.277    0.979
+2026-03-01            33.0       33.235    1.007

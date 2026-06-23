@@ -1,0 +1,26 @@
+Google Trends Stationarity Diagnostic
+============================================================
+Term: gamble
+
+Series:
+  Observations        : 1612
+  Date range          : 2022-01-01 → 2026-05-31
+  Missing values      : 0
+
+Zero / flat behavior:
+  Zero share          : 0.000
+  Zero flag           : low_zero_inflation
+  Flat share          : 0.007
+  Flat flag           : normal
+
+Level stationarity:
+{'ADF_stat': np.float64(-7.250596035063798), 'ADF_pvalue': np.float64(1.784329397800952e-10), 'KPSS_stat': np.float64(1.5065023226678167), 'KPSS_pvalue': np.float64(0.01), 'stationary': False}
+
+Raw difference stationarity:
+{'ADF_stat': np.float64(-12.613602759766547), 'ADF_pvalue': np.float64(1.6349925993551042e-23), 'KPSS_stat': np.float64(0.032709453070328826), 'KPSS_pvalue': np.float64(0.1), 'stationary': True}
+
+Log difference stationarity:
+{'ADF_stat': np.float64(-12.541978612667455), 'ADF_pvalue': np.float64(2.303843972291456e-23), 'KPSS_stat': np.float64(0.036237657783905024), 'KPSS_pvalue': np.float64(0.1), 'stationary': True}
+
+Selected transformation:
+log1p_transform_then_difference

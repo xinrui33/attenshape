@@ -1,0 +1,21 @@
+Google Trends Diagnostic — term: luxury
+Period : 2022-01-01 → 2026-05-31
+Rows in stitched series : 1612
+Monthly anchor points   : 8
+
+Months with ratio outside [0.85, 1.15]  (0 found):
+
+  None — alignment is clean.
+
+Full monthly comparison:
+
+Time               monthly    daily_agg    ratio
+--------------------------------------------------
+2022-05-01            32.0       32.088    1.003
+2023-01-01            33.0       33.053    1.002
+2023-10-01            30.0       30.063    1.002
+2024-09-01            37.0       36.401    0.984
+2024-12-01            40.0       39.671    0.992
+2025-06-01            40.0       39.887    0.997
+2026-02-01            57.0       56.296    0.988
+2026-03-01            55.0       50.371    0.916

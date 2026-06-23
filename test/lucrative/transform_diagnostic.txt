@@ -1,0 +1,21 @@
+Google Trends Transformation Diagnostic
+============================================================
+Term: lucrative
+
+Original series:
+Observations       : 1612
+Date range         : 2022-01-01 → 2026-05-31
+Missing values     : 0
+
+Zero / flat behavior:
+Zero share         : 0.0000
+Flat share         : 0.0248
+
+Level stationarity:
+{'adf_p': np.float64(1.2413117650397353e-05), 'kpss_p': np.float64(0.02337364848433423), 'stationary': np.False_}
+
+First difference stationarity:
+{'adf_p': np.float64(8.518338950595279e-19), 'kpss_p': np.float64(0.1), 'stationary': np.True_}
+
+Log difference stationarity:
+{'adf_p': np.float64(3.3841620838751096e-19), 'kpss_p': np.float64(0.1), 'stationary': np.True_}

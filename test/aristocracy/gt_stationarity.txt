@@ -1,0 +1,26 @@
+Google Trends Stationarity Diagnostic
+============================================================
+Term: aristocracy
+
+Series:
+  Observations        : 1612
+  Date range          : 2022-01-01 → 2026-05-31
+  Missing values      : 0
+
+Zero / flat behavior:
+  Zero share          : 0.012
+  Zero flag           : low_zero_inflation
+  Flat share          : 0.011
+  Flat flag           : normal
+
+Level stationarity:
+{'ADF_stat': np.float64(-4.7671699823347975), 'ADF_pvalue': np.float64(6.282110126202952e-05), 'KPSS_stat': np.float64(0.1485826306034742), 'KPSS_pvalue': np.float64(0.1), 'stationary': True}
+
+Raw difference stationarity:
+{'ADF_stat': np.float64(-11.49672537059324), 'ADF_pvalue': np.float64(4.595028102232917e-21), 'KPSS_stat': np.float64(0.02392310112629714), 'KPSS_pvalue': np.float64(0.1), 'stationary': True}
+
+Log difference stationarity:
+{'ADF_stat': np.float64(-12.108829684389072), 'ADF_pvalue': np.float64(1.9405603241917096e-22), 'KPSS_stat': np.float64(0.01898741877186658), 'KPSS_pvalue': np.float64(0.1), 'stationary': True}
+
+Selected transformation:
+log1p_transform_then_difference

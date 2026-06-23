@@ -1,0 +1,21 @@
+Google Trends Diagnostic — term: fire
+Period : 2022-01-01 → 2026-05-31
+Rows in stitched series : 1612
+Monthly anchor points   : 8
+
+Months with ratio outside [0.85, 1.15]  (0 found):
+
+  None — alignment is clean.
+
+Full monthly comparison:
+
+Time               monthly    daily_agg    ratio
+--------------------------------------------------
+2022-05-01            20.0       20.070    1.003
+2023-01-01            19.0       19.111    1.006
+2023-10-01            21.0       20.902    0.995
+2024-09-01            23.0       23.208    1.009
+2024-12-01            21.0       21.033    1.002
+2025-06-01            22.0       21.984    0.999
+2026-02-01            25.0       25.455    1.018
+2026-03-01            28.0       31.346    1.119

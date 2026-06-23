@@ -1,0 +1,21 @@
+Google Trends Transformation Diagnostic
+============================================================
+Term: domination
+
+Original series:
+Observations       : 1612
+Date range         : 2022-01-01 → 2026-05-31
+Missing values     : 0
+
+Zero / flat behavior:
+Zero share         : 0.0000
+Flat share         : 0.0360
+
+Level stationarity:
+{'adf_p': np.float64(0.011577468969220114), 'kpss_p': np.float64(0.01), 'stationary': np.False_}
+
+First difference stationarity:
+{'adf_p': np.float64(2.8339479781269494e-15), 'kpss_p': np.float64(0.1), 'stationary': np.True_}
+
+Log difference stationarity:
+{'adf_p': np.float64(2.0761133195910997e-16), 'kpss_p': np.float64(0.1), 'stationary': np.True_}
