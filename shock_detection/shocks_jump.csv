@@ -1,0 +1,4 @@
+method,onset,offset,duration_days,peak_date,peak_value,params
+jump,2024-12-18,2024-12-18,1,2024-12-18,6.51853575886132,"{'window': 20, 'z_threshold': 4.709, 'significance': 0.01, 'estimator': 'Lee-Mykland bipower'}"
+jump,2025-04-04,2025-04-04,1,2025-04-04,4.979088542453412,"{'window': 20, 'z_threshold': 4.709, 'significance': 0.01, 'estimator': 'Lee-Mykland bipower'}"
+jump,2025-10-10,2025-10-10,1,2025-10-10,6.151599328634244,"{'window': 20, 'z_threshold': 4.709, 'significance': 0.01, 'estimator': 'Lee-Mykland bipower'}"

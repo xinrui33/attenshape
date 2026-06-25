@@ -1,0 +1,16 @@
+method,onset,offset,duration_days,peak_date,peak_value,params,direction
+drawdown,2022-02-01,2022-02-01,1,2022-02-01,0.05085629880826459,"{'price_col': 'sp500_close', 'window': 3, 'down_threshold': -0.05, 'up_threshold': 0.05}",up
+drawdown,2022-03-17,2022-03-17,1,2022-03-17,0.05716601441357061,"{'price_col': 'sp500_close', 'window': 3, 'down_threshold': -0.05, 'up_threshold': 0.05}",up
+drawdown,2022-05-09,2022-05-09,1,2022-05-09,0.07184133121556335,"{'price_col': 'sp500_close', 'window': 3, 'down_threshold': -0.05, 'up_threshold': 0.05}",down
+drawdown,2022-05-27,2022-05-27,1,2022-05-27,0.054994635258929225,"{'price_col': 'sp500_close', 'window': 3, 'down_threshold': -0.05, 'up_threshold': 0.05}",up
+drawdown,2022-06-10,2022-06-14,3,2022-06-13,0.08896030025517565,"{'price_col': 'sp500_close', 'window': 3, 'down_threshold': -0.05, 'up_threshold': 0.05}",down
+drawdown,2022-07-29,2022-07-29,1,2022-07-29,0.0533632541356901,"{'price_col': 'sp500_close', 'window': 3, 'down_threshold': -0.05, 'up_threshold': 0.05}",up
+drawdown,2022-08-30,2022-08-30,1,2022-08-30,0.05071543540906431,"{'price_col': 'sp500_close', 'window': 3, 'down_threshold': -0.05, 'up_threshold': 0.05}",down
+drawdown,2022-09-15,2022-09-15,1,2022-09-15,0.05086111863456444,"{'price_col': 'sp500_close', 'window': 3, 'down_threshold': -0.05, 'up_threshold': 0.05}",down
+drawdown,2022-10-05,2022-10-05,1,2022-10-05,0.05512572599699039,"{'price_col': 'sp500_close', 'window': 3, 'down_threshold': -0.05, 'up_threshold': 0.05}",up
+drawdown,2022-10-25,2022-10-25,1,2022-10-25,0.05273913780420769,"{'price_col': 'sp500_close', 'window': 3, 'down_threshold': -0.05, 'up_threshold': 0.05}",up
+drawdown,2022-11-14,2022-11-14,1,2022-11-14,0.05566920928116925,"{'price_col': 'sp500_close', 'window': 3, 'down_threshold': -0.05, 'up_threshold': 0.05}",up
+drawdown,2024-08-05,2024-08-05,1,2024-08-05,0.06083873357931757,"{'price_col': 'sp500_close', 'window': 3, 'down_threshold': -0.05, 'up_threshold': 0.05}",down
+drawdown,2025-04-04,2025-04-09,4,2025-04-07,0.1073396952871356,"{'price_col': 'sp500_close', 'window': 3, 'down_threshold': -0.05, 'up_threshold': 0.05}",down
+drawdown,2025-04-11,2025-04-11,1,2025-04-11,0.07638117799099309,"{'price_col': 'sp500_close', 'window': 3, 'down_threshold': -0.05, 'up_threshold': 0.05}",up
+drawdown,2025-04-24,2025-04-24,1,2025-04-24,0.06331080839311354,"{'price_col': 'sp500_close', 'window': 3, 'down_threshold': -0.05, 'up_threshold': 0.05}",up
