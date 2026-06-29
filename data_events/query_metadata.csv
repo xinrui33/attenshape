@@ -1,0 +1,52 @@
+query,folder,source,in_top,in_rising
+youtube,youtube,top,True,False
+news,news,top,True,False
+google,google,top,True,False
+weather,weather,rising;top,True,True
+amazon,amazon,top,True,False
+facebook,facebook,top,True,False
+calculator,calculator,top,True,False
+translate,translate,top,True,False
+wordle,wordle,top,True,False
+yahoo,yahoo,top,True,False
+gmail,gmail,top,True,False
+instagram,instagram,top,True,False
+target,target,top,True,False
+costco,costco,top,True,False
+walmart,walmart,top,True,False
+home depot,home_depot,top,True,False
+netflix,netflix,top,True,False
+google translate,google_translate,top,True,False
+twitter,twitter,top,True,False
+maps,maps,top,True,False
+lowes,lowes,top,True,False
+food near me,food_near_me,rising;top,True,True
+usps,usps,top,True,False
+reddit,reddit,top,True,False
+bitcoin price,bitcoin_price,rising,False,True
+dow jones,dow_jones,rising,False,True
+dow jones today,dow_jones_today,rising,False,True
+blooket,blooket,rising,False,True
+restaurants near me,restaurants_near_me,rising,False,True
+yahoo finance,yahoo_finance,rising,False,True
+warriors,warriors,rising,False,True
+tesla stock,tesla_stock,rising,False,True
+dominos,dominos,rising,False,True
+cool math games,cool_math_games,rising,False,True
+nba,nba,rising,False,True
+wells fargo,wells_fargo,rising,False,True
+fidelity,fidelity,rising,False,True
+s&p 500,s&p_500,rising,False,True
+stock market,stock_market,rising,False,True
+ufc,ufc,rising,False,True
+pizza hut,pizza_hut,rising,False,True
+fedex tracking,fedex_tracking,rising,False,True
+prodigy,prodigy,rising,False,True
+dow,dow,rising,False,True
+google docs,google_docs,rising,False,True
+stock market today,stock_market_today,rising,False,True
+gimkit,gimkit,rising,False,True
+severe thunderstorm warning,severe_thunderstorm_warning,rising,False,True
+celtics,celtics,rising,False,True
+kahoot,kahoot,rising,False,True
+nvidia stock,nvidia_stock,rising,False,True

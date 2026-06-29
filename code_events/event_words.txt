@@ -1,0 +1,623 @@
+TOP_QUERIES_RAW = r"""youtube
+news
+google
+weather
+amazon
+facebook
+calculator
+translate
+wordle
+yahoo
+gmail
+instagram
+target
+costco
+walmart
+home depot
+netflix
+google translate
+twitter
+maps
+lowes
+food near me
+usps
+reddit
+nba
+fox news
+ebay
+cvs
+craigslist
+chase
+yahoo mail
+zillow
+traductor
+flights
+mlb
+walgreens
+weather tomorrow
+ups
+nfl
+google maps
+amazon prime
+apple
+cnn
+nike
+roblox
+sports
+blooket
+trump
+warriors
+google docs
+espn
+snake
+dow jones
+dow
+spanish to english
+celtics
+english to spanish
+march madness
+google classroom
+stock market
+tiempo
+you
+tiktok
+docs
+chat gpt
+stranger things
+chatgpt
+top gun
+nba finals
+minecraft movie
+delta
+connections
+bitcoin
+best buy
+irs
+outlook
+hurricane
+election results
+nfl scores
+election
+white lotus
+jurassic world
+men‘s march madness
+indeed
+wells fargo
+nhl
+powerball
+veterans day
+election results 2022
+yankees
+amber heard
+women‘s march madness
+kamala harris
+jeffrey dahmer
+juneteenth
+donald trump
+boebert
+super bowl 2023
+2022 election results
+johnny depp
+canva
+val kilmer
+tariffs
+ncaa basketball
+midterm elections
+minecraft
+kari lake
+black panther
+oscars
+oscars 2023
+dahmer
+easter
+lauren boebert
+elections
+lakers
+mother's day
+groundhog day
+groundhog day 2023
+hurricane ian
+where to vote
+2024 presidential election
+2024 us election results
+amanda aldridge
+arizona election results
+who won the election
+gymnastics rings olympics
+games
+meatloaf
+jd vance
+florida hurricane
+ian
+masters
+dodgers
+memorial day
+medal count
+live election results
+map
+election results 2024
+election polls
+election results so far
+electoral map
+email
+electoral votes
+hurricane tracker
+hurricane nicole
+hurricane ian tracker
+hurricane florida
+ncaa
+ncaa tournament
+election map
+election 2024
+senate election results
+simone biles
+chiefs
+svb
+texas shooting
+2024 election
+uvalde
+us election 2024
+us election
+us open
+bengals
+biden
+artistic swimming olympics
+batman
+ukraine
+covid vaccine near me
+presidential election 2024
+presidential election results
+presidential polls
+presidential results
+ray liotta
+deadpool
+cowboys
+presidential election
+olympic medal count
+olympics
+olympics 2024
+polls
+2024 election results
+us election results
+toyota"""
+
+RISING_QUERIES_RAW = r"""bitcoin price
+dow jones
+dow jones today
+blooket
+restaurants near me
+yahoo finance
+warriors
+food near me
+tesla stock
+dominos
+cool math games
+nba
+wells fargo
+fidelity
+s&p 500
+stock market
+ufc
+pizza hut
+fedex tracking
+prodigy
+weather
+dow
+google docs
+stock market today
+gimkit
+severe thunderstorm warning
+celtics
+kahoot
+nvidia stock
+djia
+cnbc
+espn
+yankees
+google classroom
+ups tracking
+nfl
+lakers
+outlook
+nba scores
+chick fil a
+weather channel
+netflix
+bitcoin
+google maps
+usps tracking
+canva
+golden state warriors
+abcya
+juneteenth
+hurricane tracker
+cnn
+real madrid
+linkedin
+bank of america
+google drive
+pizza near me
+sp500
+trump
+target
+mlb
+fathers day
+champions league
+epic
+phillies
+turbotax
+premier league
+nba standings
+snake game
+news
+wordle
+maps
+nba finals
+amazon prime
+fox news
+weather tomorrow
+irs
+dodgers
+indeed
+powerball
+chat gpt
+mcdonalds
+ryan grantham
+aaron rodgers
+nasdaq
+boston celtics
+harbor freight
+mlb scores
+walmart near me
+voo
+texas roadhouse
+charles schwab
+breakfast near me
+math playground
+papa johns
+spy stock
+youtube
+hurricane
+march madness
+yahoo
+minecraft movie
+snake
+tiempo
+lauren boebert
+hulu
+wakanda forever
+wordle today
+red sox
+american airlines
+blooket join
+accuweather
+ezra miller
+nhl scores
+full moon june 2022
+amazon
+veterans day
+calculator
+gmail
+men‘s march madness
+groundhog day
+groundhog day 2023
+dire wolf
+roblox
+nhl
+the last of us
+best buy
+warriors vs celtics
+justin bieber
+tornado warning
+capital one
+kari lake
+nba playoffs
+weather radar
+arizona election results
+scratch
+hobby lobby
+hogwarts legacy
+clever
+tornado watch
+house election results
+disney plus
+don't worry darling
+national hurricane center
+apple stock
+dall e mini
+ticketmaster
+alabama basketball
+mlb standings
+dicks sporting goods
+fox news election results
+s and p 500
+qqq
+cnn election results
+election results
+facebook
+reddit
+jeffrey dahmer
+ncaa basketball
+women‘s march madness
+tiktok
+jurassic world
+costco
+nfl scores
+traductor
+white lotus
+hurricane florida
+usps
+docs
+black panther
+chatgpt
+everything everywhere all at once
+ramsay hunt syndrome
+amber heard
+tom brady
+veterans day 2022
+daylight savings 2023
+celtics vs warriors
+timer
+ncaa tournament
+jurassic world dominion
+ftx
+senate election results
+airbnb
+local guide program
+nba games
+vans
+kevin conroy
+cleveland browns
+bath and body works
+btc
+dollar general
+google slides
+indian wells
+nevada election results
+noaa hurricane
+ulta
+winter storm warning
+green bay packers
+vicky white
+gold price today
+lauren boebert election results
+nvda stock
+office 365
+victoria secret
+amazon stock
+tiempo mañana
+google calendar
+google finance
+paramount plus
+btc price
+ncedcloud
+election
+hurricane ian
+oscars
+walmart
+craigslist
+oscars 2023
+home depot
+twitter
+steelers
+lowes
+boebert
+sports
+packers
+svb
+ncaa bracket
+silicon valley bank
+starbucks
+father's day 2022
+college basketball
+where's my refund
+house of the dragon
+houston vs florida
+jamie lee curtis
+us election results
+oscar winners 2023
+msn
+punxsutawney phil
+sephora
+brendan fraser
+clima
+jurassic park
+march madness bracket
+solitaire
+scream 6
+the whale
+arizona governor race
+britney spears
+ncaa basketball scores
+zoom
+macys
+ikea
+steph curry
+did the groundhog see his shadow 2023
+steelers vs browns
+diary of a wimpy kid
+march madness 2023
+twitch
+chinese spy balloon
+google flights
+memorial day 2022
+meta stock
+signature bank
+duke basketball
+liga mx
+nevada senate race
+who won the election
+80 for brady
+gamestop
+nfl news
+spirit halloween
+all quiet on the western front
+georgia election results
+ixl
+jenna ortega
+sixers
+tesla stock price
+little caesars
+movies near me
+tropical storm warning
+atlanta braves
+chicago bears
+clemson football
+crumbl cookies
+laura loomer
+rosh hashanah 2022
+tsla stock
+united airlines
+dodgers vs phillies
+liquor store near me
+stephen curry
+ian
+dahmer
+meatloaf
+2022 election results
+election results 2022
+artistic swimming olympics
+mother's day
+masters
+stranger things
+tariffs
+val kilmer
+johnny depp
+memorial day
+ingrid andress
+chiefs
+election results 2024
+2024 election results
+louie anderson
+amanda aldridge
+us open
+top gun
+hurricane ian tracker
+bengals
+flights
+elections
+49ers
+google translate
+nike
+chase
+cvs
+yahoo mail
+canelo
+meatloaf singer
+walgreens
+deshaun watson
+florida basketball
+amber rose
+ncaa scores
+tim walz
+carhartt
+hillbilly elegy
+nfl schedule
+stranger things season 4
+australian open
+happy mothers day
+ian path
+hurricane debby
+hurricane nicole
+meat loaf
+midterm elections
+super bowl 2022
+us election 2024
+2024 presidential election
+noaa
+presidential election 2024
+quizlet
+amc
+davante adams
+boebert election
+electoral votes
+nintendo switch 2
+spectrum
+2024 us election results
+presidential election results
+presidential results
+midterm elections 2022
+nia long
+siobhan
+st patrick's day
+arsenal vs real madrid
+dahmer netflix
+jesse williams
+juneteenth holiday
+ozark season 4
+shein
+top gun maverick
+when we were young festival
+aaron judge
+canelo vs bivol
+ime udoka
+kohls
+obi wan kenobi
+southwest airlines
+unblocked games
+2024 united states presidential election
+australian open 2022
+facebook login
+iran
+kansas city chiefs
+kohl's
+michelle yeoh
+speed test
+voting results
+baker mayfield
+evan peters
+old navy
+ray liotta cause of death
+sam's club
+translate english to spanish
+what is juneteenth
+who won the election 2024
+wisconsin supreme court race
+you tube
+freeze warning
+miami heat
+time change 2023
+yellowstone flooding
+auburn basketball
+carvana
+google sheets
+herschel walker
+miami dolphins
+pedro pascal
+us open leaderboard
+candy hulu
+dow futures
+excessive heat warning
+purdue basketball
+texas election results
+tony awards 2022
+ucla basketball
+women's march madness
+2020 election results
+buffalo wild wings
+cincinnati bengals
+colorado election results
+copa del rey
+credit karma
+desmos
+house of representatives
+michigan election results
+msnbc
+nikita dragun
+phoenix suns
+rico charge
+2024 united states elections results
+electoral votes by state
+feliz dia de la madre
+fidelity login
+gabby thomas
+midterm election results
+new york yankees
+oregon governor race
+pbs kids
+pennsylvania election results
+quizlet live
+severe thunderstorm watch
+stacey abrams
+ufc 281
+united states elections, 2022"""

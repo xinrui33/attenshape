@@ -1,0 +1,59 @@
+# ── Hardcoded query lists ─────────────────────────────────────────────────────
+# These are manually curated inputs. The notebook does not clean or normalize them.
+
+TOP_QUERIES_RAW = r"""youtube
+news
+google
+weather
+amazon
+facebook
+calculator
+translate
+wordle
+yahoo
+gmail
+instagram
+target
+costco
+walmart
+home depot
+netflix
+google translate
+twitter
+maps
+lowes
+food near me
+usps
+reddit
+"""
+
+RISING_QUERIES_RAW = r"""bitcoin price
+dow jones
+dow jones today
+blooket
+restaurants near me
+yahoo finance
+warriors
+food near me
+tesla stock
+dominos
+cool math games
+nba
+wells fargo
+fidelity
+s&p 500
+stock market
+ufc
+pizza hut
+fedex tracking
+prodigy
+weather
+dow
+google docs
+stock market today
+gimkit
+severe thunderstorm warning
+celtics
+kahoot
+nvidia stock
+"""

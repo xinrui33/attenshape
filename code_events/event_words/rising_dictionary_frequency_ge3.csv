@@ -1,0 +1,441 @@
+query_clean,frequency,query,mean_interest,max_interest
+bitcoin price,40,bitcoin price,3.275,8
+dow jones,39,dow jones,8.102564102564102,24
+dow jones today,34,dow jones today,2.676470588235294,8
+blooket,29,blooket,7.448275862068965,17
+restaurants near me,28,restaurants near me,5.892857142857143,9
+yahoo finance,26,yahoo finance,2.3076923076923075,4
+warriors,23,warriors,11.608695652173912,26
+food near me,21,food near me,9.333333333333334,14
+tesla stock,21,tesla stock,3.3333333333333335,8
+dominos,20,dominos,3.8,7
+cool math games,20,cool math games,3.65,6
+nba,18,nba,29.333333333333332,47
+wells fargo,17,wells fargo,6.470588235294118,8
+fidelity,17,fidelity,3.588235294117647,6
+s&p 500,17,s&p 500,3.588235294117647,9
+stock market,16,stock market,10.6875,22
+ufc,16,ufc,4.4375,7
+pizza hut,16,pizza hut,3.375,5
+fedex tracking,16,fedex tracking,2.375,3
+prodigy,16,prodigy,2.25,4
+weather,15,weather,81.8,100
+dow,15,dow,15.8,35
+google docs,15,google docs,6.533333333333333,11
+stock market today,15,stock market today,3.7333333333333334,8
+gimkit,15,gimkit,3.2666666666666666,7
+severe thunderstorm warning,15,severe thunderstorm warning,2.933333333333333,6
+celtics,14,celtics,13.0,29
+kahoot,14,kahoot,4.5,6
+nvidia stock,14,nvidia stock,2.2142857142857144,4
+djia,14,djia,2.142857142857143,4
+cnbc,14,cnbc,1.4285714285714286,3
+espn,13,espn,7.3076923076923075,10
+yankees,13,yankees,6.461538461538462,12
+google classroom,13,google classroom,5.461538461538462,11
+ups tracking,13,ups tracking,2.6923076923076925,4
+nfl,12,nfl,20.583333333333332,66
+lakers,12,lakers,7.166666666666667,15
+outlook,12,outlook,6.833333333333333,9
+nba scores,12,nba scores,3.8333333333333335,8
+chick fil a,12,chick fil a,3.1666666666666665,4
+weather channel,12,weather channel,2.8333333333333335,7
+netflix,11,netflix,14.090909090909092,19
+bitcoin,11,bitcoin,8.454545454545455,12
+google maps,11,google maps,7.545454545454546,9
+usps tracking,11,usps tracking,4.363636363636363,5
+canva,11,canva,4.2727272727272725,10
+golden state warriors,11,golden state warriors,3.4545454545454546,5
+abcya,11,abcya,1.7272727272727273,2
+juneteenth,10,juneteenth,9.5,21
+hurricane tracker,10,hurricane tracker,7.8,21
+cnn,10,cnn,7.0,9
+real madrid,10,real madrid,6.2,21
+linkedin,10,linkedin,6.0,9
+bank of america,10,bank of america,5.5,6
+google drive,10,google drive,3.4,5
+pizza near me,10,pizza near me,3.2,4
+sp500,10,sp500,2.0,4
+trump,9,trump,30.88888888888889,100
+target,9,target,11.777777777777779,17
+mlb,9,mlb,11.222222222222221,17
+fathers day,9,fathers day,6.444444444444445,15
+champions league,9,champions league,5.777777777777778,14
+epic,9,epic,4.777777777777778,6
+phillies,9,phillies,3.888888888888889,6
+turbotax,9,turbotax,3.888888888888889,6
+premier league,9,premier league,3.0,4
+nba standings,9,nba standings,2.7777777777777777,4
+snake game,9,snake game,2.3333333333333335,4
+news,8,news,43.125,61
+wordle,8,wordle,24.375,40
+maps,8,maps,12.0,14
+nba finals,8,nba finals,11.5,15
+amazon prime,8,amazon prime,10.875,22
+fox news,8,fox news,9.25,12
+weather tomorrow,8,weather tomorrow,6.625,9
+irs,8,irs,6.375,10
+dodgers,8,dodgers,6.0,9
+indeed,8,indeed,6.0,8
+powerball,8,powerball,5.0,9
+chat gpt,8,chat gpt,4.875,14
+mcdonalds,8,mcdonalds,3.875,5
+ryan grantham,8,ryan grantham,3.875,11
+aaron rodgers,8,aaron rodgers,3.75,6
+nasdaq,8,nasdaq,3.375,5
+boston celtics,8,boston celtics,3.0,5
+harbor freight,8,harbor freight,2.625,3
+mlb scores,8,mlb scores,2.625,5
+walmart near me,8,walmart near me,2.625,3
+voo,8,voo,2.125,3
+texas roadhouse,8,texas roadhouse,2.0,3
+charles schwab,8,charles schwab,1.75,2
+breakfast near me,8,breakfast near me,1.625,2
+math playground,8,math playground,1.625,2
+papa johns,8,papa johns,1.625,2
+spy stock,8,spy stock,1.5,2
+youtube,7,youtube,59.285714285714285,71
+hurricane,7,hurricane,40.0,100
+march madness,7,march madness,26.714285714285715,46
+yahoo,7,yahoo,16.142857142857142,25
+minecraft movie,7,minecraft movie,13.428571428571429,19
+snake,7,snake,8.285714285714286,11
+tiempo,7,tiempo,6.571428571428571,9
+lauren boebert,7,lauren boebert,5.0,9
+hulu,7,hulu,4.428571428571429,7
+wakanda forever,7,wakanda forever,4.428571428571429,10
+wordle today,7,wordle today,4.428571428571429,6
+red sox,7,red sox,3.7142857142857144,5
+american airlines,7,american airlines,3.4285714285714284,5
+blooket join,7,blooket join,1.8571428571428572,3
+accuweather,7,accuweather,1.7142857142857142,2
+ezra miller,7,ezra miller,1.7142857142857142,2
+nhl scores,7,nhl scores,1.7142857142857142,2
+full moon june 2022,7,full moon june 2022,1.4285714285714286,2
+amazon,6,amazon,63.0,100
+veterans day,6,veterans day,33.0,100
+calculator,6,calculator,24.333333333333332,32
+gmail,6,gmail,23.666666666666668,34
+men’s march madness,6,men’s march madness,23.166666666666668,42
+groundhog day,6,groundhog day,16.0,28
+groundhog day 2023,6,groundhog day 2023,10.0,18
+dire wolf,6,dire wolf,7.333333333333333,19
+roblox,6,roblox,7.166666666666667,9
+nhl,6,nhl,7.0,9
+the last of us,6,the last of us,6.666666666666667,8
+best buy,6,best buy,6.0,8
+warriors vs celtics,6,warriors vs celtics,5.833333333333333,8
+justin bieber,6,justin bieber,4.666666666666667,6
+tornado warning,6,tornado warning,4.666666666666667,8
+capital one,6,capital one,4.166666666666667,5
+kari lake,6,kari lake,4.166666666666667,8
+nba playoffs,6,nba playoffs,4.0,7
+weather radar,6,weather radar,3.6666666666666665,5
+arizona election results,6,arizona election results,3.5,8
+scratch,6,scratch,3.1666666666666665,4
+hobby lobby,6,hobby lobby,3.0,4
+hogwarts legacy,6,hogwarts legacy,3.0,3
+clever,6,clever,2.8333333333333335,4
+tornado watch,6,tornado watch,2.8333333333333335,6
+house election results,6,house election results,2.6666666666666665,4
+disney plus,6,disney plus,2.5,4
+don't worry darling,6,don't worry darling,2.5,4
+national hurricane center,6,national hurricane center,2.3333333333333335,4
+apple stock,6,apple stock,2.0,3
+dall e mini,6,dall e mini,2.0,2
+ticketmaster,6,ticketmaster,2.0,2
+alabama basketball,6,alabama basketball,1.6666666666666667,2
+mlb standings,6,mlb standings,1.5,2
+dicks sporting goods,6,dicks sporting goods,1.3333333333333333,2
+fox news election results,6,fox news election results,1.3333333333333333,2
+s and p 500,6,s and p 500,1.3333333333333333,2
+qqq,6,qqq,1.1666666666666667,2
+cnn election results,6,cnn election results,1.0,1
+election results,5,election results,69.4,83
+facebook,5,facebook,49.8,52
+reddit,5,reddit,24.4,42
+jeffrey dahmer,5,jeffrey dahmer,21.6,28
+ncaa basketball,5,ncaa basketball,11.8,16
+women’s march madness,5,women’s march madness,11.8,15
+tiktok,5,tiktok,11.4,14
+jurassic world,5,jurassic world,10.4,13
+costco,5,costco,10.2,14
+nfl scores,5,nfl scores,10.0,19
+traductor,5,traductor,10.0,12
+white lotus,5,white lotus,9.8,15
+hurricane florida,5,hurricane florida,9.4,17
+usps,5,usps,9.4,11
+docs,5,docs,8.8,12
+black panther,5,black panther,8.2,15
+chatgpt,5,chatgpt,8.2,11
+everything everywhere all at once,5,everything everywhere all at once,8.0,17
+ramsay hunt syndrome,5,ramsay hunt syndrome,7.6,12
+amber heard,5,amber heard,7.0,17
+tom brady,5,tom brady,7.0,10
+veterans day 2022,5,veterans day 2022,6.8,17
+daylight savings 2023,5,daylight savings 2023,6.0,8
+celtics vs warriors,5,celtics vs warriors,5.8,8
+timer,5,timer,5.2,6
+ncaa tournament,5,ncaa tournament,4.6,8
+jurassic world dominion,5,jurassic world dominion,4.0,6
+ftx,5,ftx,3.4,5
+senate election results,5,senate election results,3.4,5
+airbnb,5,airbnb,3.2,5
+local guide program,5,local guide program,3.2,4
+nba games,5,nba games,3.2,5
+vans,5,vans,3.2,7
+kevin conroy,5,kevin conroy,3.0,8
+cleveland browns,5,cleveland browns,2.8,6
+bath and body works,5,bath and body works,2.6,3
+btc,5,btc,2.6,3
+dollar general,5,dollar general,2.6,3
+google slides,5,google slides,2.6,4
+indian wells,5,indian wells,2.2,3
+nevada election results,5,nevada election results,2.2,5
+noaa hurricane,5,noaa hurricane,2.2,4
+ulta,5,ulta,2.2,3
+winter storm warning,5,winter storm warning,2.2,3
+green bay packers,5,green bay packers,2.0,5
+vicky white,5,vicky white,2.0,3
+gold price today,5,gold price today,1.8,2
+lauren boebert election results,5,lauren boebert election results,1.8,3
+nvda stock,5,nvda stock,1.8,3
+office 365,5,office 365,1.8,2
+victoria secret,5,victoria secret,1.8,2
+amazon stock,5,amazon stock,1.6,2
+tiempo mañana,5,tiempo mañana,1.6,2
+google calendar,5,google calendar,1.2,2
+google finance,5,google finance,1.2,2
+paramount plus,5,paramount plus,1.2,2
+btc price,5,btc price,1.0,1
+ncedcloud,5,ncedcloud,1.0,1
+election,4,election,100.0,100
+hurricane ian,4,hurricane ian,37.0,56
+oscars,4,oscars,27.25,46
+walmart,4,walmart,24.25,32
+craigslist,4,craigslist,16.25,19
+oscars 2023,4,oscars 2023,15.0,25
+home depot,4,home depot,14.75,20
+twitter,4,twitter,12.75,17
+steelers,4,steelers,12.5,26
+lowes,4,lowes,10.25,14
+boebert,4,boebert,9.25,15
+sports,4,sports,9.25,14
+packers,4,packers,7.5,15
+svb,4,svb,7.0,10
+ncaa bracket,4,ncaa bracket,6.0,9
+silicon valley bank,4,silicon valley bank,6.0,9
+starbucks,4,starbucks,6.0,8
+father's day 2022,4,father's day 2022,5.75,7
+college basketball,4,college basketball,5.5,7
+where's my refund,4,where's my refund,5.5,6
+house of the dragon,4,house of the dragon,5.25,7
+houston vs florida,4,houston vs florida,5.25,12
+jamie lee curtis,4,jamie lee curtis,5.25,9
+us election results,4,us election results,5.25,7
+oscar winners 2023,4,oscar winners 2023,5.0,10
+msn,4,msn,4.5,5
+punxsutawney phil,4,punxsutawney phil,4.5,6
+sephora,4,sephora,4.5,5
+brendan fraser,4,brendan fraser,4.25,7
+clima,4,clima,4.25,5
+jurassic park,4,jurassic park,4.25,5
+march madness bracket,4,march madness bracket,4.25,6
+solitaire,4,solitaire,4.25,5
+scream 6,4,scream 6,4.0,5
+the whale,4,the whale,4.0,6
+arizona governor race,4,arizona governor race,3.75,5
+britney spears,4,britney spears,3.75,7
+ncaa basketball scores,4,ncaa basketball scores,3.75,6
+zoom,4,zoom,3.75,5
+macys,4,macys,3.5,4
+ikea,4,ikea,3.25,4
+steph curry,4,steph curry,3.25,4
+did the groundhog see his shadow 2023,4,did the groundhog see his shadow 2023,3.0,4
+steelers vs browns,4,steelers vs browns,3.0,7
+diary of a wimpy kid,4,diary of a wimpy kid,2.75,4
+march madness 2023,4,march madness 2023,2.75,4
+twitch,4,twitch,2.75,3
+chinese spy balloon,4,chinese spy balloon,2.5,3
+google flights,4,google flights,2.5,4
+memorial day 2022,4,memorial day 2022,2.5,4
+meta stock,4,meta stock,2.5,3
+signature bank,4,signature bank,2.5,4
+duke basketball,4,duke basketball,2.25,4
+liga mx,4,liga mx,2.25,3
+nevada senate race,4,nevada senate race,2.25,4
+who won the election,4,who won the election,2.25,4
+80 for brady,4,80 for brady,2.0,2
+gamestop,4,gamestop,2.0,2
+nfl news,4,nfl news,2.0,2
+spirit halloween,4,spirit halloween,2.0,3
+all quiet on the western front,4,all quiet on the western front,1.75,3
+georgia election results,4,georgia election results,1.75,3
+ixl,4,ixl,1.75,2
+jenna ortega,4,jenna ortega,1.75,2
+sixers,4,sixers,1.75,2
+tesla stock price,4,tesla stock price,1.75,2
+little caesars,4,little caesars,1.5,2
+movies near me,4,movies near me,1.5,2
+tropical storm warning,4,tropical storm warning,1.5,2
+atlanta braves,4,atlanta braves,1.25,2
+chicago bears,4,chicago bears,1.25,2
+clemson football,4,clemson football,1.25,2
+crumbl cookies,4,crumbl cookies,1.25,2
+laura loomer,4,laura loomer,1.25,2
+rosh hashanah 2022,4,rosh hashanah 2022,1.25,2
+tsla stock,4,tsla stock,1.25,2
+united airlines,4,united airlines,1.25,2
+dodgers vs phillies,4,dodgers vs phillies,1.0,1
+liquor store near me,4,liquor store near me,1.0,1
+stephen curry,4,stephen curry,1.0,1
+ian,3,ian,65.66666666666667,76
+dahmer,3,dahmer,39.0,44
+meatloaf,3,meatloaf,33.0,44
+2022 election results,3,2022 election results,27.0,29
+election results 2022,3,election results 2022,26.666666666666668,28
+artistic swimming olympics,3,artistic swimming olympics,25.333333333333332,37
+mother's day,3,mother's day,19.666666666666668,21
+masters,3,masters,18.0,21
+stranger things,3,stranger things,18.0,25
+tariffs,3,tariffs,18.0,21
+val kilmer,3,val kilmer,17.333333333333332,25
+johnny depp,3,johnny depp,16.666666666666668,25
+memorial day,3,memorial day,16.666666666666668,21
+ingrid andress,3,ingrid andress,15.333333333333334,26
+chiefs,3,chiefs,14.333333333333334,15
+election results 2024,3,election results 2024,14.0,15
+2024 election results,3,2024 election results,13.666666666666666,14
+louie anderson,3,louie anderson,13.666666666666666,18
+amanda aldridge,3,amanda aldridge,13.333333333333334,20
+us open,3,us open,13.333333333333334,15
+top gun,3,top gun,13.0,17
+hurricane ian tracker,3,hurricane ian tracker,12.666666666666666,14
+bengals,3,bengals,11.666666666666666,13
+flights,3,flights,11.666666666666666,16
+elections,3,elections,11.0,17
+49ers,3,49ers,10.666666666666666,13
+google translate,3,google translate,10.333333333333334,14
+nike,3,nike,10.0,10
+chase,3,chase,9.333333333333334,11
+cvs,3,cvs,9.333333333333334,10
+yahoo mail,3,yahoo mail,9.333333333333334,10
+canelo,3,canelo,9.0,10
+meatloaf singer,3,meatloaf singer,8.666666666666666,12
+walgreens,3,walgreens,8.666666666666666,11
+deshaun watson,3,deshaun watson,7.666666666666667,10
+florida basketball,3,florida basketball,7.666666666666667,14
+amber rose,3,amber rose,7.333333333333333,13
+ncaa scores,3,ncaa scores,7.333333333333333,9
+tim walz,3,tim walz,7.333333333333333,12
+carhartt,3,carhartt,7.0,8
+hillbilly elegy,3,hillbilly elegy,6.666666666666667,9
+nfl schedule,3,nfl schedule,6.666666666666667,7
+stranger things season 4,3,stranger things season 4,6.666666666666667,9
+australian open,3,australian open,6.333333333333333,7
+happy mothers day,3,happy mothers day,6.333333333333333,7
+ian path,3,ian path,6.333333333333333,7
+hurricane debby,3,hurricane debby,6.0,10
+hurricane nicole,3,hurricane nicole,6.0,10
+meat loaf,3,meat loaf,6.0,8
+midterm elections,3,midterm elections,6.0,6
+super bowl 2022,3,super bowl 2022,6.0,8
+us election 2024,3,us election 2024,5.666666666666667,7
+2024 presidential election,3,2024 presidential election,5.333333333333333,6
+noaa,3,noaa,5.333333333333333,7
+presidential election 2024,3,presidential election 2024,5.333333333333333,6
+quizlet,3,quizlet,5.333333333333333,6
+amc,3,amc,5.0,7
+davante adams,3,davante adams,5.0,7
+boebert election,3,boebert election,4.666666666666667,6
+electoral votes,3,electoral votes,4.666666666666667,5
+nintendo switch 2,3,nintendo switch 2,4.666666666666667,6
+spectrum,3,spectrum,4.666666666666667,6
+2024 us election results,3,2024 us election results,4.333333333333333,5
+presidential election results,3,presidential election results,4.333333333333333,5
+presidential results,3,presidential results,4.333333333333333,5
+midterm elections 2022,3,midterm elections 2022,4.0,4
+nia long,3,nia long,4.0,8
+siobhan,3,siobhan,4.0,8
+st patrick's day,3,st patrick's day,4.0,5
+arsenal vs real madrid,3,arsenal vs real madrid,3.6666666666666665,7
+dahmer netflix,3,dahmer netflix,3.6666666666666665,5
+jesse williams,3,jesse williams,3.6666666666666665,5
+juneteenth holiday,3,juneteenth holiday,3.6666666666666665,4
+ozark season 4,3,ozark season 4,3.6666666666666665,4
+shein,3,shein,3.6666666666666665,5
+top gun maverick,3,top gun maverick,3.6666666666666665,5
+when we were young festival,3,when we were young festival,3.6666666666666665,4
+aaron judge,3,aaron judge,3.3333333333333335,4
+canelo vs bivol,3,canelo vs bivol,3.3333333333333335,4
+ime udoka,3,ime udoka,3.3333333333333335,6
+kohls,3,kohls,3.3333333333333335,4
+obi wan kenobi,3,obi wan kenobi,3.3333333333333335,5
+southwest airlines,3,southwest airlines,3.3333333333333335,4
+unblocked games,3,unblocked games,3.3333333333333335,4
+2024 united states presidential election,3,2024 united states presidential election,3.0,3
+australian open 2022,3,australian open 2022,3.0,3
+facebook login,3,facebook login,3.0,4
+iran,3,iran,3.0,4
+kansas city chiefs,3,kansas city chiefs,3.0,3
+kohl's,3,kohl's,3.0,3
+michelle yeoh,3,michelle yeoh,3.0,4
+speed test,3,speed test,3.0,4
+voting results,3,voting results,3.0,3
+baker mayfield,3,baker mayfield,2.6666666666666665,3
+evan peters,3,evan peters,2.6666666666666665,3
+old navy,3,old navy,2.6666666666666665,3
+ray liotta cause of death,3,ray liotta cause of death,2.6666666666666665,5
+sam's club,3,sam's club,2.6666666666666665,3
+translate english to spanish,3,translate english to spanish,2.6666666666666665,3
+what is juneteenth,3,what is juneteenth,2.6666666666666665,3
+who won the election 2024,3,who won the election 2024,2.6666666666666665,3
+wisconsin supreme court race,3,wisconsin supreme court race,2.6666666666666665,4
+you tube,3,you tube,2.6666666666666665,3
+freeze warning,3,freeze warning,2.3333333333333335,4
+miami heat,3,miami heat,2.3333333333333335,3
+time change 2023,3,time change 2023,2.3333333333333335,3
+yellowstone flooding,3,yellowstone flooding,2.3333333333333335,3
+auburn basketball,3,auburn basketball,2.0,2
+carvana,3,carvana,2.0,2
+google sheets,3,google sheets,2.0,2
+herschel walker,3,herschel walker,2.0,2
+miami dolphins,3,miami dolphins,2.0,3
+pedro pascal,3,pedro pascal,2.0,2
+us open leaderboard,3,us open leaderboard,2.0,2
+candy hulu,3,candy hulu,1.6666666666666667,2
+dow futures,3,dow futures,1.6666666666666667,2
+excessive heat warning,3,excessive heat warning,1.6666666666666667,2
+purdue basketball,3,purdue basketball,1.6666666666666667,2
+texas election results,3,texas election results,1.6666666666666667,2
+tony awards 2022,3,tony awards 2022,1.6666666666666667,3
+ucla basketball,3,ucla basketball,1.6666666666666667,2
+women's march madness,3,women's march madness,1.6666666666666667,2
+2020 election results,3,2020 election results,1.3333333333333333,2
+buffalo wild wings,3,buffalo wild wings,1.3333333333333333,2
+cincinnati bengals,3,cincinnati bengals,1.3333333333333333,2
+colorado election results,3,colorado election results,1.3333333333333333,2
+copa del rey,3,copa del rey,1.3333333333333333,2
+credit karma,3,credit karma,1.3333333333333333,2
+desmos,3,desmos,1.3333333333333333,2
+house of representatives,3,house of representatives,1.3333333333333333,2
+michigan election results,3,michigan election results,1.3333333333333333,2
+msnbc,3,msnbc,1.3333333333333333,2
+nikita dragun,3,nikita dragun,1.3333333333333333,2
+phoenix suns,3,phoenix suns,1.3333333333333333,2
+rico charge,3,rico charge,1.3333333333333333,2
+2024 united states elections results,3,2024 united states elections results,1.0,1
+electoral votes by state,3,electoral votes by state,1.0,1
+feliz dia de la madre,3,feliz dia de la madre,1.0,1
+fidelity login,3,fidelity login,1.0,1
+gabby thomas,3,gabby thomas,1.0,1
+midterm election results,3,midterm election results,1.0,1
+new york yankees,3,new york yankees,1.0,1
+oregon governor race,3,oregon governor race,1.0,1
+pbs kids,3,pbs kids,1.0,1
+pennsylvania election results,3,pennsylvania election results,1.0,1
+quizlet live,3,quizlet live,1.0,1
+severe thunderstorm watch,3,severe thunderstorm watch,1.0,1
+stacey abrams,3,stacey abrams,1.0,1
+ufc 281,3,ufc 281,1.0,1
+"united states elections, 2022",3,"united states elections, 2022",1.0,1
