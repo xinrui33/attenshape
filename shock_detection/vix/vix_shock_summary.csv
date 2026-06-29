@@ -1,0 +1,8 @@
+metric,value
+n_observations,1106
+start_date,2022-01-03 00:00:00
+end_date,2026-05-29 00:00:00
+n_pos_1sd_shocks,96
+n_pos_2sd_shocks,25
+n_neg_1sd_shocks,77
+n_abs_2sd_shocks,38
