@@ -1,2 +1,2 @@
-# fgindex
-Constructing a Fear and Greed index from Google Trends search queries
+# mathmodeling
+Constructing an index from Google Trends search queries
