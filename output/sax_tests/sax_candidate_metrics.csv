@@ -1,0 +1,4 @@
+candidate,alphabet_size,k,window_size,n_segments,step,spike_features,silhouette,davies_bouldin,inertia,n_terms
+auto_best_alphabet6_k2,6,2,365,12,7,True,0.23820869312644674,1.5351475923617364,7252.179061995004,492
+interpretable_alphabet4_k5,4,5,365,12,7,True,0.22098221776337285,1.388577804928731,4635.048742916216,492
+interpretable_alphabet3_k4,3,4,365,12,7,True,0.20766050770598352,1.390338615279815,5313.786781802909,492

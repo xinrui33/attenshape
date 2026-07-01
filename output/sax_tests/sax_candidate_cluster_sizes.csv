@@ -1,0 +1,12 @@
+candidate,alphabet_size,k,cluster,n_terms
+auto_best_alphabet6_k2,6,2,0,130
+auto_best_alphabet6_k2,6,2,1,362
+interpretable_alphabet3_k4,3,4,0,152
+interpretable_alphabet3_k4,3,4,1,74
+interpretable_alphabet3_k4,3,4,2,132
+interpretable_alphabet3_k4,3,4,3,134
+interpretable_alphabet4_k5,4,5,0,78
+interpretable_alphabet4_k5,4,5,1,178
+interpretable_alphabet4_k5,4,5,2,83
+interpretable_alphabet4_k5,4,5,3,92
+interpretable_alphabet4_k5,4,5,4,61

@@ -1,0 +1,3 @@
+parameter,selected_value,selection_rule
+embed_tau,3,"first median autocorrelation lag below 1/e, else first local minimum"
+embed_dim,4,"first median false-nearest-neighbor fraction below 10%, else minimum"
