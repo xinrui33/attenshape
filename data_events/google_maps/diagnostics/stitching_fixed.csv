@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
+google_maps,1612,2022-01-01,2026-05-31,0,20.97370377343743,122.24357008835769,61.86412091594303,16.562982945877593,0

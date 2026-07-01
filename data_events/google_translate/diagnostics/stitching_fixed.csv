@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
+google_translate,1612,2022-01-01,2026-05-31,0,30.077096870899467,104.26319994189848,64.39263623236056,17.67170788966213,0

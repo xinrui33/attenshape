@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
+2024_election,1612,2022-01-01,2026-05-31,0,0.0,12808.049640253028,198.86833274268673,493.56727144362907,164

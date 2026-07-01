@@ -1,0 +1,8 @@
+step,file,overlap_days,valid_ratio_days,overlap_corr,median_ratio_new_over_base,scale_new_to_base,ratio_cv,method
+0,gt_severe_thunderstorm_warning_2022-01-01_2022-09-27.csv,,,,,1.0,,base_chunk
+1,gt_severe_thunderstorm_warning_2022-08-29_2023-05-25.csv,30.0,25.0,0.9991444091922634,0.5,2.0,0.1491005046190941,overlap_ratio
+2,gt_severe_thunderstorm_warning_2023-04-26_2024-01-20.csv,30.0,29.0,0.9966591250704908,0.5625,1.7777777777777777,0.09381778789796637,overlap_ratio
+3,gt_severe_thunderstorm_warning_2023-12-22_2024-09-16.csv,30.0,7.0,0.9997497140793414,,1.0,,no_rescale_insufficient_overlap
+4,gt_severe_thunderstorm_warning_2024-08-18_2025-05-14.csv,30.0,27.0,0.9996047644888686,0.7733333333333333,1.293103448275862,0.18763488593196648,overlap_ratio
+5,gt_severe_thunderstorm_warning_2025-04-15_2026-01-09.csv,30.0,30.0,0.9994814328368764,0.7346666666666667,1.3611615245009074,0.060602789121601955,overlap_ratio
+6,gt_severe_thunderstorm_warning_2025-12-11_2026-05-31.csv,30.0,16.0,0.9995310693616313,1.427748427672956,0.7004035028985252,0.2477799337903256,overlap_ratio

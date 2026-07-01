@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
+fedex_tracking,1612,2022-01-01,2026-05-31,0,10.651343360006889,100.0,43.2496348393611,17.199576375812516,0

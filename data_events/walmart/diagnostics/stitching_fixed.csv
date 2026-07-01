@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
+walmart,1612,2022-01-01,2026-05-31,0,27.851416013606112,181.96286472148543,50.60119522281955,12.174428332561657,0

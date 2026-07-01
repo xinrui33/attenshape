@@ -1,0 +1,8 @@
+step,file,overlap_days,valid_ratio_days,overlap_corr,median_ratio_new_over_base,scale_new_to_base,ratio_cv,method
+0,gt_dahmer_netflix_2022-01-01_2022-09-27.csv,,,,,1.0,,base_chunk
+1,gt_dahmer_netflix_2022-08-29_2023-05-25.csv,30.0,13.0,1.0,1.0,1.0,0.0,overlap_ratio
+2,gt_dahmer_netflix_2023-04-26_2024-01-20.csv,30.0,0.0,,,1.0,,no_rescale_insufficient_overlap
+3,gt_dahmer_netflix_2023-12-22_2024-09-16.csv,30.0,30.0,1.0,1.0,1.0,0.0,overlap_ratio
+4,gt_dahmer_netflix_2024-08-18_2025-05-14.csv,30.0,27.0,0.9975226147191557,0.5185185185185185,1.9285714285714286,0.0324845001497881,overlap_ratio
+5,gt_dahmer_netflix_2025-04-15_2026-01-09.csv,30.0,15.0,0.9985071926332798,0.8425925925925926,1.1868131868131868,0.04308491590975699,overlap_ratio
+6,gt_dahmer_netflix_2025-12-11_2026-05-31.csv,30.0,13.0,0.9996810857462917,3.3703703703703702,0.2967032967032967,0.020075440154067578,overlap_ratio

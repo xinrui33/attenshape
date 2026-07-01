@@ -1,0 +1,8 @@
+step,file,overlap_days,valid_ratio_days,overlap_corr,median_ratio_new_over_base,scale_new_to_base,ratio_cv,method
+0,gt_memorial_day_2022-01-01_2022-09-27.csv,,,,,1.0,,base_chunk
+1,gt_memorial_day_2022-08-29_2023-05-25.csv,30.0,1.0,0.8128490181871341,,1.0,,no_rescale_insufficient_overlap
+2,gt_memorial_day_2023-04-26_2024-01-20.csv,30.0,30.0,0.9889712132754956,0.08511066398390342,11.749408983451536,0.15889621574390392,overlap_ratio
+3,gt_memorial_day_2023-12-22_2024-09-16.csv,30.0,0.0,,,1.0,,no_rescale_insufficient_overlap
+4,gt_memorial_day_2024-08-18_2025-05-14.csv,30.0,1.0,0.8245083821300139,,1.0,,no_rescale_insufficient_overlap
+5,gt_memorial_day_2025-04-15_2026-01-09.csv,30.0,30.0,0.9227479679863593,0.03015151515151515,33.165829145728644,0.21329571195931646,overlap_ratio
+6,gt_memorial_day_2025-12-11_2026-05-31.csv,30.0,0.0,,,1.0,,no_rescale_insufficient_overlap

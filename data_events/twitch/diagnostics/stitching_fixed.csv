@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
+twitch,1612,2022-01-01,2026-05-31,0,23.04648642194585,1183.0985915492956,37.55627960369729,35.67222383678305,0

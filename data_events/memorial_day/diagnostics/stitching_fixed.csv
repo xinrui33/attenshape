@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
+memorial_day,1612,2022-01-01,2026-05-31,0,0.0,3316.5829145728644,9.300924988763633,93.61431199006658,820

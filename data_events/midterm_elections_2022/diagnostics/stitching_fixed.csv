@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
+midterm_elections_2022,1612,2022-01-01,2026-05-31,0,0.0,100.0,4.511476426799008,12.587460326499569,1276

@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
+stephen_curry,1612,2022-01-01,2026-05-31,0,1.7142857142857142,100.0,6.716333367495965,5.589129832242772,0

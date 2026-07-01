@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
+davante_adams,1612,2022-01-01,2026-05-31,0,0.0,118.8118811881188,2.174425615638487,5.538016702402124,72

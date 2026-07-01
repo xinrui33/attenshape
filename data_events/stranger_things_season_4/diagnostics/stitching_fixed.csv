@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
+stranger_things_season_4,1612,2022-01-01,2026-05-31,0,0.07561788310757156,100.0,1.707601339013572,6.827346012312053,0

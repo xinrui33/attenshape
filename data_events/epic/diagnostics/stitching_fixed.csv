@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
+epic,1612,2022-01-01,2026-05-31,0,28.496051408930274,136.37224877770345,63.97189372933435,22.366315724825885,0

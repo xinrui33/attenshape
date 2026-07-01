@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
+home_depot,1612,2022-01-01,2026-05-31,0,25.652687010433134,100.0,48.38192564904549,10.578684894230834,0

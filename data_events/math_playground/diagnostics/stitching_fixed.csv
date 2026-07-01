@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
+math_playground,1612,2022-01-01,2026-05-31,0,2.0,127.7117355858981,36.943208045753316,30.248346131921398,0

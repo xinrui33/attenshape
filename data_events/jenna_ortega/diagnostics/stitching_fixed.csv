@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
+jenna_ortega,1612,2022-01-01,2026-05-31,0,5.0,874.2857142857143,56.49135703605877,88.65422607609996,0

@@ -1,0 +1,8 @@
+step,file,overlap_days,valid_ratio_days,overlap_corr,median_ratio_new_over_base,scale_new_to_base,ratio_cv,method
+0,gt_hurricane_florida_2022-01-01_2022-09-27.csv,,,,,1.0,,base_chunk
+1,gt_hurricane_florida_2022-08-29_2023-05-25.csv,30.0,16.0,0.9996616896946073,0.6403508771929824,1.5616438356164384,0.28340440502183456,overlap_ratio
+2,gt_hurricane_florida_2023-04-26_2024-01-20.csv,30.0,0.0,,,1.0,,no_rescale_insufficient_overlap
+3,gt_hurricane_florida_2023-12-22_2024-09-16.csv,30.0,3.0,0.6839855680567694,,1.0,,no_rescale_insufficient_overlap
+4,gt_hurricane_florida_2024-08-18_2025-05-14.csv,30.0,7.0,0.7193323867701733,,1.0,,no_rescale_insufficient_overlap
+5,gt_hurricane_florida_2025-04-15_2026-01-09.csv,30.0,1.0,0.43684532258485015,,1.0,,no_rescale_insufficient_overlap
+6,gt_hurricane_florida_2025-12-11_2026-05-31.csv,30.0,30.0,0.9769174643436124,4.472222222222222,0.2236024844720497,0.03449716794953028,overlap_ratio

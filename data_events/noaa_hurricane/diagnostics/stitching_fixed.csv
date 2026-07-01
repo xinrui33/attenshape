@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
+noaa_hurricane,1612,2022-01-01,2026-05-31,0,0.0,318.19757365684575,7.3546866242207125,21.071974087248353,654

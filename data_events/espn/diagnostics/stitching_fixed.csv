@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
+espn,1612,2022-01-01,2026-05-31,0,16.61095405142547,108.69733281793583,36.44476764347163,14.187115332372825,0

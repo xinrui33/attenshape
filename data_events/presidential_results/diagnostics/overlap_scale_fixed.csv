@@ -1,0 +1,8 @@
+step,file,overlap_days,valid_ratio_days,overlap_corr,median_ratio_new_over_base,scale_new_to_base,ratio_cv,method
+0,gt_presidential_results_2022-01-01_2022-09-27.csv,,,,,1.0,,base_chunk
+1,gt_presidential_results_2022-08-29_2023-05-25.csv,30.0,27.0,0.9225550827512149,1.5,0.6666666666666666,0.17329210149130553,overlap_ratio
+2,gt_presidential_results_2023-04-26_2024-01-20.csv,30.0,28.0,0.9907099602457773,3.5,0.2857142857142857,0.07209423833482488,overlap_ratio
+3,gt_presidential_results_2023-12-22_2024-09-16.csv,30.0,27.0,0.9980916919906385,1.5,0.6666666666666666,0.0874218913461132,overlap_ratio
+4,gt_presidential_results_2024-08-18_2025-05-14.csv,30.0,1.0,0.9648900290577711,,1.0,,no_rescale_insufficient_overlap
+5,gt_presidential_results_2025-04-15_2026-01-09.csv,30.0,0.0,,,1.0,,no_rescale_insufficient_overlap
+6,gt_presidential_results_2025-12-11_2026-05-31.csv,30.0,30.0,0.9983974124385394,1.6381818181818182,0.6104328523862376,0.025479275680514356,overlap_ratio

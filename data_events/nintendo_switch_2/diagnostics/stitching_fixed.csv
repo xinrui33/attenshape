@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
+nintendo_switch_2,1612,2022-01-01,2026-05-31,0,20.94429708222812,7917.042697825987,228.4999221282553,437.21180416076476,0

@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
+liga_mx,1612,2022-01-01,2026-05-31,0,0.8767105314947716,134.6153846153846,17.7294553652403,19.391857250736745,0

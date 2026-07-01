@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
+capital_one,1612,2022-01-01,2026-05-31,0,37.17744894215482,195.670783906078,73.98103147873601,11.636501751490822,0

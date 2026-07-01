@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
+gold_price_today,1612,2022-01-01,2026-05-31,0,15.0,1487.068965517242,115.52284294177521,133.09271448315678,0

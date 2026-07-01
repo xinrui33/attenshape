@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
+jurassic_park,1612,2022-01-01,2026-05-31,0,3.587863908094612,100.0,8.79059358353139,7.2428928158412464,0

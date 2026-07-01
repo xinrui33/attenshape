@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
+dollar_general,1612,2022-01-01,2026-05-31,0,17.492957746478872,220.00000000000003,35.14769046303823,15.873463179904052,0

@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
+games,1612,2022-01-01,2026-05-31,0,26.520301956698916,155.19420456317167,52.05214034078227,15.284557418730127,0

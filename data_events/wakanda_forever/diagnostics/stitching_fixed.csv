@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
+wakanda_forever,1612,2022-01-01,2026-05-31,0,0.0,200.0,2.7580641483573642,10.633484297763179,126

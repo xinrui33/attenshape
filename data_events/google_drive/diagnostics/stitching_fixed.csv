@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
+google_drive,1612,2022-01-01,2026-05-31,0,15.814592255245481,100.0,43.90773489796423,17.918991747713942,0

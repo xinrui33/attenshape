@@ -1,0 +1,8 @@
+step,file,overlap_days,valid_ratio_days,overlap_corr,median_ratio_new_over_base,scale_new_to_base,ratio_cv,method
+0,gt_laura_loomer_2022-01-01_2022-09-27.csv,,,,,1.0,,base_chunk
+1,gt_laura_loomer_2022-08-29_2023-05-25.csv,30.0,7.0,0.9883787640001823,,1.0,,no_rescale_insufficient_overlap
+2,gt_laura_loomer_2023-04-26_2024-01-20.csv,30.0,4.0,0.9954816912089617,,1.0,,no_rescale_insufficient_overlap
+3,gt_laura_loomer_2023-12-22_2024-09-16.csv,30.0,9.0,0.8664683502291369,,1.0,,no_rescale_insufficient_overlap
+4,gt_laura_loomer_2024-08-18_2025-05-14.csv,30.0,14.0,0.9999999999999999,1.0,1.0,0.0,overlap_ratio
+5,gt_laura_loomer_2025-04-15_2026-01-09.csv,30.0,22.0,0.946321206491609,4.625,0.21621621621621623,0.30761838653371654,overlap_ratio
+6,gt_laura_loomer_2025-12-11_2026-05-31.csv,30.0,30.0,0.992236612883741,16.05902777777778,0.06227027027027027,0.07999859988909855,overlap_ratio

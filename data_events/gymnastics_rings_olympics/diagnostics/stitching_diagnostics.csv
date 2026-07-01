@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,expected_days,observed_days,missing_days
+gymnastics rings olympics,750,2023-12-22,2026-01-09,1612,750,862

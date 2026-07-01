@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
+chase,1612,2022-01-01,2026-05-31,0,44.59843734928137,152.60253421507986,69.87253217639011,8.71817990261257,0

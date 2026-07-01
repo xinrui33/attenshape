@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
+target,1612,2022-01-01,2026-05-31,0,33.22884012539185,166.14420062695925,57.02017875731593,13.232714076863347,0

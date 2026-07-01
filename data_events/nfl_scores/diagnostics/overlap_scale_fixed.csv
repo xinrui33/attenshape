@@ -1,0 +1,8 @@
+step,file,overlap_days,valid_ratio_days,overlap_corr,median_ratio_new_over_base,scale_new_to_base,ratio_cv,method
+0,gt_nfl_scores_2022-01-01_2022-09-27.csv,,,,,1.0,,base_chunk
+1,gt_nfl_scores_2022-08-29_2023-05-25.csv,30.0,29.0,0.9999455677621085,1.0,1.0,0.020744203025403255,overlap_ratio
+2,gt_nfl_scores_2023-04-26_2024-01-20.csv,30.0,4.0,1.0,,1.0,,no_rescale_insufficient_overlap
+3,gt_nfl_scores_2023-12-22_2024-09-16.csv,30.0,30.0,1.0,1.0,1.0,0.0,overlap_ratio
+4,gt_nfl_scores_2024-08-18_2025-05-14.csv,30.0,23.0,0.9995285944058521,1.7391304347826086,0.5750000000000001,0.2425051448129877,overlap_ratio
+5,gt_nfl_scores_2025-04-15_2026-01-09.csv,30.0,4.0,0.9792673429539377,,1.0,,no_rescale_insufficient_overlap
+6,gt_nfl_scores_2025-12-11_2026-05-31.csv,30.0,30.0,0.9998628161561627,0.8537679425837321,1.171278458844133,0.07930838895985622,overlap_ratio

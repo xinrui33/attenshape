@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
+top_gun,1612,2022-01-01,2026-05-31,0,0.6333670374115268,100.0,3.304508695730009,7.321338693025514,0

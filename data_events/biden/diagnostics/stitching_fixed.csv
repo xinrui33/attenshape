@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
+biden,1612,2022-01-01,2026-05-31,0,3.182403182403182,779.6887796887796,15.799093422399622,26.74251340986997,0

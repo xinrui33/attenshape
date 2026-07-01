@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
+voo,1612,2022-01-01,2026-05-31,0,8.598850421066702,336.14390703885476,49.7503765478708,33.08777477577684,0

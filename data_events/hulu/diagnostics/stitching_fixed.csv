@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
+hulu,1612,2022-01-01,2026-05-31,0,12.424170110597055,100.0,27.888961614909135,7.130209582521488,0

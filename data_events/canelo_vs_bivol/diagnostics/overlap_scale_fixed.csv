@@ -1,0 +1,8 @@
+step,file,overlap_days,valid_ratio_days,overlap_corr,median_ratio_new_over_base,scale_new_to_base,ratio_cv,method
+0,gt_canelo_vs_bivol_2022-01-01_2022-09-27.csv,,,,,1.0,,base_chunk
+1,gt_canelo_vs_bivol_2022-08-29_2023-05-25.csv,30.0,1.0,0.9596529432374864,,1.0,,no_rescale_insufficient_overlap
+2,gt_canelo_vs_bivol_2023-04-26_2024-01-20.csv,30.0,17.0,0.9998063321594016,1.0,1.0,0.1484095615980831,overlap_ratio
+3,gt_canelo_vs_bivol_2023-12-22_2024-09-16.csv,30.0,1.0,1.0,,1.0,,no_rescale_insufficient_overlap
+4,gt_canelo_vs_bivol_2024-08-18_2025-05-14.csv,30.0,8.0,0.9999374868837636,,1.0,,no_rescale_insufficient_overlap
+5,gt_canelo_vs_bivol_2025-04-15_2026-01-09.csv,30.0,4.0,0.9999368973836857,,1.0,,no_rescale_insufficient_overlap
+6,gt_canelo_vs_bivol_2025-12-11_2026-05-31.csv,30.0,0.0,,,1.0,,no_rescale_insufficient_overlap

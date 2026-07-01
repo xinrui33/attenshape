@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
+champions_league,1612,2022-01-01,2026-05-31,0,0.7060186088132158,105.90279132198236,6.60143967455248,11.626911177743061,0

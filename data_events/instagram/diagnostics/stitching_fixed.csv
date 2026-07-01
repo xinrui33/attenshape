@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
+instagram,1612,2022-01-01,2026-05-31,0,51.87500221376074,162.0,74.29967028163348,8.675959074310422,0

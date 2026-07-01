@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
+bank_of_america,1612,2022-01-01,2026-05-31,0,20.020933174437577,122.47062094535535,50.413038839329616,12.561600392115993,0

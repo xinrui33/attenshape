@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
+docs,1612,2022-01-01,2026-05-31,0,10.78626511568349,116.56826659287884,48.63061903643601,24.21713622370047,0

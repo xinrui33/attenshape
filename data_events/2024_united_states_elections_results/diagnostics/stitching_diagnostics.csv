@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,expected_days,observed_days,missing_days
+2024 united states elections results,990,2023-04-26,2026-01-09,1612,990,622

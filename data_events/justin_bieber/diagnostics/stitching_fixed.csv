@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
+justin_bieber,1612,2022-01-01,2026-05-31,0,2.460359768629362,100.0,5.677469202537045,5.628983324473031,0

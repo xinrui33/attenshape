@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
+lauren_boebert_election_results,1402,2022-01-01,2026-05-31,0,0.0,100.0,0.8234664764621968,7.399604420283353,1361

@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
+google_flights,1612,2022-01-01,2026-05-31,0,40.0,123.67186424572108,76.51469181396364,12.759934340343206,0

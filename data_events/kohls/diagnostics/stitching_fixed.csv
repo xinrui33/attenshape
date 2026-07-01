@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
+kohls,1612,2022-01-01,2026-05-31,0,14.431173051187038,179.58236658932717,30.491090254479225,14.306400707140497,0

@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
+papa_johns,1612,2022-01-01,2026-05-31,0,21.330344353245597,103.80985669346383,42.814555467870505,12.9006446017205,0

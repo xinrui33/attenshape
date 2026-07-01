@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
+presidential_election_2024,1612,2022-01-01,2026-05-31,0,0.0,1632.0401474406979,76.70372273901918,125.45848300981095,188

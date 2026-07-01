@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
+victoria_secret,1612,2022-01-01,2026-05-31,0,33.67419959418225,327.3880516101052,60.799696083257395,23.51825747332538,0

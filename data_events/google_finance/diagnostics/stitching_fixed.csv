@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
+google_finance,1612,2022-01-01,2026-05-31,0,10.715035276468983,101.09762635412432,45.52612494117571,21.420455205703874,0

@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
+premier_league,1612,2022-01-01,2026-05-31,0,1.7761021372776415,101.88980968426817,17.244020044566167,17.651052037439097,0

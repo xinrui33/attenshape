@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
+stock_market,1612,2022-01-01,2026-05-31,0,4.6081890539099035,230.4094526954952,20.660049414217855,15.815823600500215,0

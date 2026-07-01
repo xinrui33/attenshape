@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
+red_sox,1612,2022-01-01,2026-05-31,0,2.0,184.4564140027093,16.674883485150367,15.581601549388557,0

@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
+crumbl_cookies,1612,2022-01-01,2026-05-31,0,14.451658799256542,126.50217546417657,48.77567258870663,17.382736580018822,0

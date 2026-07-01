@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
+speed_test,1612,2022-01-01,2026-05-31,0,48.210854318250895,112.11826585639744,73.06585920457557,9.891163001685978,0

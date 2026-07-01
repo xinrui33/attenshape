@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
+liquor_store_near_me,1612,2022-01-01,2026-05-31,0,7.697666539429623,183.6660617059891,25.65377881368919,16.15059588241636,0

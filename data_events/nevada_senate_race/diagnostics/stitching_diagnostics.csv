@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,expected_days,observed_days,missing_days
+nevada senate race,1402,2022-01-01,2026-05-31,1612,1402,210

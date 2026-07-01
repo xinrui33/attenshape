@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
+the_last_of_us,1612,2022-01-01,2026-05-31,0,13.0,1458.2857142857144,69.23680505386919,122.67809599038095,0

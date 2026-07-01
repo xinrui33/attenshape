@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
+btc_price,1612,2022-01-01,2026-05-31,0,7.750865051903115,176.8867399068759,28.439907877885382,17.342134553671496,0

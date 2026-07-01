@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
+batman,1612,2022-01-01,2026-05-31,0,3.2564598588930536,100.0,6.129598227408525,5.841300414277363,0

@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
+connections,1612,2022-01-01,2026-05-31,0,33.36932192231732,2317.314022383147,614.0976142797831,447.24710506909406,0

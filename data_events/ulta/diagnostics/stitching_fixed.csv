@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
+ulta,1612,2022-01-01,2026-05-31,0,39.15430936148765,303.7037037037037,75.04234384735368,24.34521011235416,0

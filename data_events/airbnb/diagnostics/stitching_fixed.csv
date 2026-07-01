@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
+airbnb,1612,2022-01-01,2026-05-31,0,33.727857867152224,103.22338668378497,69.05818650593953,12.06635074889626,0

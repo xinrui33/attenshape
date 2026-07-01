@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
+boston_celtics,1612,2022-01-01,2026-05-31,0,0.8612133025200329,141.4612302074841,7.052298177267595,10.08169498440349,0

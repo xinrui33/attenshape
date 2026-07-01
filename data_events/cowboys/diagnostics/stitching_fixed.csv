@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
+cowboys,1612,2022-01-01,2026-05-31,0,1.1904761904761905,208.33333333333334,8.85207160858184,17.837102528498832,0

@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
+american_airlines,1612,2022-01-01,2026-05-31,0,34.35821332555955,490.83161893656495,69.69483459593327,15.385854676814931,0

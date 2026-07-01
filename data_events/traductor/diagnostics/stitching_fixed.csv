@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
+traductor,1612,2022-01-01,2026-05-31,0,28.308688083976143,121.75632911392407,68.14548641911732,24.209603152228144,0

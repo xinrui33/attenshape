@@ -1,0 +1,8 @@
+step,file,overlap_days,valid_ratio_days,overlap_corr,median_ratio_new_over_base,scale_new_to_base,ratio_cv,method
+0,gt_lauren_boebert_election_results_2022-01-01_2022-09-27.csv,,,,,1.0,,base_chunk
+1,gt_lauren_boebert_election_results_2022-08-29_2023-05-25.csv,30.0,0.0,,,1.0,,no_rescale_insufficient_overlap
+2,gt_lauren_boebert_election_results_2023-04-26_2024-01-20.csv,0.0,0.0,,,1.0,,no_rescale_insufficient_overlap
+3,gt_lauren_boebert_election_results_2023-12-22_2024-09-16.csv,0.0,0.0,,,1.0,,no_rescale_insufficient_overlap
+4,gt_lauren_boebert_election_results_2024-08-18_2025-05-14.csv,30.0,1.0,1.0,,1.0,,no_rescale_insufficient_overlap
+5,gt_lauren_boebert_election_results_2025-04-15_2026-01-09.csv,30.0,1.0,1.0,,1.0,,no_rescale_insufficient_overlap
+6,gt_lauren_boebert_election_results_2025-12-11_2026-05-31.csv,30.0,0.0,,,1.0,,no_rescale_insufficient_overlap

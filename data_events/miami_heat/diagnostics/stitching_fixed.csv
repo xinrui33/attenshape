@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
+miami_heat,1612,2022-01-01,2026-05-31,0,1.0527734353943186,182.48072880168183,7.271317199402312,11.659575739646673,0

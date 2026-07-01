@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
+lakers,1612,2022-01-01,2026-05-31,0,3.354037267080746,600.0,35.09762379976265,44.98306330703038,0

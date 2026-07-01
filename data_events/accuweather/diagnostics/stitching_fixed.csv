@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
+accuweather,1612,2022-01-01,2026-05-31,0,15.760898019133707,118.18181818181819,36.2537701702177,12.964314674307836,0

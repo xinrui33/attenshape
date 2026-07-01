@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
+deshaun_watson,1612,2022-01-01,2026-05-31,0,0.10142840467574911,100.0,1.877109919972891,4.499185974375134,0

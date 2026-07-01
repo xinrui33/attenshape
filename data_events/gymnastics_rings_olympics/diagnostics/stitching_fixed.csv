@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
+gymnastics_rings_olympics,750,2023-12-22,2026-01-09,0,0.0,100.0,0.5813333333333334,5.927526098051333,740

@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
+ebay,1612,2022-01-01,2026-05-31,0,40.63658047482374,100.0,72.31202073434608,7.978392756846397,0

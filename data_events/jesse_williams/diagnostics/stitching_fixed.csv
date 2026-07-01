@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
+jesse_williams,1612,2022-01-01,2026-05-31,0,0.0,137.75510204081633,10.472612086374108,9.32189654886683,136

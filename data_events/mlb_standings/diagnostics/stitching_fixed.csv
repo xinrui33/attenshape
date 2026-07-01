@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
+mlb_standings,1612,2022-01-01,2026-05-31,0,0.0,280.22158789669015,40.72381315561869,42.791291522965146,9

@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
+alabama_basketball,1612,2022-01-01,2026-05-31,0,0.0,166.66666666666669,5.896577750206782,11.90367752542198,73

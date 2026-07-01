@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
+mcdonalds,1612,2022-01-01,2026-05-31,0,17.850371179740975,100.0,32.57475541849241,10.75422545797124,0

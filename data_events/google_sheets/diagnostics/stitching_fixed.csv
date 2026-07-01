@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
+google_sheets,1612,2022-01-01,2026-05-31,0,17.299811073971807,108.1238192123238,61.14612608147414,18.236629052449864,0

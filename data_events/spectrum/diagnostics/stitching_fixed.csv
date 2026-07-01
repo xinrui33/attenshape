@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
+spectrum,1612,2022-01-01,2026-05-31,0,30.113004890927495,141.87485424801898,53.26317935955472,7.686016346868364,0

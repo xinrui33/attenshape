@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
+macys,1612,2022-01-01,2026-05-31,0,23.540136027116592,344.57545014166897,54.54705138112524,26.612334647990036,0

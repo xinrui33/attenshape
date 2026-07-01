@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
+dow_futures,1612,2022-01-01,2026-05-31,0,0.0,238.45530131244413,21.323266316602975,16.957924970475204,1

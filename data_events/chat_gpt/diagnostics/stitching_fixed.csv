@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
+chat_gpt,1612,2022-01-01,2026-05-31,0,0.0,193.2433213835459,62.78600589142514,49.4004955089237,333

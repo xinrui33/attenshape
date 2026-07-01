@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
+silicon_valley_bank,1612,2022-01-01,2026-05-31,0,0.0,100.0,6.893889402746818,18.1997292078038,582

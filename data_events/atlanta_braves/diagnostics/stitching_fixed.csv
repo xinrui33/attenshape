@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
+atlanta_braves,1612,2022-01-01,2026-05-31,0,3.4452150223778952,128.0,20.415955665952158,17.204893178159324,0

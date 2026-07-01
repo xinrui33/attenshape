@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
+flights,1612,2022-01-01,2026-05-31,0,48.11828069944807,146.73755437409378,77.48171042097358,10.856358961018772,0

@@ -1,0 +1,8 @@
+step,file,overlap_days,valid_ratio_days,overlap_corr,median_ratio_new_over_base,scale_new_to_base,ratio_cv,method
+0,gt_severe_thunderstorm_watch_2022-01-01_2022-09-27.csv,,,,,1.0,,base_chunk
+1,gt_severe_thunderstorm_watch_2022-08-29_2023-05-25.csv,30.0,15.0,0.9984809599653907,1.1428571428571428,0.875,0.1364980941113979,overlap_ratio
+2,gt_severe_thunderstorm_watch_2023-04-26_2024-01-20.csv,30.0,28.0,0.9986981651790382,0.6193806193806194,1.614516129032258,0.2517166518014736,overlap_ratio
+3,gt_severe_thunderstorm_watch_2023-12-22_2024-09-16.csv,30.0,1.0,0.8913870089397365,,1.0,,no_rescale_insufficient_overlap
+4,gt_severe_thunderstorm_watch_2024-08-18_2025-05-14.csv,30.0,17.0,0.9996729248060178,1.3636363636363635,0.7333333333333334,0.1654615190911684,overlap_ratio
+5,gt_severe_thunderstorm_watch_2025-04-15_2026-01-09.csv,30.0,29.0,0.9998582124033044,1.09375,0.9142857142857143,0.15384918947556311,overlap_ratio
+6,gt_severe_thunderstorm_watch_2025-12-11_2026-05-31.csv,30.0,0.0,,,1.0,,no_rescale_insufficient_overlap

@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
+siobhan,1612,2022-01-01,2026-05-31,0,0.0,3667.698305131058,42.30518986025322,92.66173902934106,24

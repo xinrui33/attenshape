@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
+scratch,1612,2022-01-01,2026-05-31,0,37.0,145.84221748400853,73.1976985099957,25.690384813106736,0

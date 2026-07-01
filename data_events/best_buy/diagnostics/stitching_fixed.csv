@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
+best_buy,1612,2022-01-01,2026-05-31,0,34.97387489695268,341.5061295971979,62.372293946033814,18.78263953898863,0

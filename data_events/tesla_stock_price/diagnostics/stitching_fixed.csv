@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
+tesla_stock_price,1612,2022-01-01,2026-05-31,0,4.935095736530212,246.7547868265106,41.903744614512846,28.057434984133085,0

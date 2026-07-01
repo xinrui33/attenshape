@@ -1,0 +1,8 @@
+step,file,overlap_days,valid_ratio_days,overlap_corr,median_ratio_new_over_base,scale_new_to_base,ratio_cv,method
+0,gt_duke_basketball_2022-01-01_2022-09-27.csv,,,,,1.0,,base_chunk
+1,gt_duke_basketball_2022-08-29_2023-05-25.csv,30.0,22.0,0.2010075630518423,1.0,1.0,0.3091000762582518,overlap_ratio
+2,gt_duke_basketball_2023-04-26_2024-01-20.csv,30.0,30.0,0.6204965959947124,3.0,0.3333333333333333,0.28872627446325605,overlap_ratio
+3,gt_duke_basketball_2023-12-22_2024-09-16.csv,30.0,30.0,0.9918297203449706,0.6,1.6666666666666667,0.10483637639953021,overlap_ratio
+4,gt_duke_basketball_2024-08-18_2025-05-14.csv,30.0,1.0,1.8039283500850315e-17,,1.0,,no_rescale_insufficient_overlap
+5,gt_duke_basketball_2025-04-15_2026-01-09.csv,30.0,30.0,,7.5,0.13333333333333333,0.3267141112873806,overlap_ratio
+6,gt_duke_basketball_2025-12-11_2026-05-31.csv,30.0,30.0,0.994974023971328,1.3636363636363638,0.7333333333333333,0.12059602887048058,overlap_ratio

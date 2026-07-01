@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
+polls,1612,2022-01-01,2026-05-31,0,0.0,12154.371584699456,76.72394625689842,452.77190768241053,240

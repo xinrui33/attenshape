@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
+buffalo_wild_wings,1612,2022-01-01,2026-05-31,0,14.618833211184251,100.27175406257341,27.944083735592976,7.584833487838519,0

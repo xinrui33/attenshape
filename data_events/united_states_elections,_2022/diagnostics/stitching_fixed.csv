@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
+"united_states_elections,_2022",1162,2022-01-01,2026-05-31,0,0.0,100.0,0.6411359724612736,7.137709885681736,1135

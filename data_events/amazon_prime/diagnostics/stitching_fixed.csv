@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
+amazon_prime,1612,2022-01-01,2026-05-31,0,14.824980519235359,101.12732095490715,26.090191623079853,6.593568481097855,0

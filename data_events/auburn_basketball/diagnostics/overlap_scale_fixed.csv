@@ -1,0 +1,8 @@
+step,file,overlap_days,valid_ratio_days,overlap_corr,median_ratio_new_over_base,scale_new_to_base,ratio_cv,method
+0,gt_auburn_basketball_2022-01-01_2022-09-27.csv,,,,,1.0,,base_chunk
+1,gt_auburn_basketball_2022-08-29_2023-05-25.csv,30.0,25.0,0.33218191941496017,1.0,1.0,0.29612721342458925,overlap_ratio
+2,gt_auburn_basketball_2023-04-26_2024-01-20.csv,30.0,30.0,0.7299963950884313,2.5,0.4,0.22787428298289555,overlap_ratio
+3,gt_auburn_basketball_2023-12-22_2024-09-16.csv,30.0,30.0,0.9988735078527298,0.734026369168357,1.3623488773747843,0.05030569917799281,overlap_ratio
+4,gt_auburn_basketball_2024-08-18_2025-05-14.csv,30.0,1.0,0.7191949522280763,,1.0,,no_rescale_insufficient_overlap
+5,gt_auburn_basketball_2025-04-15_2026-01-09.csv,30.0,26.0,0.6172252124949357,6.0,0.16666666666666666,0.3140660758502898,overlap_ratio
+6,gt_auburn_basketball_2025-12-11_2026-05-31.csv,30.0,30.0,0.9996877167036244,5.593103448275862,0.17879161528976573,0.04686704775620706,overlap_ratio

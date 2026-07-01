@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
+costco,1612,2022-01-01,2026-05-31,0,36.706584949140264,111.71566476524792,64.90997184807858,11.411842921866743,0

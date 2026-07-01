@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
+fidelity,1612,2022-01-01,2026-05-31,0,17.333333333333336,109.13965930955973,58.2880255392007,17.957984452707574,0

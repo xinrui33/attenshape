@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
+ucla_basketball,1612,2022-01-01,2026-05-31,0,0.0,134.09902219462984,3.7565196893622215,8.040743170293675,6

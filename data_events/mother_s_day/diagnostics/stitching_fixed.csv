@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
+mother_s_day,1612,2022-01-01,2026-05-31,0,0.0,100.0,1.5248138957816377,6.605515980466559,1129

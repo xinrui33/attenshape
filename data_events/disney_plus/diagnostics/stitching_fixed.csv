@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
+disney_plus,1612,2022-01-01,2026-05-31,0,25.52183639808813,134.17842621382442,44.29381734287119,11.870736567461476,0

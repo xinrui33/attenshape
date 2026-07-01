@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
+weather_channel,1612,2022-01-01,2026-05-31,0,5.5408843796711675,213.38912133891213,15.848611472740583,10.823621011069463,0

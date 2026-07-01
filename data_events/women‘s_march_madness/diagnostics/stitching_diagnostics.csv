@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,expected_days,observed_days,missing_days
+women‘s march madness,750,2023-04-26,2025-05-14,1612,750,862

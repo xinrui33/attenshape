@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
+roblox,1612,2022-01-01,2026-05-31,0,33.814621646978125,171.08588333292502,68.84813435515731,16.54747558940958,0

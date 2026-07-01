@@ -1,0 +1,8 @@
+step,file,overlap_days,valid_ratio_days,overlap_corr,median_ratio_new_over_base,scale_new_to_base,ratio_cv,method
+0,gt_spirit_halloween_2022-01-01_2022-09-27.csv,,,,,1.0,,base_chunk
+1,gt_spirit_halloween_2022-08-29_2023-05-25.csv,30.0,30.0,0.9987240520036923,0.23076923076923078,4.333333333333333,0.0215227915454998,overlap_ratio
+2,gt_spirit_halloween_2023-04-26_2024-01-20.csv,30.0,2.0,0.5976143046671973,,1.0,,no_rescale_insufficient_overlap
+3,gt_spirit_halloween_2023-12-22_2024-09-16.csv,30.0,8.0,0.26967994498529674,,1.0,,no_rescale_insufficient_overlap
+4,gt_spirit_halloween_2024-08-18_2025-05-14.csv,30.0,30.0,0.9978766912050987,0.23971830985915493,4.171562867215041,0.023737339567696546,overlap_ratio
+5,gt_spirit_halloween_2025-04-15_2026-01-09.csv,30.0,0.0,,,1.0,,no_rescale_insufficient_overlap
+6,gt_spirit_halloween_2025-12-11_2026-05-31.csv,30.0,10.0,0.8782900008209916,48.5,0.020618556701030927,0.0892664991436347,overlap_ratio

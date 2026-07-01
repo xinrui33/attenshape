@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
+paramount_plus,1612,2022-01-01,2026-05-31,0,13.839730493865208,309.57880434782606,33.61772928783483,13.941351629223774,0
