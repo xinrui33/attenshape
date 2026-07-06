@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
+uefa_champions_league,1612,2022-01-01,2026-05-31,0,0.0,100.0,7.052629979545302,13.723328984773218,3

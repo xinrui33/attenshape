@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
+american_express,1612,2022-01-01,2026-05-31,0,40.85425074624807,143.35632082857433,66.04855605933413,9.707435252126826,0

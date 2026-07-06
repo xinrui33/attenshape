@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
+grace_van_dien,1612,2022-01-01,2026-05-31,0,0.0,258.06451612903226,4.762133158204958,13.331279656843773,960

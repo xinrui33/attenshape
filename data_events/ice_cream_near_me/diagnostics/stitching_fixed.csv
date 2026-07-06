@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
+ice_cream_near_me,1612,2022-01-01,2026-05-31,0,7.585372334123373,100.0,29.910452549759114,16.624615585746266,0

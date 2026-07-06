@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
+crowdstrike,1612,2022-01-01,2026-05-31,0,0.0,132.43243243243242,18.681337020525703,23.90333110487002,176

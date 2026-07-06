@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
+decision_desk_hq,1612,2022-01-01,2026-05-31,0,0.0,100.0,1.1771091811414391,8.477603507011178,1536

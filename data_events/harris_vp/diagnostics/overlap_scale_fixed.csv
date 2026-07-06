@@ -1,0 +1,8 @@
+step,file,overlap_days,valid_ratio_days,overlap_corr,median_ratio_new_over_base,scale_new_to_base,ratio_cv,method
+0,gt_harris_vp_2022-01-01_2022-09-27.csv,,,,,1.0,,base_chunk
+1,gt_harris_vp_2022-08-29_2023-05-25.csv,30.0,12.0,0.9998722494201475,1.4705882352941178,0.6799999999999999,0.024714600885296308,overlap_ratio
+2,gt_harris_vp_2023-04-26_2024-01-20.csv,30.0,16.0,0.9996004896743836,3.167420814479638,0.3157142857142857,0.021349670055273082,overlap_ratio
+3,gt_harris_vp_2023-12-22_2024-09-16.csv,30.0,0.0,,,1.0,,no_rescale_insufficient_overlap
+4,gt_harris_vp_2024-08-18_2025-05-14.csv,30.0,30.0,0.9754420182065314,15.916666666666668,0.06282722513089005,0.15783861441600194,overlap_ratio
+5,gt_harris_vp_2025-04-15_2026-01-09.csv,30.0,4.0,0.9880162198877123,,1.0,,no_rescale_insufficient_overlap
+6,gt_harris_vp_2025-12-11_2026-05-31.csv,30.0,0.0,,,1.0,,no_rescale_insufficient_overlap

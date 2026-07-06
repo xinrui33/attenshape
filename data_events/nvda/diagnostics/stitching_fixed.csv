@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
+nvda,1612,2022-01-01,2026-05-31,0,2.0,565.6077348066299,64.43379138475173,64.56545895190881,0

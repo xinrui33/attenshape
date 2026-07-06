@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
+olympics_2024_schedule_and_results,1162,2022-08-29,2026-05-31,0,0.0,100.0,1.862736660929432,11.025725790021385,1109

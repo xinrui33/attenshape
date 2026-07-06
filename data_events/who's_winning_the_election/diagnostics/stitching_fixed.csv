@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
+who's_winning_the_election,1470,2022-01-01,2026-01-09,0,0.0,100.0,1.3653061224489795,8.498721747967977,1370

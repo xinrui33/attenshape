@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
+slope,1612,2022-01-01,2026-05-31,0,7.640945842868041,100.0,30.55127535219171,18.807301529742098,0

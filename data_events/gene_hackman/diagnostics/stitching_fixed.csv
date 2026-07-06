@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
+gene_hackman,1612,2022-01-01,2026-05-31,0,0.0,250.0,8.841235788654313,14.61444949299531,180

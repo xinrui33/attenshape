@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
+2024_united_states_presidential_election_results,1132,2023-04-26,2026-05-31,0,0.0,100.0,1.2747349823321554,10.064142536990335,1104

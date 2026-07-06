@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
+tpt,1612,2022-01-01,2026-05-31,0,7.421052631578948,232.71866224748157,78.02627970050837,50.507414511461185,0

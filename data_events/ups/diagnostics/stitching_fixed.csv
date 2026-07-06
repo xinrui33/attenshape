@@ -1,2 +1,2 @@
 query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
-ups,1612,2022-01-01,2026-05-31,0,27.73127919987456,208.67795628601124,68.53558482508092,13.161414746103116,0
+ups,0,,,0,,,,,0

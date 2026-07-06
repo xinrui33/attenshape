@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
+michaels,1612,2022-01-01,2026-05-31,0,28.473616854867505,126.3654223968566,51.08566196229627,14.36107765389495,0

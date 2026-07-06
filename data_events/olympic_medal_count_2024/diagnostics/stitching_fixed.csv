@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
+olympic_medal_count_2024,1612,2022-01-01,2026-05-31,0,0.0,100.0,1.5099255583126552,8.841027926249128,1538

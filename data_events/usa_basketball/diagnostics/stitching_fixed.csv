@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
+usa_basketball,1612,2022-01-01,2026-05-31,0,0.0,1219.5652173913043,29.682580889190287,61.62311281700319,129

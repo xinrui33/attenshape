@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
+menards,1612,2022-01-01,2026-05-31,0,20.942673924030828,115.5104570100697,42.933002786810356,12.2264512764373,0

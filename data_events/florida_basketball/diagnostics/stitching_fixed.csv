@@ -1,2 +1,2 @@
 query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
-florida_basketball,1612,2022-01-01,2026-05-31,0,0.0,275.0,10.768024538185829,18.9744165689752,33
+florida_basketball,1612,2022-01-01,2026-05-31,0,0.0,235.9740906826109,10.286300275339045,17.984380699388126,34

@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
+stock_market_crash,1612,2022-01-01,2026-05-31,0,0.0,628.5714285714286,15.519700586533121,21.308579293796218,2

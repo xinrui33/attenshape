@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
+warriors_game,1612,2022-01-01,2026-05-31,0,0.0,100.0,4.502790757350359,9.044313557634903,60

@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
+casey_white,1612,2022-01-01,2026-05-31,0,0.0,437.71095038700673,16.967204764282002,29.86775916545384,692

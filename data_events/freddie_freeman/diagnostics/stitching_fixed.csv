@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
+freddie_freeman,1612,2022-01-01,2026-05-31,0,0.0,101.43702451394758,1.9733289815446888,6.52583106220369,87

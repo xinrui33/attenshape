@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
+ace_hardware,1612,2022-01-01,2026-05-31,0,20.013578595929825,107.769628143278,42.4978314098974,11.541314712362636,0

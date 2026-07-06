@@ -1,0 +1,8 @@
+step,file,overlap_days,valid_ratio_days,overlap_corr,median_ratio_new_over_base,scale_new_to_base,ratio_cv,method
+0,gt_alabama_football_2022-01-01_2022-09-27.csv,,,,,1.0,,base_chunk
+1,gt_alabama_football_2022-08-29_2023-05-25.csv,30.0,30.0,0.9997059477885787,1.0,1.0,0.07387300329802095,overlap_ratio
+2,gt_alabama_football_2023-04-26_2024-01-20.csv,30.0,30.0,0.6948083337796518,1.0,1.0,0.17668469596940833,overlap_ratio
+3,gt_alabama_football_2023-12-22_2024-09-16.csv,30.0,30.0,0.9996168889478367,1.75,0.5714285714285714,0.09871369106507899,overlap_ratio
+4,gt_alabama_football_2024-08-18_2025-05-14.csv,30.0,30.0,0.999511811387756,0.875,1.1428571428571428,0.10945918628204397,overlap_ratio
+5,gt_alabama_football_2025-04-15_2026-01-09.csv,30.0,30.0,,0.875,1.1428571428571428,0.17668469596940842,overlap_ratio
+6,gt_alabama_football_2025-12-11_2026-05-31.csv,30.0,30.0,1.0,0.875,1.1428571428571428,5.771368477060003e-17,overlap_ratio

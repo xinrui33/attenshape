@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
+laver_cup,1612,2022-01-01,2026-05-31,0,0.0,4324.855491329479,11.23066344898808,139.28805847236129,1312

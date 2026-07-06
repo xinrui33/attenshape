@@ -1,0 +1,8 @@
+step,file,overlap_days,valid_ratio_days,overlap_corr,median_ratio_new_over_base,scale_new_to_base,ratio_cv,method
+0,gt_white_lotus_season_3_2022-01-01_2022-09-27.csv,,,,,1.0,,base_chunk
+1,gt_white_lotus_season_3_2022-08-29_2023-05-25.csv,30.0,2.0,0.9955007926567592,,1.0,,no_rescale_insufficient_overlap
+2,gt_white_lotus_season_3_2023-04-26_2024-01-20.csv,30.0,30.0,0.8984790706935952,1.9,0.5263157894736842,0.1270490059528557,overlap_ratio
+3,gt_white_lotus_season_3_2023-12-22_2024-09-16.csv,30.0,30.0,1.0,1.9000000000000001,0.5263157894736842,2.2552749874727246e-16,overlap_ratio
+4,gt_white_lotus_season_3_2024-08-18_2025-05-14.csv,30.0,9.0,0.8093123765957438,,1.0,,no_rescale_insufficient_overlap
+5,gt_white_lotus_season_3_2025-04-15_2026-01-09.csv,30.0,30.0,0.9869439499523107,9.866071428571429,0.10135746606334842,0.08650787184042864,overlap_ratio
+6,gt_white_lotus_season_3_2025-12-11_2026-05-31.csv,30.0,30.0,0.9896279155085741,81.32461734693878,0.012296399695726844,0.04138003481177059,overlap_ratio

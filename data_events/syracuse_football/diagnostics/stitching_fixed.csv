@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
+syracuse_football,1612,2022-01-01,2026-05-31,0,0.0,489.99999999999994,11.512862055268936,28.734928333349735,46

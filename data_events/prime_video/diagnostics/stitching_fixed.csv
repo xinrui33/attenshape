@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
+prime_video,1612,2022-01-01,2026-05-31,0,21.075581946618062,100.0,34.726355175038705,7.147339981060394,0

@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
+peru_vs_australia,1162,2022-01-01,2026-05-31,0,0.0,100.0,2.0688468158347675,12.334101249043155,1113

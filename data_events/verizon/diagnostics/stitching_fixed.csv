@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
+verizon,1612,2022-01-01,2026-05-31,0,28.793298826213267,739.6316079447174,51.871385244009765,24.94458575369946,0

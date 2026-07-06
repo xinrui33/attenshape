@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
+bubble_tea,1612,2022-01-01,2026-05-31,0,14.020687842087682,1008.2644628099173,38.95088627242032,36.21341490088976,0

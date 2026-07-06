@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
+usha_vance,1612,2022-01-01,2026-05-31,0,0.0,120.68965517241381,2.170681098656627,9.32739987174111,922

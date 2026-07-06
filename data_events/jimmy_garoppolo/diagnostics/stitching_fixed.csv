@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
+jimmy_garoppolo,1612,2022-01-01,2026-05-31,0,0.0,100.0,2.42889417709842,5.348269443428169,57

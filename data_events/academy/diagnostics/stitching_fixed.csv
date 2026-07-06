@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
+academy,1612,2022-01-01,2026-05-31,0,26.359456630781025,100.0,47.27840065630663,7.908852329160631,0

@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
+hustle,1612,2022-01-01,2026-05-31,0,2.2718650103488565,100.0,5.101871163771474,4.9531708857182,0

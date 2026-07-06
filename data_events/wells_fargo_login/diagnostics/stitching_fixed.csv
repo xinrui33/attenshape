@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
+wells_fargo_login,1612,2022-01-01,2026-05-31,0,15.685314777250003,100.0,46.39671632807581,15.646367499401444,0

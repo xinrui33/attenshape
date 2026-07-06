@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
+jason_alexander,1612,2022-01-01,2026-05-31,0,0.0,100.0,1.165035536064992,2.741494147868899,1

@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
+carolina_panthers,1612,2022-01-01,2026-05-31,0,3.1464293282475104,174.8016293470839,11.029575691204386,13.69568323896001,0

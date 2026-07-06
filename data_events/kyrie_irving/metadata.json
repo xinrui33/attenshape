@@ -1,0 +1,13 @@
+{
+  "query": "kyrie irving",
+  "folder": "kyrie_irving",
+  "source": "rising",
+  "in_top": false,
+  "in_rising": true,
+  "geo": "US",
+  "start_date": "2022-01-01",
+  "end_date": "2026-05-31",
+  "chunk_days": 270,
+  "overlap_days": 30,
+  "created_at": "2026-07-06T01:51:05"
+}

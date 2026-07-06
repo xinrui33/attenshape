@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
+white_lotus_finale,1612,2022-01-01,2026-05-31,0,0.0,100.0,1.146091811414392,8.448711344827297,1507

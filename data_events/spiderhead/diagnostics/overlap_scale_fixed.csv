@@ -1,0 +1,8 @@
+step,file,overlap_days,valid_ratio_days,overlap_corr,median_ratio_new_over_base,scale_new_to_base,ratio_cv,method
+0,gt_spiderhead_2022-01-01_2022-09-27.csv,,,,,1.0,,base_chunk
+1,gt_spiderhead_2022-08-29_2023-05-25.csv,30.0,29.0,0.7145536086681166,39.0,0.02564102564102564,0.2896719209666879,overlap_ratio
+2,gt_spiderhead_2023-04-26_2024-01-20.csv,30.0,24.0,0.9992739798820072,110.0,0.00909090909090909,0.029745003497608256,overlap_ratio
+3,gt_spiderhead_2023-12-22_2024-09-16.csv,30.0,15.0,0.9998940274480425,159.60784313725492,0.0062653562653562644,0.0110841779048228,overlap_ratio
+4,gt_spiderhead_2024-08-18_2025-05-14.csv,30.0,2.0,0.9999889133896863,,1.0,,no_rescale_insufficient_overlap
+5,gt_spiderhead_2025-04-15_2026-01-09.csv,30.0,3.0,0.999594680277137,,1.0,,no_rescale_insufficient_overlap
+6,gt_spiderhead_2025-12-11_2026-05-31.csv,30.0,7.0,0.999847118590146,,1.0,,no_rescale_insufficient_overlap

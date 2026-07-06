@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
+yellowjackets,1612,2022-01-01,2026-05-31,0,1.6666666666666667,107.42072023649558,10.250873607717407,11.856109017147173,0

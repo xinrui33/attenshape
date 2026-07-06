@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
+2024_united_states_presidential_election_in_georgia,1402,2022-01-01,2026-05-31,0,0.0,100.0,0.6005706134094151,7.396312503290452,1384

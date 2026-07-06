@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
+hard_rock_stadium,1612,2022-01-01,2026-05-31,0,0.0,246.4099895941727,5.127045661699584,9.280512372963885,8

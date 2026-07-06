@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
+frontier_airlines,1612,2022-01-01,2026-05-31,0,16.189403348638916,100.0,34.34223381999249,10.120390103586564,0

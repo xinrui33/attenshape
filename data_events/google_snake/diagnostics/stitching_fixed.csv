@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
+google_snake,1612,2022-01-01,2026-05-31,0,0.0,2504.2730605081983,34.46536145379487,70.59943873953887,68

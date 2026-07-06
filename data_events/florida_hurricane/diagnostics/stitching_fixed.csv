@@ -1,2 +1,2 @@
 query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
-florida_hurricane,1612,2022-01-01,2026-05-31,0,0.0,156.16438356164383,6.30255631897162,13.280339058413182,580
+florida_hurricane,270,2022-01-01,2022-09-27,0,0,100,1.4370370370370371,9.37695300690957,219

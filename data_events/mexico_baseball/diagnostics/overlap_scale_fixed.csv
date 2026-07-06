@@ -1,0 +1,8 @@
+step,file,overlap_days,valid_ratio_days,overlap_corr,median_ratio_new_over_base,scale_new_to_base,ratio_cv,method
+0,gt_mexico_baseball_2022-01-01_2022-09-27.csv,,,,,1.0,,base_chunk
+1,gt_mexico_baseball_2022-08-29_2023-05-25.csv,30.0,0.0,,,1.0,,no_rescale_insufficient_overlap
+2,gt_mexico_baseball_2023-04-26_2024-01-20.csv,30.0,10.0,0.7757488986842116,27.0,0.037037037037037035,0.3803105383928178,overlap_ratio
+3,gt_mexico_baseball_2023-12-22_2024-09-16.csv,30.0,28.0,0.9855770386313346,40.5,0.024691358024691357,0.055858067671664124,overlap_ratio
+4,gt_mexico_baseball_2024-08-18_2025-05-14.csv,30.0,30.0,0.9954130539468689,17.15531561461794,0.05829097070927136,0.06170238016537018,overlap_ratio
+5,gt_mexico_baseball_2025-04-15_2026-01-09.csv,30.0,30.0,0.9736543191469681,57.541787790697676,0.01737867449717407,0.04239509858481838,overlap_ratio
+6,gt_mexico_baseball_2025-12-11_2026-05-31.csv,30.0,0.0,,,1.0,,no_rescale_insufficient_overlap

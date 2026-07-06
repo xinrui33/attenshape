@@ -1,2 +1,2 @@
 query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
-carhartt,1612,2022-01-01,2026-05-31,0,3.0,100.0,8.910994122743155,6.584302440096506,0
+carhartt,1612,2022-01-01,2026-05-31,0,3.0,100.0,9.154165332481531,6.685558821507416,0

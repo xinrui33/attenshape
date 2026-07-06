@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
+dennis_rodman,1612,2022-01-01,2026-05-31,0,5.258873207288771,188.19188191881915,13.090450258413965,11.037180767754215,0

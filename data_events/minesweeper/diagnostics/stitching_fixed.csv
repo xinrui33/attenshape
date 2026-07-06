@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
+minesweeper,1612,2022-01-01,2026-05-31,0,14.259213719405976,129.62921563096342,51.760982111828845,29.86069468610717,0

@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
+uvalde_school_shooting,1612,2022-01-01,2026-05-31,0,0.0,103.84615384615384,4.636753197175034,9.756725580747029,879

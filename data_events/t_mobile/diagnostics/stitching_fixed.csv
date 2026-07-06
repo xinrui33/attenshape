@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
+t_mobile,1612,2022-01-01,2026-05-31,0,30.73381170311314,157.83623564283067,54.09084544516413,9.498111476323809,0

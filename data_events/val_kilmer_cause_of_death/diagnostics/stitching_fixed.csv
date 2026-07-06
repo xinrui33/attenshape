@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
+val_kilmer_cause_of_death,1612,2022-01-01,2026-05-31,0,0.0,100.0,0.8715880893300249,8.09028886311071,1579

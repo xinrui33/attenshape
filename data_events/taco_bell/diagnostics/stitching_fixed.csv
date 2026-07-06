@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
+taco_bell,1612,2022-01-01,2026-05-31,0,18.645770920868376,100.0,33.04631742557843,6.979800624796467,0

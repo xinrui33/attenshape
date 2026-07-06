@@ -1,2 +1,2 @@
 query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
-meat_loaf,1612,2022-01-01,2026-05-31,0,0.0,100.0,0.9891175886597681,2.764896181722909,68
+meat_loaf,1612,2022-01-01,2026-05-31,0,0.0,100.0,0.9642749610158297,2.736606706348996,81

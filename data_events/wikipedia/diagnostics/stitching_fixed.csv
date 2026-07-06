@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
+wikipedia,1612,2022-01-01,2026-05-31,0,49.47282089840175,235.25772080613808,79.34927429478242,15.129601483519435,0

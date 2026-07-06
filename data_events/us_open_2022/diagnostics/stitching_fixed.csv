@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
+us_open_2022,1612,2022-01-01,2026-05-31,0,0.0,115.625,11.243273107940446,20.53812391461587,820

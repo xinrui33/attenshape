@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
+copa_america,1612,2022-01-01,2026-05-31,0,0.0,682.9268292682925,19.079838031417022,29.32564089306451,131

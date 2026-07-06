@@ -1,0 +1,8 @@
+step,file,overlap_days,valid_ratio_days,overlap_corr,median_ratio_new_over_base,scale_new_to_base,ratio_cv,method
+0,gt_uvalde_school_shooting_2022-01-01_2022-09-27.csv,,,,,1.0,,base_chunk
+1,gt_uvalde_school_shooting_2022-08-29_2023-05-25.csv,30.0,1.0,0.7789977102656347,,1.0,,no_rescale_insufficient_overlap
+2,gt_uvalde_school_shooting_2023-04-26_2024-01-20.csv,30.0,27.0,0.9996223633665812,0.9285714285714286,1.0769230769230769,0.05672136938949856,overlap_ratio
+3,gt_uvalde_school_shooting_2023-12-22_2024-09-16.csv,30.0,9.0,0.9999999999999998,,1.0,,no_rescale_insufficient_overlap
+4,gt_uvalde_school_shooting_2024-08-18_2025-05-14.csv,30.0,19.0,0.9997745000902296,1.3888888888888888,0.72,0.02329089446786154,overlap_ratio
+5,gt_uvalde_school_shooting_2025-04-15_2026-01-09.csv,30.0,22.0,0.9964910582876084,1.3888888888888888,0.72,0.05219050836697094,overlap_ratio
+6,gt_uvalde_school_shooting_2025-12-11_2026-05-31.csv,30.0,9.0,0.9999426777537529,,1.0,,no_rescale_insufficient_overlap

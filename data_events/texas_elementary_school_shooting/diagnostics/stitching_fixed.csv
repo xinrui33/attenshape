@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
+texas_elementary_school_shooting,1470,2022-01-01,2026-01-09,0,0.0,100.0,1.1860544217687075,9.632574786391025,1438

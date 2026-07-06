@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
+flooding_yellowstone_national_park,1260,2022-01-01,2026-01-09,0,0.0,100.0,0.5126984126984127,6.484955205963211,1242

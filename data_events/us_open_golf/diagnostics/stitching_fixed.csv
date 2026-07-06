@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
+us_open_golf,1612,2022-01-01,2026-05-31,0,0.0,170.00000000000003,2.5409392178280124,10.476737748404812,250

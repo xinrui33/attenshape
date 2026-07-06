@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
+olive_garden,1612,2022-01-01,2026-05-31,0,14.429031020022673,100.0,27.42496995974443,7.911318075124311,0

@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
+eli_lilly,1612,2022-01-01,2026-05-31,0,6.0,1150.0,56.06241835032157,47.28969445251067,0

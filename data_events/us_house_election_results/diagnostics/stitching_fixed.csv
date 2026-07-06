@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
+us_house_election_results,1612,2022-01-01,2026-05-31,0,0.0,100.0,1.838089330024814,10.253906957482009,1494

@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
+classroom,1612,2022-01-01,2026-05-31,0,2.7524266671277116,100.0,29.3391890027975,21.03725863360874,0

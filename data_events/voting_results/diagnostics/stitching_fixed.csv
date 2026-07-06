@@ -1,2 +1,2 @@
 query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
-voting_results,1612,2022-01-01,2026-05-31,0,0.0,100.0,2.150537634408602,7.443852528449542,652
+voting_results,1612,2022-01-01,2026-05-31,0,0.0,100.0,2.1591191066997517,7.439750058014831,640

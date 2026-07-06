@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
+lark,1612,2022-01-01,2026-05-31,0,34.43984012530382,1147.9946708434609,60.13761470235659,39.90759152027008,0

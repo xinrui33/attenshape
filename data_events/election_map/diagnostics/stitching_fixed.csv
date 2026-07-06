@@ -1,2 +1,2 @@
 query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
-election_map,1612,2022-01-01,2026-05-31,0,0.0,3149.2063492063494,26.89189078379968,89.56770214472479,271
+election_map,1612,2022-01-01,2026-05-31,0,0.0,3000.0,25.917485211903177,85.61863468606724,271

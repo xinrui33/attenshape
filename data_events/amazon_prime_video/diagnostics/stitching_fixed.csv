@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
+amazon_prime_video,1612,2022-01-01,2026-05-31,0,21.85866041393966,100.0,36.37743259988833,7.223923737794878,0

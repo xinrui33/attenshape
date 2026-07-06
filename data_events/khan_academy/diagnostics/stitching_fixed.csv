@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
+khan_academy,1612,2022-01-01,2026-05-31,0,9.476829666915837,102.10526315789474,45.14910069684132,23.471505962075394,0

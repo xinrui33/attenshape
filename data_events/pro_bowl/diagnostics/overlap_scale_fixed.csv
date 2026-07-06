@@ -1,0 +1,8 @@
+step,file,overlap_days,valid_ratio_days,overlap_corr,median_ratio_new_over_base,scale_new_to_base,ratio_cv,method
+0,gt_pro_bowl_2022-01-01_2022-09-27.csv,,,,,1.0,,base_chunk
+1,gt_pro_bowl_2022-08-29_2023-05-25.csv,30.0,2.0,0.9453131868733218,,1.0,,no_rescale_insufficient_overlap
+2,gt_pro_bowl_2023-04-26_2024-01-20.csv,30.0,0.0,,,1.0,,no_rescale_insufficient_overlap
+3,gt_pro_bowl_2023-12-22_2024-09-16.csv,30.0,30.0,0.998183595046304,0.25,4.0,0.16586709198263339,overlap_ratio
+4,gt_pro_bowl_2024-08-18_2025-05-14.csv,30.0,0.0,,,1.0,,no_rescale_insufficient_overlap
+5,gt_pro_bowl_2025-04-15_2026-01-09.csv,30.0,0.0,,,1.0,,no_rescale_insufficient_overlap
+6,gt_pro_bowl_2025-12-11_2026-05-31.csv,30.0,30.0,0.9985010392754203,0.26969696969696966,3.7078651685393265,0.11817142900496341,overlap_ratio

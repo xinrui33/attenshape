@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
+indeed_jobs,1612,2022-01-01,2026-05-31,0,16.076754837667746,112.88466349762321,59.44058090596226,19.63484136637688,0

@@ -1,2 +1,2 @@
 query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
-daylight_savings_2023,1612,2022-01-01,2026-05-31,0,0.0,100.0,3.1892059553349874,9.656798153608163,1175
+daylight_savings_2023,1612,2022-01-01,2026-05-31,0,0.0,100.0,3.446029776674938,9.844659531201192,1157

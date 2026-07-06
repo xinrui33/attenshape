@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
+jay_north,1612,2022-01-01,2026-05-31,0,0.0,2032.4571428571428,17.478343018408214,55.021245703252646,267

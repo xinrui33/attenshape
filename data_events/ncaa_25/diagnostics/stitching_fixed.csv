@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
+ncaa_25,1612,2022-01-01,2026-05-31,0,0.0,1303.7037037037037,28.617780368008145,70.9898802366357,146

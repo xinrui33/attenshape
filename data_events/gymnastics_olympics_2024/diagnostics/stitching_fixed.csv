@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
+gymnastics_olympics_2024,1402,2022-01-01,2026-05-31,0,0.0,100.0,2.108416547788873,10.817528822468491,1296

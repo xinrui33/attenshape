@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
+credit_one,1612,2022-01-01,2026-05-31,0,32.48634568811916,100.0,69.44444707668204,8.881363046032755,0

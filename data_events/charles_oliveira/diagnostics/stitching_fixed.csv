@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
+charles_oliveira,1612,2022-01-01,2026-05-31,0,0.0,150.0,2.0613368486352357,7.600001161590097,138

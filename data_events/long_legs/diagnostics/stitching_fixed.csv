@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
+long_legs,1612,2022-01-01,2026-05-31,0,21.0,780.247259945464,53.605951246798526,43.59949820340941,0

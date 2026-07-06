@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
+bts,1612,2022-01-01,2026-05-31,0,3.806984804052253,117.77093726444441,12.123183551832527,8.761689060980496,0

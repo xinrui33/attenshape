@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
+trump_vp_pick,990,2022-08-29,2025-05-14,0,0.0,100.0,1.0954545454545455,6.475412744980114,849

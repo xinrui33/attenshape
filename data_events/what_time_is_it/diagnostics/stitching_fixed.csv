@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
+what_time_is_it,1612,2022-01-01,2026-05-31,0,22.810881743715278,112.70125223613596,38.831122942272316,8.076635326815397,0

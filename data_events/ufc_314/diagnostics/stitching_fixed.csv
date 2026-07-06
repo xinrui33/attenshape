@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
+ufc_314,1162,2022-01-01,2026-05-31,0,0.0,100.0,0.9608146873207114,7.08283055172347,973

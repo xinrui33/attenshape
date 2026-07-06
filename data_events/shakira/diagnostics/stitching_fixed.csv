@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
+shakira,1612,2022-01-01,2026-05-31,0,2.0,168.94514767932486,7.804749194828054,8.959357154477269,0

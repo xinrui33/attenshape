@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
+french_open,1612,2022-01-01,2026-05-31,0,0.0,126.7335182419458,3.2513657071390543,12.569486169729513,437

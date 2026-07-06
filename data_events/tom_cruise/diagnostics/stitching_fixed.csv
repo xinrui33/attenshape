@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
+tom_cruise,1612,2022-01-01,2026-05-31,0,3.423286187332808,100.0,9.716946734385655,8.058429104030758,0

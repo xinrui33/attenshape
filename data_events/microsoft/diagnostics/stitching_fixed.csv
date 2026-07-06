@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
+microsoft,1612,2022-01-01,2026-05-31,0,26.0,372.0088963492951,55.297351739332086,17.12919974787243,0

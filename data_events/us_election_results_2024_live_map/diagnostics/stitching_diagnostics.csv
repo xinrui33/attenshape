@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,expected_days,observed_days,missing_days
+us election results 2024 live map,922,2023-04-26,2026-05-31,1612,922,690

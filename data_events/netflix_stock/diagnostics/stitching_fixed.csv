@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
+netflix_stock,1612,2022-01-01,2026-05-31,0,0.2828282828282828,100.0,2.9401013997620353,4.233648736354653,0

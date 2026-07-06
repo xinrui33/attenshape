@@ -1,0 +1,8 @@
+step,file,overlap_days,valid_ratio_days,overlap_corr,median_ratio_new_over_base,scale_new_to_base,ratio_cv,method
+0,gt_houston_basketball_2022-01-01_2022-09-27.csv,,,,,1.0,,base_chunk
+1,gt_houston_basketball_2022-08-29_2023-05-25.csv,30.0,30.0,,1.0,1.0,0.13122834398403233,overlap_ratio
+2,gt_houston_basketball_2023-04-26_2024-01-20.csv,30.0,30.0,0.7147716126616104,5.0,0.2,0.1616741606795179,overlap_ratio
+3,gt_houston_basketball_2023-12-22_2024-09-16.csv,30.0,30.0,0.9928684488517839,0.6742424242424242,1.4831460674157304,0.1480355707544038,overlap_ratio
+4,gt_houston_basketball_2024-08-18_2025-05-14.csv,30.0,2.0,0.721960626319743,,1.0,,no_rescale_insufficient_overlap
+5,gt_houston_basketball_2025-04-15_2026-01-09.csv,30.0,20.0,0.7701226250058099,8.0,0.125,0.24437978589391224,overlap_ratio
+6,gt_houston_basketball_2025-12-11_2026-05-31.csv,30.0,30.0,0.996447117100502,3.051082251082251,0.32775255391600455,0.06797258008619186,overlap_ratio

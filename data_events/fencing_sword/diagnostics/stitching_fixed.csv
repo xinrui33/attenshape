@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
+fencing_sword,1612,2022-01-01,2026-05-31,0,0.0,169.6428571428571,1.5048353863878057,7.052465117993957,585

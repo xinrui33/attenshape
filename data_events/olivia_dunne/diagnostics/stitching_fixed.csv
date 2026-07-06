@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
+olivia_dunne,1612,2022-01-01,2026-05-31,0,0.0,1683.1683168316833,54.79943433653798,100.34883564003796,73

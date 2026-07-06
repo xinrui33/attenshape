@@ -1,0 +1,8 @@
+step,file,overlap_days,valid_ratio_days,overlap_corr,median_ratio_new_over_base,scale_new_to_base,ratio_cv,method
+0,gt_free_covid_test_kits_2022-01-01_2022-09-27.csv,,,,,1.0,,base_chunk
+1,gt_free_covid_test_kits_2022-08-29_2023-05-25.csv,30.0,30.0,0.993303713025039,6.5,0.15384615384615385,0.16155822941079026,overlap_ratio
+2,gt_free_covid_test_kits_2023-04-26_2024-01-20.csv,30.0,30.0,0.9868569214477466,5.3181818181818175,0.18803418803418806,0.13157656716777624,overlap_ratio
+3,gt_free_covid_test_kits_2023-12-22_2024-09-16.csv,30.0,30.0,0.9966428273715324,27.964772727272724,0.0357592750619692,0.02835922998598314,overlap_ratio
+4,gt_free_covid_test_kits_2024-08-18_2025-05-14.csv,30.0,30.0,0.9985112294791886,16.08289959556884,0.06217784262456753,0.01183618058276661,overlap_ratio
+5,gt_free_covid_test_kits_2025-04-15_2026-01-09.csv,30.0,8.0,0.9951095361702346,,1.0,,no_rescale_insufficient_overlap
+6,gt_free_covid_test_kits_2025-12-11_2026-05-31.csv,30.0,9.0,0.9999027918072729,,1.0,,no_rescale_insufficient_overlap

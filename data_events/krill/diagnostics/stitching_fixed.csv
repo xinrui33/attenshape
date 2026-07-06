@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
+krill,1612,2022-01-01,2026-05-31,0,28.45334708106991,2845.334708106991,59.97303034996576,71.6639671820149,0

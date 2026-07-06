@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
+dunkin_donuts,1612,2022-01-01,2026-05-31,0,23.399192757963018,189.05647141353913,40.41610008499269,11.85760583962962,0

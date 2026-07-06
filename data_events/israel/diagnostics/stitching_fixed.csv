@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
+israel,1612,2022-01-01,2026-05-31,0,18.0,1300.0,57.04008247464263,85.61460486833546,0

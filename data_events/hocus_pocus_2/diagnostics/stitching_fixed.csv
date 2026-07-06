@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
+hocus_pocus_2,1612,2022-01-01,2026-05-31,0,0.0,993.7106918238992,10.175381181170936,39.21459555602464,711

@@ -1,2 +1,2 @@
 query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
-olympic_medal_count,1402,2022-01-01,2026-05-31,0,0.0,100.0,2.7132667617689017,12.256674775160764,1237
+olympic_medal_count,1612,2022-01-01,2026-05-31,0,0.0,100.0,2.6268610421836227,12.158617191746757,1446

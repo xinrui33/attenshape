@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,expected_days,observed_days,missing_days
+siobhan meaning,1162,2022-08-29,2026-05-31,1612,1162,450

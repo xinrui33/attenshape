@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
+who_is_the_president_of_the_united_states,1612,2022-01-01,2026-05-31,0,0.0,4599.49594103461,58.66939456108664,121.59333145200942,14

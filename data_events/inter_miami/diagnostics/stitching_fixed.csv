@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
+inter_miami,1612,2022-01-01,2026-05-31,0,0.0,100.0,4.840310838154494,8.91124705808757,10

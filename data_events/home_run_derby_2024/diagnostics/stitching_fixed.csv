@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
+home_run_derby_2024,1402,2022-01-01,2026-05-31,0,0.0,100.0,0.9076319543509273,7.954940390432724,1352

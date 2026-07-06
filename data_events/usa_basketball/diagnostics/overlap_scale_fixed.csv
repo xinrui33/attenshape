@@ -1,0 +1,8 @@
+step,file,overlap_days,valid_ratio_days,overlap_corr,median_ratio_new_over_base,scale_new_to_base,ratio_cv,method
+0,gt_usa_basketball_2022-01-01_2022-09-27.csv,,,,,1.0,,base_chunk
+1,gt_usa_basketball_2022-08-29_2023-05-25.csv,30.0,30.0,0.9985623292228445,0.696969696969697,1.434782608695652,0.02260041067590318,overlap_ratio
+2,gt_usa_basketball_2023-04-26_2024-01-20.csv,30.0,30.0,0.7903925554772284,0.08199643493761141,12.195652173913043,0.21329106032542608,overlap_ratio
+3,gt_usa_basketball_2023-12-22_2024-09-16.csv,30.0,0.0,,,1.0,,no_rescale_insufficient_overlap
+4,gt_usa_basketball_2024-08-18_2025-05-14.csv,30.0,4.0,0.7845555502572333,,1.0,,no_rescale_insufficient_overlap
+5,gt_usa_basketball_2025-04-15_2026-01-09.csv,30.0,30.0,0.9917980113474155,1.5,0.6666666666666666,0.026692328429026458,overlap_ratio
+6,gt_usa_basketball_2025-12-11_2026-05-31.csv,30.0,30.0,0.9910982920597172,0.23863636363636365,4.190476190476191,0.04534438936529585,overlap_ratio

@@ -1,0 +1,8 @@
+step,file,overlap_days,valid_ratio_days,overlap_corr,median_ratio_new_over_base,scale_new_to_base,ratio_cv,method
+0,gt_heat_vs_76ers_2022-01-01_2022-09-27.csv,,,,,1.0,,base_chunk
+1,gt_heat_vs_76ers_2022-08-29_2023-05-25.csv,30.0,0.0,,,1.0,,no_rescale_insufficient_overlap
+2,gt_heat_vs_76ers_2023-04-26_2024-01-20.csv,30.0,28.0,0.9985528757133578,0.424812030075188,2.353982300884956,0.10812025397744661,overlap_ratio
+3,gt_heat_vs_76ers_2023-12-22_2024-09-16.csv,30.0,17.0,0.9996211551428256,0.212406015037594,4.707964601769912,0.17111543157291087,overlap_ratio
+4,gt_heat_vs_76ers_2024-08-18_2025-05-14.csv,30.0,0.0,,,1.0,,no_rescale_insufficient_overlap
+5,gt_heat_vs_76ers_2025-04-15_2026-01-09.csv,30.0,0.0,,,1.0,,no_rescale_insufficient_overlap
+6,gt_heat_vs_76ers_2025-12-11_2026-05-31.csv,30.0,10.0,0.9915751116404127,1.9,0.5263157894736842,0.12612076367045252,overlap_ratio

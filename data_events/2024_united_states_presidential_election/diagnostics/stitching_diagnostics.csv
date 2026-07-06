@@ -1,2 +1,2 @@
 query,n_rows,min_date,max_date,expected_days,observed_days,missing_days
-2024 united states presidential election,1612,2022-01-01,2026-05-31,1612,1612,0
+2024 united states presidential election,1372,2022-08-29,2026-05-31,1612,1372,240

@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,expected_days,observed_days,missing_days
+tropical storm debby,1470,2022-01-01,2026-01-09,1612,1470,142

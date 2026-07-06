@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
+young_thug,1612,2022-01-01,2026-05-31,0,1.0,121.7375082420675,3.0408755315107077,4.967441212707414,0

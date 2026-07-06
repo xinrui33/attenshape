@@ -1,0 +1,8 @@
+step,file,overlap_days,valid_ratio_days,overlap_corr,median_ratio_new_over_base,scale_new_to_base,ratio_cv,method
+0,gt_who_is_the_president_of_the_united_states_2022-01-01_2022-09-27.csv,,,,,1.0,,base_chunk
+1,gt_who_is_the_president_of_the_united_states_2022-08-29_2023-05-25.csv,30.0,30.0,0.9996457192878042,0.8961925287356323,1.1158316633266532,0.014318539178591737,overlap_ratio
+2,gt_who_is_the_president_of_the_united_states_2023-04-26_2024-01-20.csv,30.0,30.0,0.999824946153355,0.901284531739812,1.109527529635542,0.013330453770616233,overlap_ratio
+3,gt_who_is_the_president_of_the_united_states_2023-12-22_2024-09-16.csv,30.0,29.0,0.9998117089822083,0.5217963078493649,1.9164566420977542,0.03571806509379703,overlap_ratio
+4,gt_who_is_the_president_of_the_united_states_2024-08-18_2025-05-14.csv,30.0,25.0,0.8869672921868038,0.021741512827056875,45.9949594103461,0.30195995115852026,overlap_ratio
+5,gt_who_is_the_president_of_the_united_states_2025-04-15_2026-01-09.csv,30.0,30.0,0.9725106481927567,0.7065991668793484,1.4152295203183414,0.21261461806253423,overlap_ratio
+6,gt_who_is_the_president_of_the_united_states_2025-12-11_2026-05-31.csv,30.0,30.0,0.9998899418292942,0.796615451527237,1.2553108254212781,0.02162643461817024,overlap_ratio

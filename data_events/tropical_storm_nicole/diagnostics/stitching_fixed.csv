@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
+tropical_storm_nicole,1162,2022-08-29,2026-05-31,0,0.0,100.0,0.9195352839931153,8.369185232436088,1138

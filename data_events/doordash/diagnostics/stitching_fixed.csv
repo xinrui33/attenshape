@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
+doordash,1612,2022-01-01,2026-05-31,0,28.162647407540085,141.7970766398496,48.837615857837136,8.17398662220533,0

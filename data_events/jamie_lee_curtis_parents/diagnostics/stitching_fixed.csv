@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
+jamie_lee_curtis_parents,1612,2022-01-01,2026-05-31,0,0.0,100.0,0.7735732009925558,7.5675667115120815,1575

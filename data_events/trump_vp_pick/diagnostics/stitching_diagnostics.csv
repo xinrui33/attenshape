@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,expected_days,observed_days,missing_days
+trump vp pick,990,2022-08-29,2025-05-14,1612,990,622

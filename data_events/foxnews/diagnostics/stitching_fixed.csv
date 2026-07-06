@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
+foxnews,1612,2022-01-01,2026-05-31,0,16.06202049722677,235.52850027670172,33.99542434564802,15.184142154080407,0

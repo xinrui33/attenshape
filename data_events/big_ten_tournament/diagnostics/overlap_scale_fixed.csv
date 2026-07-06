@@ -1,0 +1,8 @@
+step,file,overlap_days,valid_ratio_days,overlap_corr,median_ratio_new_over_base,scale_new_to_base,ratio_cv,method
+0,gt_big_ten_tournament_2022-01-01_2022-09-27.csv,,,,,1.0,,base_chunk
+1,gt_big_ten_tournament_2022-08-29_2023-05-25.csv,30.0,0.0,,,1.0,,no_rescale_insufficient_overlap
+2,gt_big_ten_tournament_2023-04-26_2024-01-20.csv,30.0,21.0,0.9821560596544181,7.5,0.13333333333333333,0.24124264816262217,overlap_ratio
+3,gt_big_ten_tournament_2023-12-22_2024-09-16.csv,30.0,8.0,0.692902328155734,,1.0,,no_rescale_insufficient_overlap
+4,gt_big_ten_tournament_2024-08-18_2025-05-14.csv,30.0,0.0,,,1.0,,no_rescale_insufficient_overlap
+5,gt_big_ten_tournament_2025-04-15_2026-01-09.csv,30.0,27.0,0.9789888759762869,6.0,0.16666666666666666,0.21787273050576306,overlap_ratio
+6,gt_big_ten_tournament_2025-12-11_2026-05-31.csv,30.0,4.0,0.750390921653256,,1.0,,no_rescale_insufficient_overlap

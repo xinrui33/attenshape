@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
+subway,1612,2022-01-01,2026-05-31,0,10.600599041231192,100.0,19.163694022822096,4.023611244230587,0

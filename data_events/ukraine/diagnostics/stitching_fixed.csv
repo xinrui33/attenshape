@@ -1,2 +1,2 @@
 query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
-ukraine,1612,2022-01-01,2026-05-31,0,0.0,100.0,1.6698610923951704,4.486295210795668,14
+ukraine,1612,2022-01-01,2026-05-31,0,0.0,100.0,1.6176870692431746,4.4313341900596575,14

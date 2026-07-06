@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
+superbowl,1612,2022-01-01,2026-05-31,0,0.0,3397.058823529412,18.46340678778292,146.95821749191867,747

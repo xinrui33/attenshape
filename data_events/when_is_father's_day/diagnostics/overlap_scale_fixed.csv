@@ -1,0 +1,8 @@
+step,file,overlap_days,valid_ratio_days,overlap_corr,median_ratio_new_over_base,scale_new_to_base,ratio_cv,method
+0,gt_when_is_father's_day_2022-01-01_2022-09-27.csv,,,,,1.0,,base_chunk
+1,gt_when_is_father's_day_2022-08-29_2023-05-25.csv,30.0,8.0,0.9016873420669033,,1.0,,no_rescale_insufficient_overlap
+2,gt_when_is_father's_day_2023-04-26_2024-01-20.csv,30.0,30.0,0.9965094622592573,0.16400996264009962,6.097190584662111,0.09375116834346664,overlap_ratio
+3,gt_when_is_father's_day_2023-12-22_2024-09-16.csv,30.0,9.0,0.8603834844182799,,1.0,,no_rescale_insufficient_overlap
+4,gt_when_is_father's_day_2024-08-18_2025-05-14.csv,30.0,15.0,0.8083430343013538,3.0,0.3333333333333333,0.2928860393338867,overlap_ratio
+5,gt_when_is_father's_day_2025-04-15_2026-01-09.csv,30.0,30.0,0.9978666075301337,0.7236363636363636,1.3819095477386936,0.08252087810722258,overlap_ratio
+6,gt_when_is_father's_day_2025-12-11_2026-05-31.csv,30.0,9.0,0.6340693357921261,,1.0,,no_rescale_insufficient_overlap

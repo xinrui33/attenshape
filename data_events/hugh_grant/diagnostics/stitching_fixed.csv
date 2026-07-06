@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
+hugh_grant,1612,2022-01-01,2026-05-31,0,11.0,1100.0,40.55770345437375,45.117751100129865,0

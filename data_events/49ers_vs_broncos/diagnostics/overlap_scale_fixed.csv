@@ -1,0 +1,8 @@
+step,file,overlap_days,valid_ratio_days,overlap_corr,median_ratio_new_over_base,scale_new_to_base,ratio_cv,method
+0,gt_49ers_vs_broncos_2022-01-01_2022-09-27.csv,,,,,1.0,,base_chunk
+1,gt_49ers_vs_broncos_2022-08-29_2023-05-25.csv,30.0,11.0,0.9999999999999998,1.0,1.0,0.0,overlap_ratio
+2,gt_49ers_vs_broncos_2023-04-26_2024-01-20.csv,30.0,0.0,,,1.0,,no_rescale_insufficient_overlap
+3,gt_49ers_vs_broncos_2023-12-22_2024-09-16.csv,30.0,10.0,0.9995542871134512,2.3923444976076556,0.418,0.07203207747820782,overlap_ratio
+4,gt_49ers_vs_broncos_2024-08-18_2025-05-14.csv,30.0,12.0,0.9996574053469411,0.6110879966715208,1.6364255319148933,0.06304971562206103,overlap_ratio
+5,gt_49ers_vs_broncos_2025-04-15_2026-01-09.csv,30.0,0.0,,,1.0,,no_rescale_insufficient_overlap
+6,gt_49ers_vs_broncos_2025-12-11_2026-05-31.csv,30.0,17.0,0.9937797327851222,0.5,2.0,0.3581400869439651,overlap_ratio

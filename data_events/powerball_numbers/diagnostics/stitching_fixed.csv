@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
+powerball_numbers,1612,2022-01-01,2026-05-31,0,0.0,800.0,10.545036967812784,29.354075227418633,62

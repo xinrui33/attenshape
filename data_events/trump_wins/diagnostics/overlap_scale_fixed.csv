@@ -1,0 +1,8 @@
+step,file,overlap_days,valid_ratio_days,overlap_corr,median_ratio_new_over_base,scale_new_to_base,ratio_cv,method
+0,gt_trump_wins_2022-01-01_2022-09-27.csv,,,,,1.0,,base_chunk
+1,gt_trump_wins_2022-08-29_2023-05-25.csv,30.0,5.0,0.9999732476906121,,1.0,,no_rescale_insufficient_overlap
+2,gt_trump_wins_2023-04-26_2024-01-20.csv,30.0,7.0,0.9930728439547527,,1.0,,no_rescale_insufficient_overlap
+3,gt_trump_wins_2023-12-22_2024-09-16.csv,30.0,26.0,0.9996972879759626,0.9045454545454545,1.1055276381909547,0.1060006026151261,overlap_ratio
+4,gt_trump_wins_2024-08-18_2025-05-14.csv,30.0,2.0,0.9243939169317384,,1.0,,no_rescale_insufficient_overlap
+5,gt_trump_wins_2025-04-15_2026-01-09.csv,30.0,0.0,,,1.0,,no_rescale_insufficient_overlap
+6,gt_trump_wins_2025-12-11_2026-05-31.csv,30.0,22.0,0.999131749873639,2.3405797101449277,0.42724458204334365,0.028636680490300295,overlap_ratio

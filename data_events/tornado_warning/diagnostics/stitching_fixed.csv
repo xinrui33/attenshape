@@ -1,2 +1,2 @@
 query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
-tornado_warning,1612,2022-01-01,2026-05-31,0,0.0,200.0,8.22775844698595,17.93437551026079,350
+tornado_warning,1612,2022-01-01,2026-05-31,0,0.0,266.66666666666663,9.943941118144876,22.10025997090227,357

@@ -1,0 +1,8 @@
+step,file,overlap_days,valid_ratio_days,overlap_corr,median_ratio_new_over_base,scale_new_to_base,ratio_cv,method
+0,gt_juju_smith_schuster_2022-01-01_2022-09-27.csv,,,,,1.0,,base_chunk
+1,gt_juju_smith_schuster_2022-08-29_2023-05-25.csv,30.0,30.0,0.9974119855747476,1.0,1.0,0.11490677041485431,overlap_ratio
+2,gt_juju_smith_schuster_2023-04-26_2024-01-20.csv,30.0,23.0,0.9805854327200024,11.5,0.08695652173913043,0.22389883624897267,overlap_ratio
+3,gt_juju_smith_schuster_2023-12-22_2024-09-16.csv,30.0,11.0,0.9987471612739218,7.1875,0.1391304347826087,0.06210178630871631,overlap_ratio
+4,gt_juju_smith_schuster_2024-08-18_2025-05-14.csv,30.0,23.0,0.9998131771639054,6.46875,0.15458937198067632,0.05857119863254236,overlap_ratio
+5,gt_juju_smith_schuster_2025-04-15_2026-01-09.csv,30.0,1.0,0.9999999999999998,,1.0,,no_rescale_insufficient_overlap
+6,gt_juju_smith_schuster_2025-12-11_2026-05-31.csv,30.0,3.0,0.9993273322331446,,1.0,,no_rescale_insufficient_overlap

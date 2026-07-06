@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
+lamar_jackson,1612,2022-01-01,2026-05-31,0,3.46093340325118,587.6053383752965,25.385745821939555,38.53121849044707,0

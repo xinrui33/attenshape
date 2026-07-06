@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
+paypal,1612,2022-01-01,2026-05-31,0,30.098746999255614,103.42097823013854,53.04982745983147,10.872377300870442,0

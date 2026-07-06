@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
+vince_mcmahon,1612,2022-01-01,2026-05-31,0,1.0,300.0,5.464579044738427,11.834881989916157,0

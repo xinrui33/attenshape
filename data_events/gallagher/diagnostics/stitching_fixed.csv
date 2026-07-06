@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
+gallagher,1612,2022-01-01,2026-05-31,0,37.34935827280868,791.5789473684212,57.031968926803955,25.26180284663038,0

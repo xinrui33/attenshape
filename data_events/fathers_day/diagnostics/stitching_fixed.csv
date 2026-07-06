@@ -1,2 +1,2 @@
 query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
-fathers_day,1612,2022-01-01,2026-05-31,0,0.0,3000.0,13.387096774193548,95.70093907738598,700
+fathers_day,1612,2022-01-01,2026-05-31,0,0.0,2950.0,13.745502481389579,96.4404291833218,698

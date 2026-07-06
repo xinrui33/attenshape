@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
+big_lots,1612,2022-01-01,2026-05-31,0,4.982587777368832,179.39814814814812,38.266193771840804,22.753426047388636,0

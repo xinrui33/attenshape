@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
+jayson_tatum,1612,2022-01-01,2026-05-31,0,0.0,266.66666666666663,8.057899090157155,12.899885932072221,68

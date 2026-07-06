@@ -1,0 +1,8 @@
+step,file,overlap_days,valid_ratio_days,overlap_corr,median_ratio_new_over_base,scale_new_to_base,ratio_cv,method
+0,gt_val_kilmer_movies_2022-01-01_2022-09-27.csv,,,,,1.0,,base_chunk
+1,gt_val_kilmer_movies_2022-08-29_2023-05-25.csv,30.0,21.0,0.9996766262336841,2.5833333333333335,0.3870967741935484,0.019481883438297952,overlap_ratio
+2,gt_val_kilmer_movies_2023-04-26_2024-01-20.csv,30.0,19.0,0.9998718193019497,2.5833333333333335,0.3870967741935484,0.010515434818094957,overlap_ratio
+3,gt_val_kilmer_movies_2023-12-22_2024-09-16.csv,30.0,16.0,0.9999002557183886,4.553868286445013,0.21959352732633647,0.010170466103061368,overlap_ratio
+4,gt_val_kilmer_movies_2024-08-18_2025-05-14.csv,30.0,9.0,0.9095013171472276,,1.0,,no_rescale_insufficient_overlap
+5,gt_val_kilmer_movies_2025-04-15_2026-01-09.csv,30.0,20.0,0.8354147821160665,44.5,0.02247191011235955,0.2759079395682473,overlap_ratio
+6,gt_val_kilmer_movies_2025-12-11_2026-05-31.csv,30.0,9.0,0.999956266957289,,1.0,,no_rescale_insufficient_overlap

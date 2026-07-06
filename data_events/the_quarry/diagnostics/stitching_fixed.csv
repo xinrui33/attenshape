@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
+the_quarry,1612,2022-01-01,2026-05-31,0,1.0,100.0,4.580555843429341,6.060405524000697,0

@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
+spider_man_no_way_home,1612,2022-01-01,2026-05-31,0,0.6021426842866014,100.0,3.64498476019466,7.210725262741486,0

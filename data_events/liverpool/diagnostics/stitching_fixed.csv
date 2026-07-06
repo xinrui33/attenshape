@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
+liverpool,1612,2022-01-01,2026-05-31,0,1.875,100.0,5.843980936411852,6.083627252678936,0

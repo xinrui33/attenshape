@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
+scott_hall,1612,2022-01-01,2026-05-31,0,0.0,157.74647887323945,10.626698400276835,9.114161069661279,213

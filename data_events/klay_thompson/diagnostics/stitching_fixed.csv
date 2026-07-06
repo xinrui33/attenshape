@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
+klay_thompson,1612,2022-01-01,2026-05-31,0,0.0,200.0,5.760804383788255,10.182782740648753,1

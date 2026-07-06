@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
+cheap_flights,1612,2022-01-01,2026-05-31,0,33.33542731382214,110.87204808659178,59.74594509725371,12.310395352690612,0

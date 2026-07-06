@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
+lady_gaga,1612,2022-01-01,2026-05-31,0,11.076437587657786,857.5306519476997,25.14004820384248,26.964127238805617,0

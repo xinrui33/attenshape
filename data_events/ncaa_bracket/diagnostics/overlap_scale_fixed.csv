@@ -1,8 +1,8 @@
 step,file,overlap_days,valid_ratio_days,overlap_corr,median_ratio_new_over_base,scale_new_to_base,ratio_cv,method
 0,gt_ncaa_bracket_2022-01-01_2022-09-27.csv,,,,,1.0,,base_chunk
 1,gt_ncaa_bracket_2022-08-29_2023-05-25.csv,30.0,0.0,,,1.0,,no_rescale_insufficient_overlap
-2,gt_ncaa_bracket_2023-04-26_2024-01-20.csv,30.0,15.0,0.9830501040072748,10.0,0.1,0.2515855927426723,overlap_ratio
-3,gt_ncaa_bracket_2023-12-22_2024-09-16.csv,30.0,1.0,0.6911374686451981,,1.0,,no_rescale_insufficient_overlap
+2,gt_ncaa_bracket_2023-04-26_2024-01-20.csv,30.0,15.0,0.9858686457007529,10.0,0.1,0.2256874641669907,overlap_ratio
+3,gt_ncaa_bracket_2023-12-22_2024-09-16.csv,30.0,1.0,0.6859749721383732,,1.0,,no_rescale_insufficient_overlap
 4,gt_ncaa_bracket_2024-08-18_2025-05-14.csv,30.0,0.0,,,1.0,,no_rescale_insufficient_overlap
-5,gt_ncaa_bracket_2025-04-15_2026-01-09.csv,30.0,11.0,0.9537585417944157,4.0,0.25,0.21743640275966472,overlap_ratio
-6,gt_ncaa_bracket_2025-12-11_2026-05-31.csv,30.0,27.0,0.98774971831323,0.8,1.25,0.31996769423086235,overlap_ratio
+5,gt_ncaa_bracket_2025-04-15_2026-01-09.csv,30.0,11.0,0.9556333633156701,4.0,0.25,0.20331227459094187,overlap_ratio
+6,gt_ncaa_bracket_2025-12-11_2026-05-31.csv,30.0,27.0,0.9858656887299662,0.75,1.3333333333333333,0.3424331790099023,overlap_ratio

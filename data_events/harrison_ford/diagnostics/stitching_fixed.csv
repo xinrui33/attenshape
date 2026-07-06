@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
+harrison_ford,1612,2022-01-01,2026-05-31,0,13.405482744806273,500.0,39.480825661920456,37.51278512535874,0

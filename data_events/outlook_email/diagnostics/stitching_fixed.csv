@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
+outlook_email,1612,2022-01-01,2026-05-31,0,20.23197965391283,118.97369386158626,61.76155450818056,21.47397514858707,0

@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
+adidas,1612,2022-01-01,2026-05-31,0,33.0,246.4252473631002,64.92845081443087,26.25214010794609,0

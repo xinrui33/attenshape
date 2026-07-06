@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
+chilis,1612,2022-01-01,2026-05-31,0,31.91891891891892,205.4054054054054,62.704847176059,20.501346262553643,0

@@ -1,8 +1,8 @@
 step,file,overlap_days,valid_ratio_days,overlap_corr,median_ratio_new_over_base,scale_new_to_base,ratio_cv,method
 0,gt_voting_results_2022-01-01_2022-09-27.csv,,,,,1.0,,base_chunk
 1,gt_voting_results_2022-08-29_2023-05-25.csv,30.0,0.0,,,1.0,,no_rescale_insufficient_overlap
-2,gt_voting_results_2023-04-26_2024-01-20.csv,30.0,3.0,0.8964206063523077,,1.0,,no_rescale_insufficient_overlap
-3,gt_voting_results_2023-12-22_2024-09-16.csv,30.0,4.0,0.6967914269585461,,1.0,,no_rescale_insufficient_overlap
-4,gt_voting_results_2024-08-18_2025-05-14.csv,30.0,1.0,0.837939865841114,,1.0,,no_rescale_insufficient_overlap
-5,gt_voting_results_2025-04-15_2026-01-09.csv,30.0,2.0,0.8017837257372731,,1.0,,no_rescale_insufficient_overlap
-6,gt_voting_results_2025-12-11_2026-05-31.csv,30.0,15.0,0.9352195599590707,3.0,0.3333333333333333,0.22053577231723867,overlap_ratio
+2,gt_voting_results_2023-04-26_2024-01-20.csv,30.0,3.0,0.8930329154975168,,1.0,,no_rescale_insufficient_overlap
+3,gt_voting_results_2023-12-22_2024-09-16.csv,30.0,7.0,0.5437606204283338,,1.0,,no_rescale_insufficient_overlap
+4,gt_voting_results_2024-08-18_2025-05-14.csv,30.0,1.0,0.8482522801534401,,1.0,,no_rescale_insufficient_overlap
+5,gt_voting_results_2025-04-15_2026-01-09.csv,30.0,2.0,0.7849870641173368,,1.0,,no_rescale_insufficient_overlap
+6,gt_voting_results_2025-12-11_2026-05-31.csv,30.0,16.0,0.9233636460425442,3.0,0.3333333333333333,0.27024769562039197,overlap_ratio

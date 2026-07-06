@@ -1,0 +1,8 @@
+step,file,overlap_days,valid_ratio_days,overlap_corr,median_ratio_new_over_base,scale_new_to_base,ratio_cv,method
+0,gt_klay_thompson_2022-01-01_2022-09-27.csv,,,,,1.0,,base_chunk
+1,gt_klay_thompson_2022-08-29_2023-05-25.csv,30.0,30.0,0.6309317032635263,2.0,0.5,0.2962046530534457,overlap_ratio
+2,gt_klay_thompson_2023-04-26_2024-01-20.csv,30.0,30.0,1.0,2.0,0.5,0.0,overlap_ratio
+3,gt_klay_thompson_2023-12-22_2024-09-16.csv,30.0,30.0,0.9794309457032202,0.5,2.0,0.14585873182227332,overlap_ratio
+4,gt_klay_thompson_2024-08-18_2025-05-14.csv,30.0,30.0,,1.5,0.6666666666666666,0.2866136992468026,overlap_ratio
+5,gt_klay_thompson_2025-04-15_2026-01-09.csv,30.0,30.0,0.9976623739884386,1.5,0.6666666666666666,0.06976442570614343,overlap_ratio
+6,gt_klay_thompson_2025-12-11_2026-05-31.csv,30.0,30.0,0.9914174362392736,0.5625,1.7777777777777777,0.11725438919219741,overlap_ratio

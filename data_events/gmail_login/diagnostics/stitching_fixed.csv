@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
+gmail_login,1612,2022-01-01,2026-05-31,0,35.14575639520961,109.31782725854488,66.87595417322633,15.832460002232912,0

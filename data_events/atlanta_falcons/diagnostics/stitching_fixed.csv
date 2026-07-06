@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
+atlanta_falcons,1612,2022-01-01,2026-05-31,0,3.090909090909091,309.09090909090907,12.892877284006317,19.146122467552765,0

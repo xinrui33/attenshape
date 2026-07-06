@@ -1,0 +1,8 @@
+step,file,overlap_days,valid_ratio_days,overlap_corr,median_ratio_new_over_base,scale_new_to_base,ratio_cv,method
+0,gt_superbowl_2022-01-01_2022-09-27.csv,,,,,1.0,,base_chunk
+1,gt_superbowl_2022-08-29_2023-05-25.csv,30.0,7.0,0.7400432799307572,,1.0,,no_rescale_insufficient_overlap
+2,gt_superbowl_2023-04-26_2024-01-20.csv,30.0,0.0,,,1.0,,no_rescale_insufficient_overlap
+3,gt_superbowl_2023-12-22_2024-09-16.csv,30.0,28.0,0.9029300072731176,0.031009615384615385,32.248062015503876,0.27885103092480146,overlap_ratio
+4,gt_superbowl_2024-08-18_2025-05-14.csv,30.0,5.0,0.8106434833777775,,1.0,,no_rescale_insufficient_overlap
+5,gt_superbowl_2025-04-15_2026-01-09.csv,30.0,0.0,,,1.0,,no_rescale_insufficient_overlap
+6,gt_superbowl_2025-12-11_2026-05-31.csv,30.0,22.0,0.7428999628359402,0.029437229437229435,33.97058823529412,0.2683882153227353,overlap_ratio

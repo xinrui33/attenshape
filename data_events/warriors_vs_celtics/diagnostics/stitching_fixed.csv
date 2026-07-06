@@ -1,2 +1,2 @@
 query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
-warriors_vs_celtics,1612,2022-01-01,2026-05-31,0,0.0,115.46391752577318,1.9029614659810867,8.536676526130025,928
+warriors_vs_celtics,1612,2022-01-01,2026-05-31,0,0.0,113.80753138075315,1.9007738336257707,8.475429743370396,923

@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
+delta_airlines,1612,2022-01-01,2026-05-31,0,30.559663560387435,159.27497107597378,62.305603388898575,13.08832791179097,0

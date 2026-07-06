@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
+jack_harlow,1612,2022-01-01,2026-05-31,0,0.5384286161973407,150.0,6.074740623440877,8.808636036894615,0

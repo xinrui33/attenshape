@@ -1,2 +1,2 @@
 query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
-canelo,1612,2022-01-01,2026-05-31,0,0.0,100.0,2.018300248138958,7.606565907520289,986
+canelo,1612,2022-01-01,2026-05-31,0,0.0,100.0,1.994727047146402,7.580898484830575,1006

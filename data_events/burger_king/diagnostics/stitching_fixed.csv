@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
+burger_king,1612,2022-01-01,2026-05-31,0,32.264192193843705,148.9172441683656,54.83406489452536,10.734468692163523,0

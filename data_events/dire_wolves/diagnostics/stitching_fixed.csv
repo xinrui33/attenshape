@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
+dire_wolves,1612,2022-01-01,2026-05-31,0,0.0,100.0,5.134938884934931,17.52227546968566,1085

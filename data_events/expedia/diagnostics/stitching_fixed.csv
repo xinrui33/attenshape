@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
+expedia,1612,2022-01-01,2026-05-31,0,35.850514589858335,100.0,60.87926339191438,9.834774571196823,0

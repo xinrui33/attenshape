@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
+dicks_sporting_good,1612,2022-01-01,2026-05-31,0,4.298330222595233,233.33333333333334,37.78489606258689,29.109957341961547,0

@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
+rosh_hashanah,1612,2022-01-01,2026-05-31,0,0.0,216.66666666666666,6.200923628342983,15.662258648820782,538

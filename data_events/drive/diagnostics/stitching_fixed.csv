@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
+drive,1612,2022-01-01,2026-05-31,0,49.13867851140478,100.35794864097613,76.65620057127826,8.569363159426041,0

@@ -1,0 +1,2 @@
+query,n_rows,min_date,max_date,missing_values,min_value,max_value,mean_value,std_value,n_zero_values
+chinese_balloon,1612,2022-01-01,2026-05-31,0,0.0,306.47553138902623,5.790579244396635,17.8114478098545,1359
