@@ -1,0 +1,2 @@
+method,k,n_clusters_observed,silhouette,davies_bouldin,calinski_harabasz
+average,2,2,0.80477374792099,0.12969806719799526,30.73234814218001
