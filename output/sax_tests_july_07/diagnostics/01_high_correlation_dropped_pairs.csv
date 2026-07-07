@@ -1,0 +1,17 @@
+kept_query,dropped_query,correlation
+dow_jones,djia,0.9909090410560706
+dow_jones,dow,0.9916102057430802
+dr_strange,doctor_strange,0.9930966645785422
+election_2024,2024_election,1.0
+election_results_2022,2022_election_results,1.0
+father_s_day,father's_day,0.9989096415400894
+gimkit_join,gimkit,0.9905474446710416
+ian_hurricane,hurricane_ian,0.9985909649421669
+jeffrey_dahmer,dahmer,0.9993710709638509
+kamala_harris,kamala,0.9937687281632478
+live_election,election_live,1.0
+obi_wan_kenobi,kenobi,0.9959821442996073
+presidential_election_2024,2024_presidential_election,0.99913948033999
+spanish_to_english,english_to_spanish,1.0
+the_last_of_us,last_of_us,0.998389440651863
+wakanda_forever,black_panther,0.9912351898157644

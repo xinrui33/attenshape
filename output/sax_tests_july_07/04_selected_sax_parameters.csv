@@ -1,0 +1,2 @@
+window_size,step,n_segments,alphabet_size,selected_k,spike_features
+60,15,16,3,2,False
