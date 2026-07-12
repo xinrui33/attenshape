@@ -1,0 +1,8 @@
+metric,value
+n_terms,847.0
+n_segments,96.0
+alphabet_size,9.0
+min_offdiag,0.0
+median_offdiag,31.276870727539062
+mean_offdiag,30.715070724487305
+max_offdiag,50.986141204833984

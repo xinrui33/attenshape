@@ -1,0 +1,19 @@
+cluster,representative_type,term,distance_to_center,window_start,window_end
+1,medoid,outlook email,2.9260678715013477,16,31
+1,25th_percentile_distance,traductor,6.288007803621439,16,31
+1,75th_percentile_distance,2020 election results,9.401751082481548,16,31
+2,medoid,steelers,3.8678159211627436,16,31
+2,25th_percentile_distance,broncos,5.292447448959697,16,31
+2,75th_percentile_distance,carolina panthers,8.006872048434394,16,31
+3,medoid,trap movie,2.863373498599261,16,31
+3,25th_percentile_distance,stock market today,6.049383692425292,16,31
+3,75th_percentile_distance,amber rose,9.418907367897878,16,31
+4,medoid,sabrina carpenter,3.1909065463109374,16,31
+4,25th_percentile_distance,target,7.0160621313193365,16,31
+4,75th_percentile_distance,yankees,9.78350753678992,16,31
+5,medoid,kevin conroy,4.500602868907453,16,31
+5,25th_percentile_distance,paramount plus,7.609540571695535,16,31
+5,75th_percentile_distance,uvalde tx,10.682476248280777,16,31
+6,medoid,super bowl 2022,5.081518251950363,16,31
+6,25th_percentile_distance,biden,7.704562887235473,16,31
+6,75th_percentile_distance,last of us,10.33050161620144,16,31

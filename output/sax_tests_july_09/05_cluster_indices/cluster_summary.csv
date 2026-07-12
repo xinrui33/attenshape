@@ -1,0 +1,7 @@
+cluster,n_terms,median_term_stability,mean_intra_mindist,mean_between_mindist,mean_mindist_margin,top_10_core_terms
+1,219,0.502283105022831,27.319458,31.670475,4.3510156,"google translate, 2048, unblocked games, clever, google drive, translate, slope, docs, english to spanish, spanish to english"
+2,40,0.5125,24.216293,33.66549,9.449199,"nfl, browns, pittsburgh steelers, cleveland browns, cowboys, miami dolphins, bears, dallas cowboys, dolphins, steelers"
+3,207,0.5024154589371981,26.42935,29.856316,3.4269645,"zillow, food near me, restaurants near me, ford, lark, places to eat near me, movies, geico, spy, dmv"
+4,185,0.5027027027027027,30.080574,31.50166,1.4210862,"target, walmart, kohl s, victoria secret, walmart near me, best buy, amazon prime, petsmart, amazon, lululemon"
+5,157,0.5031847133757962,30.775278,31.484167,0.7088874,"top gun maverick, top gun 2, alabama football, college football, ncaa scores, football today, top gun, georgia football, flights, delta airlines"
+6,39,0.5128205128205128,33.334644,33.21337,-0.12127045,"where s my refund, super bowl 2022, national anthem, champions league, super bowl 2023, uefa champions league, superbowl, time change, daylight savings, when is the super bowl"

@@ -1,0 +1,2 @@
+data_dir,output_dir,start_date,end_date,n_terms,n_days,sax_source,n_segments,alphabet_size,distance,linkage,final_k,stability_subsamples,stability_fraction
+C:\Python\CSUREMM\data_events,C:\Python\CSUREMM\output\sax_tests_july_09,2022-01-01,2026-05-31,847,1612,tslearn.piecewise.SymbolicAggregateApproximation,96,9,sax_mindist,complete,6,80,0.8
