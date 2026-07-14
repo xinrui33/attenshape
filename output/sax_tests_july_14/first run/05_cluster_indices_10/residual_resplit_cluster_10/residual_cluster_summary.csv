@@ -1,0 +1,3 @@
+cluster,n_terms,median_term_stability,mean_intra_mindist,mean_between_mindist,mean_mindist_margin,top_10_core_terms
+1,26,0.5192307692307692,30.431230732052118,35.23629458588724,4.805063853835119,"foxnews, fox news, cnn, trump, breaking news, msnbc, donald trump, melania trump, trump shot, trump news"
+2,62,0.5080645161290323,34.2512717650943,35.23629458588724,0.9850228207929363,"easter, scott hall, f1, ncaa 25, easter 2022, joe milton, jamie lee curtis, tornado warning, sydney sweeney, nba standings"

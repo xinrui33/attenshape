@@ -1,0 +1,15 @@
+Pipeline Stage,Parameter,Baseline Value,Perturbed Value,Surviving N,ARI vs Baseline
+Control,NO_CHANGE (Proxy Control),N/A,N/A,847,0.279
+Preprocessing,DENOISE_POLYORDER,2,3,847,0.169
+Preprocessing,DENOISE_WINDOW,9,15,847,0.234
+Preprocessing,DETREND_WINDOW,91,61,847,0.146
+Filtering,MAX_INTERPOLATE_GAP,7,14,847,0.279
+Filtering,MAX_MISSING_SHARE,0.02,0.05,847,0.279
+Filtering,MAX_ZERO_SHARE,0.5,0.6,847,0.101
+Representation,ALPHABET_SIZE,9,11,847,0.185
+Representation,BREAKPOINT_MODE,empirical,gaussian,847,0.214
+Representation,LINKAGE_METHOD,ward,complete,847,0.077
+Representation,N_SEGMENTS,96,128,847,0.101
+Representation,TIE_EPS,1e-06,0.0001,847,0.279
+Temporal,END_DATE,2026-05-31,2025-11-30,835,0.093
+Temporal,START_DATE,2022-01-01,2022-07-01,840,0.187

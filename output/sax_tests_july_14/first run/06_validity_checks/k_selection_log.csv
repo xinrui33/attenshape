@@ -1,0 +1,6 @@
+metric,value
+auto_selected_k,3
+manual_final_k,10
+min_acceptable_cluster_size,15
+auto_select_k_enabled,True
+effective_k_used,3

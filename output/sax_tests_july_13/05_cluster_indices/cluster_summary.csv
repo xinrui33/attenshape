@@ -1,0 +1,4 @@
+cluster,n_terms,median_term_stability,mean_intra_mindist,mean_between_mindist,mean_mindist_margin,top_10_core_terms
+1,176,0.5028409090909092,27.549309,32.65442,5.105112,"2048, unblocked games, quizizz, slope, google docs, quizlet live, desmos, math playground, abcya, clever"
+2,58,0.5086206896551724,26.542175,35.06868,8.5265045,"nfl, packers, browns, pittsburgh steelers, cleveland browns, steelers, cowboys, miami dolphins, nfl schedule, green bay packers"
+3,613,0.5008156606851549,31.3446,33.02606,1.6814591,"fast food near me, walmart near me, roblox, petsmart, walmart, gas station near me, omegle, target, mcdonald's, movies"

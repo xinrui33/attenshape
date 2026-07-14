@@ -1,0 +1,11 @@
+cluster,n_terms,median_term_stability,mean_intra_mindist,mean_between_mindist,mean_mindist_margin,top_10_core_terms
+1,90,0.5055555555555555,20.109549,31.097233,10.987685,"2048, unblocked games, slope, quizizz, kahoot, prodigy, desmos, quizlet live, math playground, clever"
+2,46,0.5108695652173914,24.834745,33.195747,8.361002,"us election, election, election map, election news, presidential election, presidential results, presidential election results, poll results, elections, election live"
+3,40,0.5125,28.52893,34.26578,5.7368493,"nba games, nba games today, nba, nba scores, golden state warriors, warriors, warriors game, celtics, nhl, boston celtics"
+4,58,0.5086206896551724,26.542175,35.06868,8.5265045,"nfl, packers, browns, pittsburgh steelers, cleveland browns, steelers, cowboys, miami dolphins, nfl schedule, green bay packers"
+5,72,0.5069444444444444,24.41325,32.698044,8.284795,"target, walmart, best buy, kohl s, lululemon, ulta, macys, dollar general, kohls, gamestop"
+6,80,0.50625,22.073534,30.477722,8.404188,"movies, fast food near me, food near me, movies near me, gas station near me, restaurants near me, roblox, omegle, airbnb, autozone"
+7,25,0.52,23.657394,35.49729,11.839896,"college basketball, ncaa men's basketball, college basketball scores, ucla basketball, ncaa basketball scores, houston basketball, duke basketball, alabama basketball, ncaa tournament, ncaa basketball"
+8,301,0.5016611295681063,31.201372,32.058407,0.8570311,"coolio, regina king, weather, detroit tigers, mlb, accuweather, american express, red sox, dahmer netflix, yankees"
+9,47,0.5106382978723404,21.18657,30.067263,8.880693,"sp500, stock market, s&p 500, nasdaq, voo, s and p 500, dow, stock futures, spy stock, dow jones"
+10,88,0.5056818181818181,34.341747,33.962097,-0.37965158,"bbc news, fox news, cnn, msnbc, boebert, news, donald trump, kamala, kamala harris, trump"
