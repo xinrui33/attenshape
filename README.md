@@ -1,4 +1,4 @@
-# SAX / MINDIST Hierarchical Clustering of Google Trends Search Terms
+# Hierarchical Clustering of SAX Time Series
 
 Clusters ~1203 Google Trends search-volume time series (Jan 2022 – May 2026)
 by shape, using Symbolic Aggregate approXimation (SAX) and the SAX MINDIST
@@ -51,7 +51,7 @@ The pipeline progresses from preprocessing and SAX representation learning to di
 
 | Section | What it does | Output |
 |---|---|---|
-| 0 | Configuration -- paths, preprocessing, SAX, clustering, and robustness parameters (all documented inline) | -- |
+| 0 | Configuration -- paths, preprocessing, SAX, clustering, and robustness parameters (all documented inline) | `00_provenance/` |
 | 1 | Load, filter, interpolate, denoise, detrend, and robust-normalize each search term | `01_preprocessing/` |
 | 2 | SAX representation learning (PAA + Gaussian or empirical breakpoints) | `02_sax/` |
 | 3 | Construct the SAX MINDIST distance matrix with Euclidean tie-breaking | `03_distance/` |
