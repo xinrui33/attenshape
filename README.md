@@ -1,61 +1,73 @@
-# Hierarchical Clustering of SAX Time Series
+# Attenshape: Discovering the Shape of Public Attention
 
-Clusters ~1203 Google Trends search-volume time series (Jan 2022 – May 2026)
-by shape, using Symbolic Aggregate approXimation (SAX) and the SAX MINDIST
-distance, agglomerative hierarchical clustering, and a set of validity checks
-that justify every parameter choice against evidence rather than convention.
+Attenshape is a framework for discovering recurring patterns in collective public attention and evaluating whether those patterns contain useful information for financial market volatility.
 
-## Setup
+Rather than grouping search terms by what people search for, Attenshape groups them by how attention evolves over time. Using Google Trends, Symbolic Aggregate approXimation (SAX), and hierarchical clustering, the framework identifies recurring attention trajectories, such as intermittent surges, gradual climbs, and seasonal pulses—and summarizes them as interpretable attention signatures.
 
-```bash
-python -m venv .venv
-source .venv/bin/activate        # .venv\Scripts\activate on Windows
-pip install -r requirements.txt
+## Research workflow
+
+```text
+Google Top and Rising Queries
+            |
+            v
+Google Trends collection and stitching
+            |
+            v
+Preprocessing and robust normalization
+            |
+            v
+SAX representation learning
+            |
+            v
+Hierarchical clustering
+            |
+            v
+Robustness test (consensus, stability, silhouette)
+            |
+            v
+Market-volatility forecasting and evaluation
 ```
 
-Place input data under `./data/` (see layout below), or point the notebook
-at a different location via environment variables:
+The repository contains two connected stages:
 
-```bash
-export SAX_DATA_DIR=/path/to/data_events
-export SAX_OUTPUT_DIR=/path/to/output/run_01
-```
+1. **Attention-shape discovery:** transforms individual search-volume series into SAX representations, clusters them by shape, and validates the resulting attention signatures.
+2. **Downstream prediction:** merges cluster-level attention indices with market data and compares a benchmark volatility model against models augmented with attention information.
 
-All paths default to relative locations under `./data` and `./output` if the
-environment variables aren't set, so the notebook runs out of the box for
-any collaborator who clones the repo and drops data in the expected place.
-
-### Expected data layout
-
-```
-data/
-  data_events/
-    <term_name>/
-      stitched/
-        gt_fixed02_*.csv        # columns: date/time/week, and one numeric value column
-  shock_detection/
-    SP500_data.csv
-    DOWJONES_data.csv
-    NASDAQ100_data.csv
-    RUSSELL2000_data.csv
-```
-
-## Running
-
-Open `events_SAX.ipynb` and run top to bottom. Section 0 (Configuration) is
-the only cell you should need to edit -- every downstream section reads its
-parameters from there.
 
 ## Pipeline structure
-The pipeline progresses from preprocessing and SAX representation learning to distance construction, hierarchical clustering, validation, robustness analysis, and cluster visualization.
 
-| Section | What it does | Output |
-|---|---|---|
-| 0 | Configuration -- paths, preprocessing, SAX, clustering, and robustness parameters (all documented inline) | `00_provenance/` |
-| 1 | Load, filter, interpolate, denoise, detrend, and robust-normalize each search term | `01_preprocessing/` |
-| 2 | SAX representation learning (PAA + Gaussian or empirical breakpoints) | `02_sax/` |
-| 3 | Construct the SAX MINDIST distance matrix with Euclidean tie-breaking | `03_distance/` |
-| 4 | Final hierarchical clustering: cluster assignments, sizes, and dendrogram | `04_clustering/` |
-| 5 | Cluster validation and interpretation: candidate-*k* evaluation, stability, silhouette, representative terms, and cluster summaries | `05_validation/` |
-| 6 | Robustness and sensitivity analysis: preprocessing, filtering, representation ablations, and OFAAT parameter perturbations | `06_robustness/` |
-| 7 | Visualizations: cluster archetypes, phase portraits, SAX illustrations, and shape dictionary | `07_visualization/` |
+The numbered sections below align the code organization with the research narrative in the abstract: broad query discovery, temporal representation learning, attention-signature identification, validation, and downstream forecasting.
+
+| Section | Stage | What it does | Main output |
+|---:|---|---|---|
+| 0 | Configuration | Defines paths, date coverage, preprocessing settings, SAX parameters, clustering choices, random seeds, and robustness settings | `00_provenance/` |
+| 1 | Data loading and preprocessing | Loads the stitched Google Trends files, filters terms, aligns dates, interpolates small gaps, denoises, detrends, and robust-normalizes each series | `01_preprocessing/` |
+| 2 | SAX representation learning | Applies PAA and symbolic breakpoints to encode temporal trajectories as SAX features | `02_sax/` |
+| 3 | Shape-distance construction | Computes the SAX MINDIST matrix and resolves symbolic ties using the underlying normalized trajectories | `03_distance/` |
+| 4 | Hierarchical clustering | Builds the linkage tree, assigns final cluster labels, records cluster sizes, and exports the dendrogram | `04_clustering/` |
+| 5 | Validation and interpretation | Evaluates candidate cluster counts, subsample stability, silhouette, representative terms, cluster summaries, and residual structure | `05_validation/` |
+| 6 | Robustness analysis | Tests preprocessing choices, filtering rules, SAX specifications, and one-factor-at-a-time parameter perturbations | `06_robustness/` |
+| 7 | Attention-signature visualization | Produces cluster archetypes, representative series, SAX illustrations, phase portraits, and the shape dictionary | `07_visualization/` |
+| 8 | Volatility forecasting | Compares a market-only forecast with models that add all attention indices or one cluster at a time | `08_prediction/` |
+
+## Evaluation metrics
+
+### Clustering validation
+
+- **Consensus matrix:** visualizes how consistently pairs of terms remain clustered across repeated subsampling.
+- **Subsample stability:** measures how reproducible the overall clustering is under repeated resampling.
+- **Adjusted Rand Index (ARI):** quantifies agreement between cluster partitions while correcting for chance.
+- **Silhouette score:** measures within-cluster cohesion relative to the nearest neighboring cluster.
+
+### Forecasting evaluation
+
+- **Market-only benchmark:** baseline volatility model used for comparison.
+- **Cluster-by-cluster comparison:** evaluates each attention signature independently against the market-only benchmark.
+- **QLIKE loss:** primary volatility forecasting metric that compares predicted and realized variance; lower values are better.
+- **RMSE:** measures the root mean squared forecast error, placing greater weight on large errors; lower values are better.
+- **MAE:** measures the average absolute forecast error; lower values are better.
+- **Out-of-sample \(R^2\):** measures improvement in squared forecast error relative to the baseline model; positive values indicate better predictive performance.
+
+## Interpretation
+
+Attenshape is designed to discover **how attention evolves**, not merely **what people search for**. A cluster can therefore contain semantically unrelated terms that share a common temporal pattern. The resulting indices represent empirical attention signatures—such as burst-like, gradually increasing, or seasonally recurring behavior—rather than conventional topic categories.
