@@ -1,0 +1,11 @@
+cluster,n_terms,display_start,display_end,display_window_basis,smooth_window_days
+1,90,2026-05-14,2026-05-31,"periodic, period=7d (100% of terms significant)",3
+2,46,2025-10-18,2026-05-31,"periodic, period=90d (100% of terms significant)",5
+3,40,2025-03-10,2026-05-31,"periodic, period=179d (100% of terms significant)",23
+4,58,2025-09-18,2026-05-31,"periodic, period=102d (100% of terms significant)",3
+5,72,2025-11-30,2026-05-31,"periodic, period=73d (100% of terms significant)",17
+6,80,2026-05-14,2026-05-31,"periodic, period=7d (100% of terms significant)",3
+7,25,2025-07-25,2026-05-31,"periodic, period=124d (100% of terms significant)",21
+8,301,2025-11-20,2026-05-31,"periodic, period=77d (100% of terms significant)",9
+9,47,2026-05-14,2026-05-31,"periodic, period=7d (100% of terms significant)",3
+10,88,2025-11-20,2026-05-31,"periodic, period=77d (100% of terms significant)",13

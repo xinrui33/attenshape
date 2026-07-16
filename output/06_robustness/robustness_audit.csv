@@ -1,0 +1,9 @@
+diagnostic,metric,value
+consensus,mean cluster-level within consensus,0.6872174728472668
+consensus,weakest cluster within consensus,0.3738439348929164
+multi_k_stability,FINAL_K median subsample ARI,0.3382482595069658
+multi_k_stability,FINAL_K 10th percentile ARI,0.2881042046901619
+multi_k_stability,FINAL_K 90th percentile ARI,0.4251863482020933
+silhouette,baseline global silhouette,0.040293778107243446
+silhouette,weakest baseline cluster silhouette,-0.1155692656942863
+silhouette,baseline negative term share,0.4935064935064935

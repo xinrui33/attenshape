@@ -183,3 +183,8 @@ print("Saved per-term comparison table: sax_vs_bert.csv")
 # some semantic categories do have an inherently periodic or event-driven real-world rhythm (elections, markets) 
 # that happens to align with a temporal cluster, while others (sports, entertainment) don't.
 # The direction of the finding (low semantic agreement) is stable across linkage choices, even though the magnitude isn't
+
+# --- SAX (temporal) vs. BERT Average+Cosine [robustness check] ---
+# Adjusted Rand Index (ARI):        0.0292  (0 = random, 1 = identical)
+# Normalized Mutual Info (NMI):     0.1328  (0 = independent, 1 = identical)
+# Fowlkes-Mallows Index (FMI):      0.4122  (0 = random, 1 = identical)
