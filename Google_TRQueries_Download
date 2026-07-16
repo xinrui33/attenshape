@@ -1,0 +1,119 @@
+from curl_cffi import requests
+from datetime import datetime, timedelta
+import pandas as pd
+import json
+import re
+import time
+
+URL = "https://trends.google.com/_/TrendsUi/data/batchexecute"
+
+
+def unix_timestamp(date_string):
+    return int(datetime.strptime(date_string, "%Y-%m-%d").timestamp())
+
+
+def get_queries(start_date, end_date):
+
+    start_ts = unix_timestamp(start_date)
+    end_ts = unix_timestamp(end_date)
+
+    payload = {
+        "f.req": (
+            f'[[["fXqlme","[[[\\"US\\",\\"\\",11,null,2,'
+            f'[{start_ts}],[{end_ts}]]],1,\\"en\\",null,null,0]",'
+            f'null,"generic"]]]'
+        )
+    }
+
+    response = requests.post(
+        URL,
+        data=payload,
+        impersonate="chrome",
+    )
+
+    if response.status_code != 200:
+        raise RuntimeError(f"HTTP {response.status_code}")
+
+    text = re.sub(r"^\)\]\}'\n*", "", response.text)
+
+    outer = json.loads(text)
+
+    if outer[0][2] is None:
+        return pd.DataFrame()
+
+    inner = json.loads(outer[0][2])
+
+    top_queries = inner[0][0][1]
+    rising_queries = inner[0][0][2]
+
+    rows = []
+
+    for query, score, meta in top_queries:
+        rows.append({
+            "window_start": start_date,
+            "window_end": end_date,
+            "type": "top",
+            "query": query,
+            "score": score,
+            "metadata": meta
+        })
+
+    for query, score, meta in rising_queries:
+        rows.append({
+            "window_start": start_date,
+            "window_end": end_date,
+            "type": "rising",
+            "query": query,
+            "score": score,
+            "metadata": meta
+        })
+
+    return pd.DataFrame(rows)
+
+
+##########################################################################
+# DOWNLOAD LOOP
+##########################################################################
+
+START_DATE = datetime(2022, 1, 1)
+
+NUM_WINDOWS = 183        # Change to 183 later
+
+all_results = []
+
+for i in range(NUM_WINDOWS):
+
+    start = START_DATE + timedelta(days=2*i)
+    end = start + timedelta(days=1)
+
+    start_str = start.strftime("%Y-%m-%d")
+    end_str = end.strftime("%Y-%m-%d")
+
+    print(f"{i+1}/{NUM_WINDOWS} : {start_str} -> {end_str}")
+
+    try:
+
+        df = get_queries(start_str, end_str)
+
+        all_results.append(df)
+
+        time.sleep(1)
+
+    except Exception as e:
+
+        print(e)
+
+        continue
+
+
+results = pd.concat(all_results, ignore_index=True)
+
+print(results.head())
+
+print()
+
+print(f"Downloaded {len(results)} rows.")
+
+results.to_csv("google_daily_queries.csv", index=False)
+
+print("Saved to google_daily_queries.csv")
