@@ -34,9 +34,9 @@ The repository contains two connected stages:
 2. **Downstream prediction:** merges cluster-level attention indices with market data and compares a benchmark volatility model against models augmented with attention information.
 
 
-## Pipeline structure
+## Project Architecture & Pipeline Stages
 
-The numbered sections below align the code organization with the research narrative in the abstract: broad query discovery, temporal representation learning, attention-signature identification, validation, and downstream forecasting.
+The pipeline is organized into modular sequential stages. The active subdirectories currently configured are:
 
 | Section | Stage | What it does | Main output |
 |---:|---|---|---|
@@ -46,27 +46,8 @@ The numbered sections below align the code organization with the research narrat
 | 3 | Shape-distance construction | Computes the SAX MINDIST matrix and resolves symbolic ties using the underlying normalized trajectories | `03_distance/` |
 | 4 | Hierarchical clustering | Builds the linkage tree, assigns final cluster labels, records cluster sizes, and exports the dendrogram | `04_clustering/` |
 | 5 | Validation and interpretation | Evaluates candidate cluster counts, subsample stability, silhouette, representative terms, cluster summaries, and residual structure | `05_validation/` |
-| 6 | Robustness analysis | Tests preprocessing choices, filtering rules, SAX specifications, and one-factor-at-a-time parameter perturbations | `06_robustness/` |
-| 7 | Attention-signature visualization | Produces cluster archetypes, representative series, SAX illustrations, phase portraits, and the shape dictionary | `07_visualization/` |
-| 8 | Volatility forecasting | Compares a market-only forecast with models that add all attention indices or one cluster at a time | `08_prediction/` |
-
-## Evaluation metrics
-
-### Clustering validation
-
-- **Consensus matrix:** visualizes how consistently pairs of terms remain clustered across repeated subsampling.
-- **Subsample stability:** measures how reproducible the overall clustering is under repeated resampling.
-- **Adjusted Rand Index (ARI):** quantifies agreement between cluster partitions while correcting for chance.
-- **Silhouette score:** measures within-cluster cohesion relative to the nearest neighboring cluster.
-
-### Forecasting evaluation
-
-- **Market-only benchmark:** baseline volatility model used for comparison.
-- **Cluster-by-cluster comparison:** evaluates each attention signature independently against the market-only benchmark.
-- **QLIKE loss:** primary volatility forecasting metric that compares predicted and realized variance; lower values are better.
-- **RMSE:** measures the root mean squared forecast error, placing greater weight on large errors; lower values are better.
-- **MAE:** measures the average absolute forecast error; lower values are better.
-- **Out-of-sample \(R^2\):** measures improvement in squared forecast error relative to the baseline model; positive values indicate better predictive performance.
+| 6 | Robustness analysis | Tests preprocessing choices, filtering rules, and SAX specifications | `06_robustness/` |
+| 7 | Attention-signature visualization | Produces figures from the paper | `07_visualization/` |
 
 ## Interpretation
 
