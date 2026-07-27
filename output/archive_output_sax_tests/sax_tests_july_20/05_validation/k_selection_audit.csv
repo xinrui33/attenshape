@@ -1,0 +1,5 @@
+metric,value
+configured_final_k,10
+recommended_k,3
+min_acceptable_cluster_size,15
+configured_k_matches_recommendation,False

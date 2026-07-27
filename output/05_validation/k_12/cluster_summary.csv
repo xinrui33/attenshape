@@ -1,0 +1,13 @@
+cluster,n_terms,median_term_stability,mean_intra_mindist,mean_between_mindist,mean_mindist_margin,top_10_core_terms,expected_n_terms,size_matches_labels
+1,42,0.5119047619047619,29.182987,34.27487,5.0918837,"nba games, nba, nba games today, nba scores, golden state warriors, warriors, celtics, nhl, warriors game, boston celtics",42,True
+2,115,0.5043478260869565,25.313015,32.27691,6.9638944,"unblocked games, 2048, slope, prodigy, kahoot, quizizz, math playground, abcya, cool math games, quizlet live",115,True
+3,227,0.5022026431718062,29.169111,31.354595,2.1854837,"indeed, indeed jobs, drive, email, google calendar, fidelity login, fidelity, outlook email, pinterest, linkedin",227,True
+4,28,0.5178571428571428,28.146595,32.74055,4.5939565,"priceline, expedia, flights, southwest airlines, cheap flights, southwest, st patrick's day, time change, airbnb, ukraine",28,True
+5,88,0.5056818181818181,28.771557,31.956205,3.1846473,"stock market, stock futures, sp500, dow futures, dow, stock market today, voo, nasdaq, dow jones, spy stock",88,True
+6,28,0.5178571428571428,25.144384,35.61041,10.466025,"college basketball, ncaa men's basketball, college basketball scores, ucla basketball, houston basketball, ncaa basketball scores, duke basketball, alabama basketball, ncaa tournament, florida basketball",28,True
+7,37,0.5135135135135135,24.242928,33.664913,9.421988,"election, election news, election map, us election, presidential results, presidential election, poll results, election live, live election, presidential election results",37,True
+8,24,0.5208333333333333,26.449656,34.228382,7.778728,"alabama football, college football, georgia football, clemson football, lsu football, michigan football, notre dame football, football today, ohio state football, ncaa scores",24,True
+9,49,0.5102040816326531,25.750774,34.906906,9.156132,"nfl, pittsburgh steelers, steelers, miami dolphins, browns, cleveland browns, cowboys, packers, dolphins, dallas cowboys",49,True
+10,74,0.5067567567567568,23.946724,32.601276,8.654551,"target, walmart, best buy, kohl s, lululemon, macys, ulta, dollar general, kohls, victoria secret",74,True
+11,26,0.5192307692307692,30.213306,33.883785,3.6704805,"yankees, mlb, mlb scores, new york yankees, dodgers, ny yankees, phillies, padres, detroit tigers, jeffrey dahmer",26,True
+12,109,0.5045871559633027,27.205069,31.69211,4.4870424,"movies, roblox, fast food near me, movies near me, food near me, gas station near me, omegle, restaurants near me, pizza hut, pizza near me",109,True

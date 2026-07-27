@@ -1,9 +1,9 @@
 cluster,n_terms,median_term_stability,mean_intra_mindist,mean_between_mindist,mean_mindist_margin,top_10_core_terms,expected_n_terms,size_matches_labels
-1,90,0.5055555555555555,20.109549,31.097233,10.987685,"2048, unblocked games, slope, quizizz, kahoot, prodigy, desmos, quizlet live, math playground, clever",90,True
-2,46,0.5108695652173914,24.834745,33.195747,8.361002,"us election, election, election map, election news, presidential election, presidential results, presidential election results, poll results, elections, election live",46,True
-3,40,0.5125,28.52893,34.26578,5.7368493,"nba games, nba games today, nba, nba scores, golden state warriors, warriors, warriors game, celtics, nhl, boston celtics",40,True
-4,58,0.5086206896551724,26.542175,35.06868,8.5265045,"nfl, packers, browns, pittsburgh steelers, cleveland browns, steelers, cowboys, miami dolphins, nfl schedule, green bay packers",58,True
-5,72,0.5069444444444444,24.41325,32.698044,8.284795,"target, walmart, best buy, kohl s, lululemon, ulta, macys, dollar general, kohls, gamestop",72,True
-6,80,0.50625,22.073534,30.477722,8.404188,"movies, fast food near me, food near me, movies near me, gas station near me, restaurants near me, roblox, omegle, airbnb, autozone",80,True
-7,25,0.52,23.657394,35.49729,11.839896,"college basketball, ncaa men's basketball, college basketball scores, ucla basketball, ncaa basketball scores, houston basketball, duke basketball, alabama basketball, ncaa tournament, ncaa basketball",25,True
-8,436,0.5011467889908257,31.81022,32.147366,0.3371482,"mlb, breaking news, siobhan, news, freddie freeman, hurricane ian, fidelity, map, olympics, fox news",436,True
+1,42,0.5119047619047619,29.182987,34.27487,5.0918837,"nba games, nba, nba games today, nba scores, golden state warriors, warriors, celtics, nhl, warriors game, boston celtics",42,True
+2,115,0.5043478260869565,25.313015,32.27691,6.9638944,"unblocked games, 2048, slope, prodigy, kahoot, quizizz, math playground, abcya, cool math games, quizlet live",115,True
+3,343,0.5014577259475219,29.887922,31.989136,2.1012135,"stocks, nasdaq, news, s&p 500, stock futures, cnbc, voo, djia, dow, yahoo finance",343,True
+4,28,0.5178571428571428,25.144384,35.61041,10.466025,"college basketball, ncaa men's basketball, college basketball scores, ucla basketball, houston basketball, ncaa basketball scores, duke basketball, alabama basketball, ncaa tournament, florida basketball",28,True
+5,37,0.5135135135135135,24.242928,33.664913,9.421988,"election, election news, election map, us election, presidential results, presidential election, poll results, election live, live election, presidential election results",37,True
+6,73,0.5068493150684932,28.167059,34.83291,6.6658497,"nfl, packers, browns, cowboys, cleveland browns, green bay packers, miami dolphins, pittsburgh steelers, nfl schedule, steelers",73,True
+7,74,0.5067567567567568,23.946724,32.601276,8.654551,"target, walmart, best buy, kohl s, lululemon, macys, ulta, dollar general, kohls, victoria secret",74,True
+8,135,0.5037037037037037,28.991632,32.12753,3.1358976,"movies, roblox, fast food near me, gas station near me, food near me, movies near me, omegle, restaurants near me, pizza near me, pizza hut",135,True

@@ -1,0 +1,6 @@
+metric,value
+excess_kurtosis,3.886697154420733
+ks_statistic,0.1457471675477433
+ks_pvalue,0.0
+n_paa_coefficients,81312
+breakpoint_mode_used,empirical
