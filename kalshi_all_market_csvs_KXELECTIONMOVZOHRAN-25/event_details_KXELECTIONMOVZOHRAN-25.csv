@@ -1,0 +1,2 @@
+available_on_brokers,category,collateral_return_type,event_ticker,last_updated_ts,mutually_exclusive,series_ticker,settlement_sources,strike_period,sub_title,title
+True,Elections,MECNET,KXELECTIONMOVZOHRAN-25,0001-01-01T00:00:00Z,True,KXELECTIONMOVZOHRAN,"[{'name': 'Board of Elections in the City of New York', 'url': 'https://vote.nyc'}]",,In 2025,Margin of victory for Zohran Mamdani in the NYC Mayoral Election?

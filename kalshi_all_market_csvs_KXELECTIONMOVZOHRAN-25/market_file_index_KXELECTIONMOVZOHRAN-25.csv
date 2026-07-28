@@ -1,0 +1,11 @@
+ticker,csv_file,source,status,result,title
+KXELECTIONMOVZOHRAN-25-ZMAM-T24,market_KXELECTIONMOVZOHRAN-25-ZMAM-T24.csv,historical,finalized,no,Margin of victory for Zohran Mamdani in the Mayoral Election?
+KXELECTIONMOVZOHRAN-25-ZMAM-B7.5,market_KXELECTIONMOVZOHRAN-25-ZMAM-B7.5.csv,historical,finalized,no,Margin of victory for Zohran Mamdani in the Mayoral Election?
+KXELECTIONMOVZOHRAN-25-ZMAM-B22.5,market_KXELECTIONMOVZOHRAN-25-ZMAM-B22.5.csv,historical,finalized,no,Margin of victory for Zohran Mamdani in the Mayoral Election?
+KXELECTIONMOVZOHRAN-25-ZMAM-B19.5,market_KXELECTIONMOVZOHRAN-25-ZMAM-B19.5.csv,historical,finalized,no,Margin of victory for Zohran Mamdani in the Mayoral Election?
+KXELECTIONMOVZOHRAN-25-ZMAM-B16.5,market_KXELECTIONMOVZOHRAN-25-ZMAM-B16.5.csv,historical,finalized,no,Margin of victory for Zohran Mamdani in the Mayoral Election?
+KXELECTIONMOVZOHRAN-25-ZMAM-B13.5,market_KXELECTIONMOVZOHRAN-25-ZMAM-B13.5.csv,historical,finalized,no,Margin of victory for Zohran Mamdani in the Mayoral Election?
+KXELECTIONMOVZOHRAN-25-ZMAM-B10.5,market_KXELECTIONMOVZOHRAN-25-ZMAM-B10.5.csv,historical,finalized,yes,Margin of victory for Zohran Mamdani in the Mayoral Election?
+KXELECTIONMOVZOHRAN-25-ZMAM-T0,market_KXELECTIONMOVZOHRAN-25-ZMAM-T0.csv,historical,finalized,no,Margin of victory for Zohran Mamdani in the Mayoral Election?
+KXELECTIONMOVZOHRAN-25-ZMAM-B4.5,market_KXELECTIONMOVZOHRAN-25-ZMAM-B4.5.csv,historical,finalized,no,Margin of victory for Zohran Mamdani in the Mayoral Election?
+KXELECTIONMOVZOHRAN-25-ZMAM-B1.5,market_KXELECTIONMOVZOHRAN-25-ZMAM-B1.5.csv,historical,finalized,no,Margin of victory for Zohran Mamdani in the Mayoral Election?
